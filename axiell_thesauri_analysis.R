@@ -48,3 +48,12 @@ similar_concepts <- find_similar_concepts(concepts, threshold = 0.75)
 
 # Print the result
 print(similar_concepts)
+
+# Add a 'unique' variable to the original data frame
+original_data <- data.frame(concept = concepts, stringsAsFactors = FALSE)
+
+# Identify unique concepts and add a 'unique' variable
+original_data$unique <- !original_data$concept %in% unique(c(similar_concepts$concept1, similar_concepts$concept2))
+
+# Print the updated data frame
+print(original_data)
