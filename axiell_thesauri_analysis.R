@@ -6,6 +6,7 @@ library(dplyr)
 library(data.table)
 library(foreach)
 library(doParallel)
+library(progress)
 
 setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri")
 
@@ -20,6 +21,9 @@ concepts <- x$term
 find_similar_concepts_subset <- function(subset_concepts, all_concepts, threshold = 0.75) {
   # Initialize an empty data frame to store results
   similar_concepts_df <- data.frame(concept1 = character(0), concept2 = character(0), similarity = numeric(0), stringsAsFactors = FALSE)
+  
+  # Create a progress bar
+  pb <- txtProgressBar(min = 0, max = length(subset_concepts), style = 3)
   
   # Iterate through each pair of concepts in the subset
   for (i in 1:length(subset_concepts)) {
@@ -43,7 +47,13 @@ find_similar_concepts_subset <- function(subset_concepts, all_concepts, threshol
         similar_concepts_df <- list(similar_concepts_df, data.frame(concept1 = concept1, concept2 = concept2, similarity = avg_similarity))
       }
     }
+    
+    # Update the progress bar
+    setTxtProgressBar(pb, i)
   }
+  
+  # Close the progress bar
+  close(pb)
   
   return(similar_concepts_df)
 }
