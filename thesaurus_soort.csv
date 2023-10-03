@@ -1,0 +1,356 @@
+term.soort,N
+geografisch trefwoord,47136
+onderwerp,28193
+plaats,11483
+classificatie,4085
+objectnaam,3968
+geografisch trefwoord#plaats,2871
+geografisch trefwoord#plaats#onderwerp,1234
+geografisch trefwoord#onderwerp,905
+gemeente,618
+plaats#geografisch trefwoord,598
+techniek,455
+geografisch trefwoord#plaats#gemeente#onderwerp,436
+rol,382
+onderwerp#objectnaam,378
+trefwoord,351
+materiaal,318
+objectcategorie,295
+onderwerp#geografisch trefwoord,241
+geografisch trefwoord#gemeente#plaats#onderwerp,191
+"",186
+plaats#geografisch trefwoord#onderwerp,161
+materiaalsoort,132
+objectnaam#onderwerp,131
+geografisch trefwoord#plaats#gemeente,113
+geografisch trefwoord#gemeente#plaats,103
+land,94
+trefwoord#ingredient,89
+gebruik,80
+geografisch trefwoord#land,75
+klas / afdeling,67
+classificatie#UDC,63
+geografisch trefwoord#gemeente,55
+collectie,53
+onderwerp#materiaalsoort,51
+taal,49
+plaats#onderwerp,48
+onderwerp#onderzoek/gebruik methode,43
+onderwerp#materiaal,40
+materiaalsoort#onderwerp,38
+geografisch trefwoord#onderwerp#plaats,37
+onderwerp#materiaal#objectnaam,35
+onderwerp#plaats,34
+geografisch trefwoord#gemeente#onderwerp,33
+objectnaam#materiaal,28
+onderzoek/gebruik methode,28
+classificatie#RACM-1,25
+materiaal#objectnaam,24
+geografisch trefwoord#objectnaam,22
+onderwerp#objectnaam#materiaal,22
+plaats#gemeente,22
+plaats#onderwerp#geografisch trefwoord,20
+gemeente#geografisch trefwoord#onderwerp,18
+gemeente#geografisch trefwoord,18
+objectnaam#geografisch trefwoord,17
+inscriptie positie,17
+ingredient,16
+archief event,16
+plaats#geografisch trefwoord#gemeente,15
+provincie,15
+periode,15
+geografisch trefwoord#land#plaats,14
+motief,14
+geografisch trefwoord#gemeente#onderwerp#plaats,13
+onderwerp#rol,13
+onderwerp#geografisch trefwoord#plaats,12
+onderwerp#objectnaam#geografisch trefwoord,10
+geografisch trefwoord#onderwerp#objectnaam,10
+onderwerp#klas / afdeling,10
+onderwerp#techniek,10
+materiaal#onderwerp,10
+gemeente#geografisch trefwoord#plaats#onderwerp,9
+passage,9
+geografisch trefwoord#provincie,8
+provincie#geografisch trefwoord,8
+onderwerp#soort opschrift,8
+land#geografisch trefwoord,8
+objectnaam#materiaal#onderwerp,8
+doelgroep,8
+techniek#trefwoord,8
+trefwoord#onderwerp,8
+beroep,8
+onderwerp#collectie,7
+techniek#onderwerp,7
+gemeente#geografisch trefwoord#plaats,7
+uitleencategorie,7
+materiaalsoort#onderwerp#bibliografische vorm,7
+onderwerp#eigennaam,6
+uitleencategorie#materiaalsoort#onderwerp,6
+geografisch trefwoord#plaats#onderwerp#gemeente,6
+onderwerp#trefwoord,6
+gemeente#plaats#geografisch trefwoord,6
+gemeente#plaats,6
+materiaal#objectnaam#onderwerp,6
+taal#onderwerp,6
+afmeting,6
+verwervingsmethode,6
+geografisch trefwoord#provincie#plaats,5
+geografisch trefwoord#plaats#objectnaam,5
+plaats#gemeente#geografisch trefwoord#onderwerp,5
+project,5
+inschrijvingsproces,5
+onderwerp#trefwoord#ingredient,4
+rol#onderwerp,4
+geografisch trefwoord#plaats#land,4
+onderwerp#periode,4
+plaats#objectnaam,4
+uitleencategorie#materiaalsoort,4
+classificatie#geografisch trefwoord,4
+objectnaam#techniek,4
+objectnaam#plaats,4
+classificatie#onderwerp,4
+bibliografische vorm,4
+niveau,4
+uitleencategorie#materiaalsoort#onderwerp#objectnaam#doelgroep#verwervingsmethode,3
+onderwerp#beroep#rol,3
+onderwerp#objectcategorie,3
+plaats#onderwerp#objectnaam,3
+onderwerp#beroep,3
+geografisch trefwoord#plaats#onderwerp#objectnaam,3
+onderwerp#objectnaam#materiaal#plaats,3
+collectie#onderwerp,3
+collectie#uitleencategorie,3
+plaats#gemeente#geografisch trefwoord,3
+techniek#objectnaam,3
+land#geografisch trefwoord#plaats,3
+land#plaats,3
+materiaalsoort#uitleencategorie,3
+soort opschrift,3
+eenheid,3
+objectnaam#onderwerp#materiaal,3
+onderwerp#materiaalsoort#rol,3
+techniek#trefwoord#ingredient,3
+inschrijvingsproces#archief event,3
+geografisch trefwoord#provincie#gemeente#plaats,2
+rol#onderwerp#beroep,2
+onderwerp#objectcategorie#materiaal#objectnaam,2
+geografisch trefwoord#plaats#land#onderwerp,2
+onderwerp#motief,2
+geografisch trefwoord#onderwerp#objectnaam#plaats,2
+onderwerp#land,2
+geografisch trefwoord#onderwerp#materiaal#objectnaam#plaats,2
+onderwerp#doelgroep,2
+onderwerp#materiaal#objectnaam#techniek,2
+onderwerp#techniek#trefwoord#objectnaam,2
+onderwerp#classificatie,2
+onderwerp#objectnaam#techniek,2
+onderwerp#verwervingsmethode,2
+geografisch trefwoord#trefwoord,2
+geografisch trefwoord#land#onderwerp,2
+geografisch trefwoord#objectnaam#onderwerp,2
+geografisch trefwoord#plaats#gemeente#onderwerp#materiaalsoort,2
+geografisch trefwoord#eigennaam,2
+uitleencategorie#onderwerp#objectnaam,2
+taal#onderwerp#geografisch trefwoord,2
+onderwerp#ingredient,2
+gemeente#geografisch trefwoord#onderwerp#plaats,2
+plaats#geografisch trefwoord#gemeente#onderwerp,2
+gemeente#plaats#geografisch trefwoord#onderwerp,2
+trefwoord#geografisch trefwoord,2
+taal#onderwerp#nationaliteit#niveau,2
+taal#geografisch trefwoord,2
+taal#land#nationaliteit#niveau#geografisch trefwoord#onderwerp,2
+#plaats,2
+objectcategorie#objectnaam#onderwerp,2
+objectcategorie#onderwerp,2
+objectnaam#objectcategorie,2
+onderwerp#uitleencategorie,2
+filiaal,2
+gemeente#onderwerp,2
+trefwoord#techniek#ingredient#onderwerp,2
+trefwoord#techniek,2
+trefwoord#techniek#ingredient,2
+toestand,2
+school / stijl,2
+nationaliteit,2
+geografisch trefwoord#provincie#plaats#gemeente,1
+geografisch trefwoord#provincie#plaats#gemeente#land,1
+uitleencategorie#materiaalsoort#onderwerp#klas / afdeling,1
+geografisch trefwoord#provincie#gemeente#plaats#land,1
+geografisch trefwoord#gemeente#plaats#filiaal,1
+uitleencategorie#onderwerp,1
+onderwerp#rol#klas / afdeling#inschrijvingsproces,1
+geografisch trefwoord#onderwerp#doelgroep,1
+onderwerp#bibliografische vorm,1
+geografisch trefwoord#gemeente#plaats#materiaal#objectnaam#onderwerp,1
+materiaalsoort#collectie#onderwerp#rol#uitleencategorie,1
+geografisch trefwoord#onderwerp#gemeente,1
+geografisch trefwoord#gemeente#plaats#filiaal#onderwerp,1
+geografisch trefwoord#onderwerp#periode,1
+onderwerp#materiaal#objectnaam#klas / afdeling,1
+geografisch trefwoord#onderwerp#materiaal#objectnaam,1
+onderwerp#materiaal#objectcategorie#objectnaam,1
+plaats#taal#onderwerp#objectnaam,1
+onderwerp#objectcategorie#materiaal,1
+onderwerp#vondstmethode#onderzoek/gebruik methode,1
+onderwerp#geografisch trefwoord#collectie,1
+onderwerp#objectcategorie#materiaal#objectnaam#geografisch trefwoord#plaats#eigennaam,1
+geografisch trefwoord#land#gemeente,1
+onderwerp#materiaal#trefwoord,1
+onderwerp#materiaal#objectcategorie#objectnaam#klas / afdeling,1
+materiaalsoort#onderwerp#plaats,1
+onderwerp#objectnaam#rol#soort opschrift,1
+geografisch trefwoord#plaats#onderwerp#objectnaam#materiaal,1
+onderwerp#soort opschrift#objectnaam,1
+onderwerp#objectnaam#collectie,1
+onderwerp#materiaal#objectnaam#geografisch trefwoord,1
+geografisch trefwoord#plaats#provincie,1
+geografisch trefwoord#plaats#gemeente#onderwerp#eigennaam,1
+geografisch trefwoord#plaats#techniek,1
+geografisch trefwoord#techniek,1
+plaats#techniek#onderwerp,1
+geografisch trefwoord#plaats#gemeente#onderwerp#objectnaam#materiaal,1
+geografisch trefwoord#onderwerp#land,1
+geografisch trefwoord#plaats##objectnaam,1
+plaats#onderwerp#materiaal#geografisch trefwoord,1
+onderwerp#archief event,1
+onderwerp#gebeurtenis,1
+geografisch trefwoord#onderwerp#materiaal#objectnaam#onderzoek/gebruik methode#plaats,1
+geografisch trefwoord#plaats#gemeente#trefwoord,1
+geografisch trefwoord#plaats#objectnaam#onderwerp,1
+onderwerp#objectnaam#geografisch trefwoord#plaats,1
+geografisch trefwoord#plaats#onderwerp#materiaal#objectnaam,1
+onderwerp#objectnaam#motief,1
+onderwerp#techniek#objectnaam,1
+geografisch trefwoord#plaats#onderwerp#objectnaam#gemeente,1
+#onderwerp#objectnaam,1
+geografisch trefwoord#filiaal#gemeente#plaats,1
+geografisch trefwoord#land#onderwerp#plaats,1
+geografisch trefwoord#objectnaam#plaats,1
+onderwerp#afmeting#objectnaam,1
+geografisch trefwoord#objectnaam#materiaal#plaats,1
+geografisch trefwoord#materiaal,1
+onderwerp#objectnaam#plaats,1
+onderwerp#objectnaam#objectcategorie,1
+onderwerp#collectie#objectnaam#objectcategorie,1
+geografisch trefwoord#regio#plaats,1
+onderwerp#materiaal#objectnaam#geografisch trefwoord#onderzoek/gebruik methode,1
+materiaalsoort#onderwerp#objectnaam,1
+onderwerp#trefwoord#geografisch trefwoord,1
+onderwerp#materiaal#plaats,1
+geografisch trefwoord#plaats#onderwerp#materiaal,1
+onderwerp#plaats#objectnaam,1
+geografisch trefwoord#land##gemeente,1
+techniek#onderwerp#trefwoord,1
+geografisch trefwoord#objectnaam#plaats#onderwerp,1
+onderwerp#trefwoord#RACM-1,1
+geografisch trefwoord#plaats#onderwerp#gemeente#land,1
+onderwerp#classificatie#onderzoek/gebruik methode,1
+geografisch trefwoord#onderwerp#redactionele vorm,1
+materiaal#plaats,1
+materiaalsoort#onderwerp#objectnaam#uitleencategorie,1
+collectie#classificatie,1
+onderwerp#collectie#materiaal#objectnaam,1
+geografisch trefwoord#onderwerp#collectie#plaats,1
+techniek#onderwerp#objectnaam,1
+onderwerp#objectnaam#materiaal#objectcategorie,1
+eigennaam#geografisch trefwoord#onderwerp,1
+land#geografisch trefwoord#plaats#onderwerp#materiaalsoort,1
+geografisch trefwoord#land#materiaalsoort,1
+plaats#materiaal#objectnaam#geografisch trefwoord#onderwerp,1
+gemeente#plaats#geografisch trefwoord#materiaal#objectnaam#onderwerp,1
+plaats#objectnaam#geografisch trefwoord,1
+plaats#taal,1
+techniek#objectnaam#trefwoord,1
+techniek#onderwerp#objectnaam#uitleencategorie,1
+techniek#materiaal#objectnaam#onderwerp,1
+techniek#rol#objectnaam#onderwerp,1
+geografisch trefwoord#onderwerp#filiaal,1
+onderwerp#geografisch trefwoord#onderzoek/gebruik methode,1
+collectie#techniek,1
+land#plaats#geografisch trefwoord,1
+onderwerp#verwervingsmethode#archief event,1
+classificatie#land#verwervingsmethode,1
+taal#onderwerp#nationaliteit,1
+filiaal#plaats,1
+#onderwerp#geografisch trefwoord,1
+collectie#objectnaam#uitleencategorie#onderwerp,1
+onderwerp#filiaal,1
+provincie#geografisch trefwoord#plaats,1
+uitleencategorie#objectnaam#onderwerp,1
+materiaalsoort#onderwerp#techniek,1
+rechten#onderwerp,1
+objectnaam#rechten,1
+periode#onderwerp,1
+objectcategorie#materiaal#RACM-1,1
+objectcategorie#objectnaam#materiaal,1
+afmeting#onderwerp,1
+materiaal#objectnaam#techniek,1
+objectnaam#onderwerp#geografisch trefwoord,1
+objectnaam#trefwoord,1
+objectnaam#geografisch trefwoord#onderwerp#plaats,1
+objectnaam#materiaal#plaats,1
+objectnaam#rol,1
+objectcategorie#uitleencategorie,1
+objectcategorie#objectnaam,1
+filiaal#plaats#geografisch trefwoord#gemeente,1
+land#verwervingsmethode#objectnaam#doelgroep,1
+land#doelgroep,1
+doelgroep#rol,1
+rol#objectcategorie,1
+materiaalsoort#onderwerp#bibliografische vorm#collectie,1
+onderwerp#materiaalsoort#klas / afdeling,1
+materiaalsoort#classificatie#uitleencategorie,1
+materiaalsoort#onderwerp#passage,1
+onderwerp#uitleencategorie#objectnaam,1
+materiaalsoort#onderwerp#geografisch trefwoord,1
+materiaalsoort#onderwerp#rol,1
+materiaalsoort#classificatie,1
+geografisch trefwoord#onderwerp#plaats#objectnaam,1
+materiaalsoort#onderwerp#uitleencategorie#objectnaam,1
+onderwerp#onderzoek/gebruik methode#objectnaam,1
+onderwerp#geografisch trefwoord#plaats#gemeente,1
+geografisch trefwoord#plaats#provincie#gemeente,1
+rol#materiaal#materiaalsoort,1
+geografisch trefwoord#inschrijvingsproces,1
+rol#techniek,1
+materiaalsoort#geografisch trefwoord,1
+rol#onderwerp#onderzoek/gebruik methode,1
+onderwerp#plaats#geografisch trefwoord,1
+classificatie#onderwerp#RACM-1,1
+#geografisch trefwoord,1
+onderwerp#taal,1
+onderwerp##plaats#geografisch trefwoord,1
+filiaal#geografisch trefwoord#gemeente#plaats,1
+techniek#onderwerp#materiaal#objectnaam,1
+onderzoek/gebruik methode#onderwerp,1
+objectnaam#collectie,1
+dier,1
+onderwerp#techniek#materiaal#objectnaam,1
+onderwerp#inschrijvingsproces#archief event,1
+materiaalsoort#uitleencategorie#classificatie,1
+materiaalsoort#trefwoord,1
+materiaalsoort#passage#onderwerp,1
+materiaalsoort#passage,1
+trefwoord#ingredient#plaats,1
+trefwoord#ingredient#project,1
+onderwerp#techniek#trefwoord,1
+trefwoord#plaats,1
+project#passage#trefwoord,1
+klas / afdeling#onderwerp,1
+uitleencategorie#objectnaam,1
+uitleencategorie#objectnaam#techniek,1
+soort opschrift#onderwerp,1
+beroep#onderwerp,1
+#geografisch trefwoord#regio#plaats,1
+periode#plaats,1
+trefwoord#objectnaam,1
+onderwerp#inschrijvingsproces,1
+onderwerp#gemeente,1
+soort opschrift#inscriptie positie,1
+regio#plaats#geografisch trefwoord,1
+associatie,1
+rechten,1
+gebruik#onderwerp,1
+provincie#geografisch trefwoord#onderwerp,1

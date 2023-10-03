@@ -1,0 +1,333 @@
+Term in CSV,Other Term in CSV,Similarity Score
+Nieuwbouw,Natuurbouw,0.8333384091932631
+Romaanse bouwkunst,Landelijke bouwkunst,0.8131612414564238
+Romaanse bouwkunst,Islamitische bouwkunst,0.9082627831034868
+Romaanse bouwkunst,Javaanse bouwkunst,0.8046103718303685
+Romaanse bouwkunst,Victoriaanse bouwkunst,0.8602995501812262
+Romaanse bouwkunst,Romeinse bouwkunst,0.8801182456415936
+Romaanse bouwkunst,Byzantijnse bouwkunst,0.8151439050885816
+Romaanse bouwkunst,Latijnse bouwkunst,0.8007956020427024
+Romaanse bouwkunst,Griekse bouwkunst,0.8186413630913147
+Ecologisch bouwen,Ondergronds bouwen,0.8208210920885123
+Betonbouw,Bebouwing,0.8321409961964504
+Betonbouw,Boerderijbouw,0.8201347416270602
+Antroposofische bouwkunst,Javaanse bouwkunst,0.8179188991686159
+Antroposofische bouwkunst,Romeinse bouwkunst,0.8004179298487364
+Antroposofische bouwkunst,Neoromaanse bouwkunst,0.8340926758425897
+Antroposofische bouwkunst,Latijnse bouwkunst,0.8304300599085799
+Antroposofische bouwkunst,Griekse bouwkunst,0.8025151313686981
+Antroposofische bouwkunst,Egyptische bouwkunst,0.9007923267887418
+Antroposofische bouwkunst,Naoorlogse bouwkunst,0.8195481504925104
+Antroposofische bouwkunst,religieuze bouwkunst,0.8022628229360104
+Organische bouwstijl,Karolingische bouwstijl,0.887529290656789
+Organische bouwstijl,Ottoonse bouwstijl,0.923890491199422
+Gebouwenregistratie,Gebouwentypologie,0.8588374478202611
+Landelijke bouwkunst,Romaanse bouwkunst,0.8131612414564238
+Landelijke bouwkunst,Kerkelijke bouwkunst,0.8128812472221807
+Landelijke bouwkunst,Islamitische bouwkunst,0.8411058186463268
+Landelijke bouwkunst,Moderne bouwkunst,0.8456207205395828
+Landelijke bouwkunst,Latijnse bouwkunst,0.8236137046343636
+Staalbouw,Stedebouw,0.8242129501322347
+Archiefgebouw,Aanbouw,0.8025589905099144
+Departementsgebouw,Dakopbouw,0.802638497269805
+Vakwerkbouw,Bosgebouw,0.8029984582953601
+Klassieke bouwkunst,Kerkelijke bouwkunst,0.8830842826826384
+waaggebouwen,wetenschapsgebouwen,0.8311099102858184
+Kerkelijke bouwkunst,Landelijke bouwkunst,0.8128812472221807
+Kerkelijke bouwkunst,Klassieke bouwkunst,0.8830842826826384
+Kerkelijke bouwkunst,Militaire bouwkunst,0.8260797488855721
+Kerkelijke bouwkunst,Moderne bouwkunst,0.871314007368953
+Stedebouw,Staalbouw,0.8242129501322347
+Stadsbouwmeester,Statengebouw,0.8240507936054176
+Stadsbouwmeester,Steenbouw,0.8638419820115778
+Spoorweggebouw,Stedenbouw,0.8495518484877727
+Bebouwing,Betonbouw,0.8321409961964504
+Bebouwing,Bergbouw,0.8023226835910094
+Cisterciënzer bouwkunst,Premonstratenzer bouwkunst,0.8161061263113267
+Kerkenbouw,Kerkbouw,0.8563245030720805
+Gebouwde omgeving,gebouwde omgeving,0.8014355239615668
+Beursgebouw,Bosgebouw,0.8180266584970901
+Dijkbouw,Bosbouw,0.8023631859975913
+Dijkbouw,Douanegebouw,0.8244492335573708
+Dijkbouw,Revolutiebouw,0.8073298584515187
+Karolingische bouwstijl,Organische bouwstijl,0.887529290656789
+Karolingische bouwstijl,Ottoonse bouwstijl,0.8135588340278825
+Militaire bouwkunst,Kerkelijke bouwkunst,0.8260797488855721
+Militaire bouwkunst,Moderne bouwkunst,0.8178743653182844
+Militaire bouwkunst,Egyptische bouwkunst,0.8303166581433423
+Kerkbouw,Kerkenbouw,0.8563245030720805
+Bergbouw,Bebouwing,0.8023226835910094
+Gebouw,Gemeenschapsgebouw,0.8595581113192271
+Gebouw,Bosgebouw,0.8265364696024196
+Gebouw,Gebouwontwerp,0.8061900416731483
+Naoorlogse woningbouw,Sociale woningbouw,0.8029473416137982
+Naoorlogse woningbouw,experimentele woningbouw,0.818145041793032
+Premonstratenzer bouwkunst,Cisterciënzer bouwkunst,0.8161061263113267
+Premonstratenzer bouwkunst,Benedictijner bouwkunst,0.813058816832107
+Nationaal-Socialistische bouwkunst,Islamitische bouwkunst,0.8032571060709267
+Nationaal-Socialistische bouwkunst,Romeinse bouwkunst,0.8148613145880635
+Nationaal-Socialistische bouwkunst,Neoromaanse bouwkunst,0.8164562417446972
+Nationaal-Socialistische bouwkunst,Latijnse bouwkunst,0.8592589876770416
+Nationaal-Socialistische bouwkunst,Egyptische bouwkunst,0.8304151421820735
+Bibliotheekbouw,Boerderijbouw,0.8217681641713451
+Bosbouw,Dijkbouw,0.8023631859975913
+Skeletbouw,Scholenbouw,0.8008421457726843
+Skeletbouw,Statengebouw,0.8577939462810154
+Skeletbouw,Thesaurusbouw,0.8013660916749731
+Ottoonse bouwstijl,Organische bouwstijl,0.923890491199422
+Ottoonse bouwstijl,Karolingische bouwstijl,0.8135588340278825
+Benedictijner bouwkunst,Premonstratenzer bouwkunst,0.813058816832107
+Gemeenschapsgebouw,Gebouw,0.8595581113192271
+Gemeenschapsgebouw,Kloosterbouw,0.8057742887964185
+Kloosterbouw,Gemeenschapsgebouw,0.8057742887964185
+Scholenbouw,Skeletbouw,0.8008421457726843
+Scholenbouw,Statengebouw,0.822361236632645
+Landbouwwerktuig,Landbouwvoertuig,0.8552637297389557
+Landbouwcooperatie,Landbouworganisatie,0.8550242764840266
+Terrasbouw,Laagbouw,0.8107867033277298
+Terrasbouw,Thesaurusbouw,0.8538626109716037
+Terrasbouw,Tunnelbouw,0.8382860949514261
+Gebouwentypologie,Gebouwenregistratie,0.8588374478202611
+Openbaar gebouw,Opgraving gebouw,0.8281568220323103
+Islamitische bouwkunst,Romaanse bouwkunst,0.9082627831034868
+Islamitische bouwkunst,Landelijke bouwkunst,0.8411058186463268
+Islamitische bouwkunst,Nationaal-Socialistische bouwkunst,0.8032571060709267
+Islamitische bouwkunst,Victoriaanse bouwkunst,0.8644238745728877
+Islamitische bouwkunst,Romeinse bouwkunst,0.861635933514081
+Islamitische bouwkunst,Neoromaanse bouwkunst,0.8347724718019446
+Islamitische bouwkunst,Latijnse bouwkunst,0.8360043400972109
+Islamitische bouwkunst,Griekse bouwkunst,0.8231840669749466
+Islamitische bouwkunst,Egyptische bouwkunst,0.8197477960362684
+Javaanse bouwkunst,Romaanse bouwkunst,0.8046103718303685
+Javaanse bouwkunst,Antroposofische bouwkunst,0.8179188991686159
+Javaanse bouwkunst,Victoriaanse bouwkunst,0.8214091183481691
+Javaanse bouwkunst,Romeinse bouwkunst,0.8391240628014573
+Javaanse bouwkunst,Neoromaanse bouwkunst,0.8079059414895747
+Javaanse bouwkunst,Byzantijnse bouwkunst,0.8669657815531815
+Javaanse bouwkunst,Latijnse bouwkunst,0.8138630306508692
+Javaanse bouwkunst,Griekse bouwkunst,0.8541006083349942
+Javaanse bouwkunst,Egyptische bouwkunst,0.8335365802161082
+Javaanse bouwkunst,Naoorlogse bouwkunst,0.8405169802610287
+Javaanse bouwkunst,religieuze bouwkunst,0.8260454938621606
+Landbouworganisatie,Landbouwcooperatie,0.8550242764840266
+Ondergronds bouwen,Ecologisch bouwen,0.8208210920885123
+Aanbouw,Archiefgebouw,0.8025589905099144
+Boerderijbouw,Betonbouw,0.8201347416270602
+Boerderijbouw,Bibliotheekbouw,0.8217681641713451
+Boerderijbouw,Bosgebouw,0.8114957221867638
+Victoriaanse bouwkunst,Romaanse bouwkunst,0.8602995501812262
+Victoriaanse bouwkunst,Islamitische bouwkunst,0.8644238745728877
+Victoriaanse bouwkunst,Javaanse bouwkunst,0.8214091183481691
+Victoriaanse bouwkunst,Romeinse bouwkunst,0.8670611787476239
+Victoriaanse bouwkunst,Neoromaanse bouwkunst,0.8560501654330828
+Victoriaanse bouwkunst,Byzantijnse bouwkunst,0.8098442870099307
+Victoriaanse bouwkunst,Latijnse bouwkunst,0.8251397889956397
+Victoriaanse bouwkunst,Griekse bouwkunst,0.8564805930401086
+Victoriaanse bouwkunst,Naoorlogse bouwkunst,0.8435396411314449
+Catalogusbouw,Duanegebouw,0.8159962707019225
+Moderne bouwkunst,Landelijke bouwkunst,0.8456207205395828
+Moderne bouwkunst,Kerkelijke bouwkunst,0.871314007368953
+Moderne bouwkunst,Militaire bouwkunst,0.8178743653182844
+Moderne bouwkunst,Latijnse bouwkunst,0.8139314151791656
+Sociale woningbouw,Naoorlogse woningbouw,0.8029473416137982
+Statengebouw,Stadsbouwmeester,0.8240507936054176
+Statengebouw,Skeletbouw,0.8577939462810154
+Statengebouw,Scholenbouw,0.822361236632645
+Statengebouw,Steenbouw,0.81971946595648
+Romeinse bouwkunst,Romaanse bouwkunst,0.8801182456415936
+Romeinse bouwkunst,Antroposofische bouwkunst,0.8004179298487364
+Romeinse bouwkunst,Nationaal-Socialistische bouwkunst,0.8148613145880635
+Romeinse bouwkunst,Islamitische bouwkunst,0.861635933514081
+Romeinse bouwkunst,Javaanse bouwkunst,0.8391240628014573
+Romeinse bouwkunst,Victoriaanse bouwkunst,0.8670611787476239
+Romeinse bouwkunst,Neoromaanse bouwkunst,0.8313432998712675
+Romeinse bouwkunst,Byzantijnse bouwkunst,0.8256300971534675
+Romeinse bouwkunst,Latijnse bouwkunst,0.865072960299792
+Romeinse bouwkunst,Griekse bouwkunst,0.8473208918603418
+Romeinse bouwkunst,Egyptische bouwkunst,0.8553936976292379
+Romeinse bouwkunst,Naoorlogse bouwkunst,0.8593254570250793
+Romeinse bouwkunst,religieuze bouwkunst,0.8001480191340189
+Douanegebouw,Dijkbouw,0.8244492335573708
+Douanegebouw,Duanegebouw,0.8372234756696114
+Laagbouw,Terrasbouw,0.8107867033277298
+Laagbouw,Rijstbouw,0.8018483596340522
+Laagbouw,Thesaurusbouw,0.8383934755315167
+Neoromaanse bouwkunst,Antroposofische bouwkunst,0.8340926758425897
+Neoromaanse bouwkunst,Nationaal-Socialistische bouwkunst,0.8164562417446972
+Neoromaanse bouwkunst,Islamitische bouwkunst,0.8347724718019446
+Neoromaanse bouwkunst,Javaanse bouwkunst,0.8079059414895747
+Neoromaanse bouwkunst,Victoriaanse bouwkunst,0.8560501654330828
+Neoromaanse bouwkunst,Romeinse bouwkunst,0.8313432998712675
+Neoromaanse bouwkunst,Byzantijnse bouwkunst,0.8609453989775864
+Neoromaanse bouwkunst,Latijnse bouwkunst,0.8364433532110215
+Neoromaanse bouwkunst,Griekse bouwkunst,0.8586863938977812
+Neoromaanse bouwkunst,Egyptische bouwkunst,0.847467428846673
+Neoromaanse bouwkunst,Naoorlogse bouwkunst,0.8016229181734301
+Bosgebouw,Vakwerkbouw,0.8029984582953601
+Bosgebouw,Beursgebouw,0.8180266584970901
+Bosgebouw,Gebouw,0.8265364696024196
+Bosgebouw,Boerderijbouw,0.8114957221867638
+Openbare gebouwen,Kerkelijke gebouwen,0.8470328203587366
+Openbare gebouwen,Beschermende maatregelen aan gebouwen,0.8123544214455467
+Landbouwbeleid,Landbouwwetgeving,0.8196626112349235
+Byzantijnse bouwkunst,Romaanse bouwkunst,0.8151439050885816
+Byzantijnse bouwkunst,Javaanse bouwkunst,0.8669657815531815
+Byzantijnse bouwkunst,Victoriaanse bouwkunst,0.8098442870099307
+Byzantijnse bouwkunst,Romeinse bouwkunst,0.8256300971534675
+Byzantijnse bouwkunst,Neoromaanse bouwkunst,0.8609453989775864
+Byzantijnse bouwkunst,Latijnse bouwkunst,0.8492120472310101
+Byzantijnse bouwkunst,Griekse bouwkunst,0.883508004420687
+Dakopbouw,Departementsgebouw,0.802638497269805
+Landbouwgronden,Landbouwbedrijfsgebouwen,0.8055526360206392
+Landbouwwetgeving,Landbouwbeleid,0.8196626112349235
+religieuze gebouwen,agrarische gebouwen,0.8037424441788563
+religieuze gebouwen,religieuze gebouwen onderdelen,0.8502411619015275
+Steenbouw,Stadsbouwmeester,0.8638419820115778
+Steenbouw,Statengebouw,0.81971946595648
+Nieuwbouw,Natuurbouw,0.8333384091932631
+Stedenbouw,Spoorweggebouw,0.8495518484877727
+Rijstbouw,Laagbouw,0.8018483596340522
+Thesaurusbouw,Skeletbouw,0.8013660916749731
+Thesaurusbouw,Terrasbouw,0.8538626109716037
+Thesaurusbouw,Laagbouw,0.8383934755315167
+Thesaurusbouw,Tunnelbouw,0.8349735793887578
+Natuurbouw,Nieuwbouw,0.8333384091932631
+Natuurbouw,Nieuwbouw,0.8333384091932631
+Tunnelbouw,Terrasbouw,0.8382860949514261
+Tunnelbouw,Thesaurusbouw,0.8349735793887578
+kantoorgebouwen,transformatorgebouwen,0.8109295608000568
+kantoorgebouwen,wetenschapsgebouwen,0.8312477534470061
+Duanegebouw,Catalogusbouw,0.8159962707019225
+Duanegebouw,Douanegebouw,0.8372234756696114
+Latijnse bouwkunst,Romaanse bouwkunst,0.8007956020427024
+Latijnse bouwkunst,Antroposofische bouwkunst,0.8304300599085799
+Latijnse bouwkunst,Landelijke bouwkunst,0.8236137046343636
+Latijnse bouwkunst,Nationaal-Socialistische bouwkunst,0.8592589876770416
+Latijnse bouwkunst,Islamitische bouwkunst,0.8360043400972109
+Latijnse bouwkunst,Javaanse bouwkunst,0.8138630306508692
+Latijnse bouwkunst,Victoriaanse bouwkunst,0.8251397889956397
+Latijnse bouwkunst,Moderne bouwkunst,0.8139314151791656
+Latijnse bouwkunst,Romeinse bouwkunst,0.865072960299792
+Latijnse bouwkunst,Neoromaanse bouwkunst,0.8364433532110215
+Latijnse bouwkunst,Byzantijnse bouwkunst,0.8492120472310101
+Latijnse bouwkunst,Griekse bouwkunst,0.8565229979730946
+Latijnse bouwkunst,Egyptische bouwkunst,0.8561126678715014
+Latijnse bouwkunst,Naoorlogse bouwkunst,0.8387852859143038
+Latijnse bouwkunst,religieuze bouwkunst,0.874942181639255
+Griekse bouwkunst,Romaanse bouwkunst,0.8186413630913147
+Griekse bouwkunst,Antroposofische bouwkunst,0.8025151313686981
+Griekse bouwkunst,Islamitische bouwkunst,0.8231840669749466
+Griekse bouwkunst,Javaanse bouwkunst,0.8541006083349942
+Griekse bouwkunst,Victoriaanse bouwkunst,0.8564805930401086
+Griekse bouwkunst,Romeinse bouwkunst,0.8473208918603418
+Griekse bouwkunst,Neoromaanse bouwkunst,0.8586863938977812
+Griekse bouwkunst,Byzantijnse bouwkunst,0.883508004420687
+Griekse bouwkunst,Latijnse bouwkunst,0.8565229979730946
+Griekse bouwkunst,Egyptische bouwkunst,0.8090579136212281
+Griekse bouwkunst,Naoorlogse bouwkunst,0.836457340791787
+Griekse bouwkunst,religieuze bouwkunst,0.8070211751064766
+Egyptische bouwkunst,Antroposofische bouwkunst,0.9007923267887418
+Egyptische bouwkunst,Militaire bouwkunst,0.8303166581433423
+Egyptische bouwkunst,Nationaal-Socialistische bouwkunst,0.8304151421820735
+Egyptische bouwkunst,Islamitische bouwkunst,0.8197477960362684
+Egyptische bouwkunst,Javaanse bouwkunst,0.8335365802161082
+Egyptische bouwkunst,Romeinse bouwkunst,0.8553936976292379
+Egyptische bouwkunst,Neoromaanse bouwkunst,0.847467428846673
+Egyptische bouwkunst,Latijnse bouwkunst,0.8561126678715014
+Egyptische bouwkunst,Griekse bouwkunst,0.8090579136212281
+Egyptische bouwkunst,Naoorlogse bouwkunst,0.8405222969074347
+Gebouwontwerp,Gebouw,0.8061900416731483
+Landbouwbedrijfsgebouwen,Landbouwgronden,0.8055526360206392
+Kerkelijke gebouwen,Openbare gebouwen,0.8470328203587366
+Kerkelijke gebouwen,agrarische gebouwen,0.8305145716408365
+militaire gebouwen,agrarische gebouwen,0.8217002660827974
+Opgraving gebouw,Openbaar gebouw,0.8281568220323103
+Naoorlogse bouwkunst,Antroposofische bouwkunst,0.8195481504925104
+Naoorlogse bouwkunst,Javaanse bouwkunst,0.8405169802610287
+Naoorlogse bouwkunst,Victoriaanse bouwkunst,0.8435396411314449
+Naoorlogse bouwkunst,Romeinse bouwkunst,0.8593254570250793
+Naoorlogse bouwkunst,Neoromaanse bouwkunst,0.8016229181734301
+Naoorlogse bouwkunst,Latijnse bouwkunst,0.8387852859143038
+Naoorlogse bouwkunst,Griekse bouwkunst,0.836457340791787
+Naoorlogse bouwkunst,Egyptische bouwkunst,0.8405222969074347
+Landbouwvoertuig,Landbouwwerktuig,0.8552637297389557
+Museumgebouwen. Museuminrichting,Houtbouw. Timmermanswerk. Schrijnwerk,0.8079410436515402
+religieuze bouwkunst,Antroposofische bouwkunst,0.8022628229360104
+religieuze bouwkunst,Javaanse bouwkunst,0.8260454938621606
+religieuze bouwkunst,Romeinse bouwkunst,0.8001480191340189
+religieuze bouwkunst,Latijnse bouwkunst,0.874942181639255
+religieuze bouwkunst,Griekse bouwkunst,0.8070211751064766
+stedebouw (bouwkunst),woningbouw (bouwkunst),0.8506973448276371
+woningbouw (bouwkunst),stedebouw (bouwkunst),0.8506973448276371
+onderwijsgebouwen,verenigingsgebouwen,0.806672377086343
+Vernieling. Beschadiging. Reparatie van gebouwen,Versteviging van bouwwerken. Wijziging. Versterking,0.8642625613901462
+Vernieling. Beschadiging. Reparatie van gebouwen,Aarde. Kleiwaren. Aardewerk. Keramische bouwmaterialen,0.8035860078982136
+Versteviging van bouwwerken. Wijziging. Versterking,Vernieling. Beschadiging. Reparatie van gebouwen,0.8642625613901462
+Aarde. Kleiwaren. Aardewerk. Keramische bouwmaterialen,Vernieling. Beschadiging. Reparatie van gebouwen,0.8035860078982136
+Houtbouw. Timmermanswerk. Schrijnwerk,Museumgebouwen. Museuminrichting,0.8079410436515402
+Beschermende maatregelen aan gebouwen,Openbare gebouwen,0.8123544214455467
+museumgebouwen,bankgebouwen,0.827438927815609
+museumgebouwen,bankgebouwen,0.827438927815609
+bankgebouwen,museumgebouwen,0.827438927815609
+Revolutiebouw,Dijkbouw,0.8073298584515187
+gebouwde omgeving,Gebouwde omgeving,0.8014355239615668
+waterbouwkundige elementen,waterbouwkundige werken,0.8256656893773787
+agrarische gebouwen,religieuze gebouwen,0.8037424441788563
+agrarische gebouwen,Kerkelijke gebouwen,0.8305145716408365
+agrarische gebouwen,militaire gebouwen,0.8217002660827974
+agrarische gebouwen,militaire gebouwen,0.8217002660827974
+agrarische gebouwen,religieuze gebouwen,0.8037424441788563
+kwekerijgebouwen,compagniegebouwen,0.8235711486236525
+kwekerijgebouwen,speelgebouwen,0.8277718788690048
+horecagebouwen,scheepvaartgebouwen,0.828515477296227
+bankgebouwen,museumgebouwen,0.827438927815609
+compagniegebouwen,kwekerijgebouwen,0.8235711486236525
+compagniegebouwen,speelgebouwen,0.8314232412497291
+kantoorgebouwen,transformatorgebouwen,0.8109295608000568
+kantoorgebouwen,wetenschapsgebouwen,0.8312477534470061
+militaire gebouwen,agrarische gebouwen,0.8217002660827974
+werfgebouwen,landbouwvoertuigen,0.8064371898990398
+transformatorgebouwen,kantoorgebouwen,0.8109295608000568
+transformatorgebouwen,kantoorgebouwen,0.8109295608000568
+onderwijsgebouwen,verenigingsgebouwen,0.806672377086343
+circusgebouwen,transportgebouwen,0.8046399061142895
+speelgebouwen,kwekerijgebouwen,0.8277718788690048
+speelgebouwen,compagniegebouwen,0.8314232412497291
+speelgebouwen,sportverenigingsgebouwen,0.8054254668626164
+religieuze gebouwen,agrarische gebouwen,0.8037424441788563
+religieuze gebouwen,religieuze gebouwen onderdelen,0.8502411619015275
+sportgebouwen,sportverenigingsgebouwen,0.8300985988029613
+sportverenigingsgebouwen,speelgebouwen,0.8054254668626164
+sportverenigingsgebouwen,sportgebouwen,0.8300985988029613
+sportverenigingsgebouwen,havengebouwen,0.8027061957531447
+transportgebouwen,circusgebouwen,0.8046399061142895
+transportgebouwen,pompgebouwen,0.8068245256855322
+scheepvaartgebouwen,horecagebouwen,0.828515477296227
+scheepvaartgebouwen,havengebouwen,0.8055686093339224
+verenigingsgebouwen,onderwijsgebouwen,0.806672377086343
+verenigingsgebouwen,onderwijsgebouwen,0.806672377086343
+waterbouwkundige werken,waterbouwkundige elementen,0.8256656893773787
+waterbouwkundige werken,wegenbouwkundige werken,0.8864187660848728
+waterbouwkundige werken,waterbouwkundige werken onderdelen,0.8269182311234725
+wegenbouwkundige werken,waterbouwkundige werken,0.8864187660848728
+wegenbouwkundige werken,wegenbouwkundige werken onderdelen,0.8461752494545022
+wetenschapsgebouwen,waaggebouwen,0.8311099102858184
+wetenschapsgebouwen,kantoorgebouwen,0.8312477534470061
+wetenschapsgebouwen,kantoorgebouwen,0.8312477534470061
+pompgebouwen,transportgebouwen,0.8068245256855322
+pompgebouwen,poortgebouwen,0.804614065289964
+religieuze gebouwen onderdelen,religieuze gebouwen,0.8502411619015275
+religieuze gebouwen onderdelen,religieuze gebouwen,0.8502411619015275
+religieuze gebouwen onderdelen,waterbouwkundige werken onderdelen,0.8187503100517592
+waterbouwkundige werken onderdelen,waterbouwkundige werken,0.8269182311234725
+waterbouwkundige werken onderdelen,religieuze gebouwen onderdelen,0.8187503100517592
+waterbouwkundige werken onderdelen,wegenbouwkundige werken onderdelen,0.9404075561299445
+wegenbouwkundige werken onderdelen,wegenbouwkundige werken,0.8461752494545022
+wegenbouwkundige werken onderdelen,waterbouwkundige werken onderdelen,0.9404075561299445
+bosbouw gereedschap & uitrusting,mijnbouw en mineralenwining gereedschap & uitrusting,0.8999260548240858
+mijnbouw en mineralenwining gereedschap & uitrusting,bosbouw gereedschap & uitrusting,0.8999260548240858
+landbouwvoertuigen,werfgebouwen,0.8064371898990398
+poortgebouwen,pompgebouwen,0.804614065289964
+havengebouwen,sportverenigingsgebouwen,0.8027061957531447
+havengebouwen,scheepvaartgebouwen,0.8055686093339224
+experimentele woningbouw,Naoorlogse woningbouw,0.818145041793032

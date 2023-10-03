@@ -7,75 +7,99 @@ library(data.table)
 library(foreach)
 library(doParallel)
 library(progress)
+library(textTinyR)
 
 setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri")
 
 # Sample list of concepts
-thesaurus <- fread("Thesarus-export(B&AC).csv")
+thesaurus <- fread("Thesarus-export(B&AC).csv", encoding = "UTF-8")
 setDT(thesaurus)
-x <- thesaurus[sample(nrow(thesaurus), 10000), ]
-concepts <- x$term
+
+#x <- thesaurus[sample(nrow(thesaurus), 10000), ]
+#concepts <- x$term
+
+# split by soort.term
+
+geografisch <- thesaurus[term.soort == "geografisch trefwoord", .N, by = term][order(-N)]
+onderwerp <- thesaurus[term.soort == "onderwerp", .N, by = term][order(-N)]
+rechten <- thesaurus[term.soort == "rechten", .N, by = term][order(-N)]
+collectie <- thesaurus[term.soort == "collectie", .N, by = term][order(-N)]
 
 
-# Function to find similar concepts for a subset of concepts
-find_similar_concepts_subset <- function(subset_concepts, all_concepts, threshold = 0.75) {
-  # Initialize an empty data frame to store results
-  similar_concepts_df <- data.frame(concept1 = character(0), concept2 = character(0), similarity = numeric(0), stringsAsFactors = FALSE)
-  
-  # Create a progress bar
-  pb <- txtProgressBar(min = 0, max = length(subset_concepts), style = 3)
-  
-  # Iterate through each pair of concepts in the subset
-  for (i in 1:length(subset_concepts)) {
-    for (j in seq_along(all_concepts)) {
-      concept1 <- subset_concepts[i]
-      concept2 <- all_concepts[j]
-      
-      # Split compounded concepts into individual tokens
-      tokens1 <- unlist(strsplit(concept1, " "))
-      tokens2 <- unlist(strsplit(concept2, " "))
-      
-      # Calculate the Jaccard similarity between tokens
-      similarity <- stringdist::stringdistmatrix(tokens1, tokens2, method = "jaccard")
-      
-      # Calculate the average similarity between tokens
-      avg_similarity <- mean(similarity, na.rm = TRUE)  # Add na.rm = TRUE to handle missing values
-      
-      # If the average similarity is above the threshold and not NA, consider them similar
-      if (!is.na(avg_similarity) && avg_similarity >= threshold) {
-        # Accumulate the results in a list
-        similar_concepts_df <- list(similar_concepts_df, data.frame(concept1 = concept1, concept2 = concept2, similarity = avg_similarity))
-      }
-    }
-    
-    # Update the progress bar
-    setTxtProgressBar(pb, i)
-  }
-  
-  # Close the progress bar
-  close(pb)
-  
-  return(similar_concepts_df)
-}
+# overview of term.soort
 
-# Set up parallel processing
-num_cores <- 4  # You can adjust this to the number of cores you want to use
-cl <- makeCluster(num_cores)
-registerDoParallel(cl)
+soorten <- thesaurus[, ., list(term.soort, use_count)][order(-N)]
 
-# Find similar concepts with a threshold of 0.75 in parallel
-similar_concepts_list <- foreach(subset = concepts) %dopar% {
-  find_similar_concepts_subset(subset, concepts, threshold = 0.75)
-}
+fwrite(soorten, "thesaurus_soort.csv")
 
-# Stop the parallel cluster
-stopCluster(cl)
+summary_table <- thesaurus[, .(Total_use_count = sum(use_count)), by = .(term.soort)]
 
-# Combine the results from the list
-similar_concepts <- do.call(rbind, similar_concepts_list)
+fwrite(summary_table, "thesaurus_soort_usecount.csv")
 
-# Identify unique concepts and add a 'unique' variable
-thesaurus$unique <- !thesaurus$term %in% unique(c(similar_concepts$concept1, similar_concepts$concept2))
+# unique number of term.soort per term
 
-# Print the updated data frame
-head(thesaurus)
+termsoort <- thesaurus[, .(Distinct_Term_Soort_Count = uniqueN(term.soort),
+                  Concatenated_Term_Soort = paste(unique(term.soort), collapse = ", ")),
+              by = term]
+
+#overlap
+plaats <- thesaurus[term.soort == "geografisch trefwoord#plaats", .N, by = term][order(-N)]
+
+overlap <- plaats[term %in% geografisch$term, ]
+
+# use count zero
+
+zero_use <- thesaurus[use_count == 0, list(term, term.soort)]
+
+fwrite(zero_use, "thesaurus_zero_use.csv")
+
+# split ow
+
+terms_ow <- thesaurus[term.soort == "onderwerp" & use_count != 0, .N, list(term, use_count)]
+setDT(terms_ow)
+
+#duplicated
+
+dups_ow <- terms_ow[duplicated(term),]
+fwrite(dups_ow, "thesaurus_onderwerp_dubbel.csv")
+
+# compounded terms
+ow_compounded <- terms_ow[grepl(";", term), ]
+fwrite(ow_compounded, "thesaurus_onderwerp_gedeeld.csv")
+
+# find similar terms
+ow_matching <- terms_ow[!grepl(";", term) & !duplicated(term), ]
+fwrite(ow_matching, "thesaurus_onderwerp_matchingset.csv")
+
+terms <- gedeelde$term
+
+#sample
+
+textiel <- gedeelde[grepl("textiel", term),]
+pijpen <- gedeelde[grepl("pijpen", term),]
+bouw <- gedeelde[grepl("bouw", term),]
+
+# import matched terms for onderwerp using fuzzymatcher.py
+
+matches_ow <- fread("thesaurus_onderwerp_matches.csv", encoding = "UTF-8")
+
+concepts <- data.frame(c(matches_ow$`Term in CSV`, matches_ow$`Other Term in CSV`))
+colnames(concepts)
+setnames(concepts, "c.matches_ow..Term.in.CSV...matches_ow..Other.Term.in.CSV..", "concept")
+
+setDT(concepts)
+concepts <- concepts[!duplicated(concept),]
+
+# shoot them back into ow_matching to combine matched concepts with use count
+
+ow_matching <- fread("thesaurus_onderwerp_matchingset.csv")
+setDT(ow_matching)
+ow_matching[term %in% concepts$concept, potential_matched_concept := TRUE,]
+ow_matching[is.na(potential_matched_concept), potential_matched_concept := FALSE,]
+
+ow_matching <- ow_matching[order(-use_count),]
+ow_matching[potential_matched_concept == FALSE, .N] # 16899 potential uniqye concepts in thesaurus 
+
+
+fwrite(ow_matching, "thesaurus_onderwerp_matchingset.csv")
+
