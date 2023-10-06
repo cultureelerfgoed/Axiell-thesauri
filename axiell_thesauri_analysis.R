@@ -98,8 +98,11 @@ ow_matching[term %in% concepts$concept, potential_matched_concept := TRUE,]
 ow_matching[is.na(potential_matched_concept), potential_matched_concept := FALSE,]
 
 ow_matching <- ow_matching[order(-use_count),]
-ow_matching[potential_matched_concept == FALSE, .N] # 16899 potential uniqye concepts in thesaurus 
+ow_matching[potential_matched_concept == FALSE, .N] # 16899 potential unique concepts in thesaurus 
+ow_matching[potential_matched_concept == FALSE, sum(use_count),] # 314095 objects can be potentially enriched 
+ow_matching[potential_matched_concept == TRUE, sum(use_count),] # 292582 objects cannot be potentially enriched 
 
+314095 / (314095 + 292582) # 51% of B&AC Collection objects can be potentially enriched relatively easily
 
-fwrite(ow_matching, "thesaurus_onderwerp_matchingset.csv")
+fwrite(ow_matching, "thesaurus_onderwerp_matchingresult.csv")
 
