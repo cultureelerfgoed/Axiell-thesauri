@@ -11,7 +11,7 @@ library(textTinyR)
 
 setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri")
 
-# Sample list of concepts
+# load B&AC thesaurus
 thesaurus <- fread("Thesarus-export(B&AC).csv", encoding = "UTF-8")
 setDT(thesaurus)
 
@@ -60,6 +60,9 @@ setDT(terms_ow)
 
 #duplicated
 
+dups_th <- thesaurus[duplicated(term) & use_count != 0, .N, list(term,term.soort, use_count)]
+fwrite(dups_ow, "thesaurus_dubbel.csv")
+
 dups_ow <- terms_ow[duplicated(term),]
 fwrite(dups_ow, "thesaurus_onderwerp_dubbel.csv")
 
@@ -89,6 +92,22 @@ setnames(concepts, "c.matches_ow..Term.in.CSV...matches_ow..Other.Term.in.CSV.."
 
 setDT(concepts)
 concepts <- concepts[!duplicated(concept),]
+
+# compare fuzzy with levenshtein output with same threshold score of 85%
+
+fuzzy <- fread("thesaurus_onderwerp_matches.csv", encoding = "UTF-8")
+
+leven <- fread("thesaurus_onderwerp_matches_v2.csv", encoding = "UTF-8")
+
+setDT(fuzzy)
+
+`%!in%` = Negate(`%in%`)
+
+fuzzy[`Term in CSV` %!in% leven$`Term in CSV`, .N, by = `Term in CSV`] # 3279
+leven[`Term in CSV` %!in% fuzzy$`Term in CSV`, .N] # 0
+
+
+# = all terms we find with levenshtein are in fuzzy, but far from vice versa. 
 
 # shoot them back into ow_matching to combine matched concepts with use count
 

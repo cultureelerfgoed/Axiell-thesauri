@@ -6,7 +6,7 @@ from tqdm import tqdm
 csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matchingset.csv"
 
 # Define the path to the output CSV file for matches
-output_csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matches.csv"
+output_csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matches_run2.csv"
 
 # Threshold similarity score for matches (70%)
 threshold = 85
