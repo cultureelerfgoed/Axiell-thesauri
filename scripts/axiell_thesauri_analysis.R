@@ -9,7 +9,7 @@ library(doParallel)
 library(progress)
 library(textTinyR)
 
-setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri")
+setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\data")
 
 # load B&AC thesaurus
 thesaurus <- fread("Thesarus-export(B&AC).csv", encoding = "UTF-8")
@@ -18,17 +18,25 @@ setDT(thesaurus)
 #x <- thesaurus[sample(nrow(thesaurus), 10000), ]
 #concepts <- x$term
 
+# term status
+
+thesaurus[, .N, by = term.status]
+
+# use count zero
+
+zero_use <- thesaurus[use_count == 0, list(term, term.soort)]
+
 # split by soort.term
 
-geografisch <- thesaurus[term.soort == "geografisch trefwoord", .N, by = term][order(-N)]
-onderwerp <- thesaurus[term.soort == "onderwerp", .N, by = term][order(-N)]
-rechten <- thesaurus[term.soort == "rechten", .N, by = term][order(-N)]
-collectie <- thesaurus[term.soort == "collectie", .N, by = term][order(-N)]
-
+geografisch <- thesaurus[use_count != 0 & term.soort == "onderwerp#geografisch trefwoord"] 
+plaats <- thesaurus[use_count != 0 & term.soort == "plaats"]
+onderwerp <- thesaurus[use_count != 0 & term.soort == "onderwerp"] # grepl instead
+rechten <- thesaurus[use_count != 0 & term.soort == "rechten"]
+collectie <- thesaurus[use_count != 0 & term.soort == "collectie"]
 
 # overview of term.soort
 
-soorten <- thesaurus[, ., list(term.soort, use_count)][order(-N)]
+soorten <- thesaurus[,  .N, list(term.soort)][order(-N)]
 
 fwrite(soorten, "thesaurus_soort.csv")
 
@@ -47,10 +55,6 @@ plaats <- thesaurus[term.soort == "geografisch trefwoord#plaats", .N, by = term]
 
 overlap <- plaats[term %in% geografisch$term, ]
 
-# use count zero
-
-zero_use <- thesaurus[use_count == 0, list(term, term.soort)]
-
 fwrite(zero_use, "thesaurus_zero_use.csv")
 
 # split ow
@@ -60,14 +64,14 @@ setDT(terms_ow)
 
 #duplicated
 
-dups_th <- thesaurus[duplicated(term) & use_count != 0, .N, list(term,term.soort, use_count)]
+dups_th <- thesaurus[duplicated(term) & use_count != 0, .N, list(term,term.soort, use_count)] # get both and N use.count
 fwrite(dups_ow, "thesaurus_dubbel.csv")
 
 dups_ow <- terms_ow[duplicated(term),]
 fwrite(dups_ow, "thesaurus_onderwerp_dubbel.csv")
 
 # compounded terms
-ow_compounded <- terms_ow[grepl(";", term), ]
+ow_compounded <- thesaurus[grepl(";", term), ]
 fwrite(ow_compounded, "thesaurus_onderwerp_gedeeld.csv")
 
 # find similar terms
@@ -124,4 +128,9 @@ ow_matching[potential_matched_concept == TRUE, sum(use_count),] # 292582 objects
 314095 / (314095 + 292582) # 51% of B&AC Collection objects can be potentially enriched relatively easily
 
 fwrite(ow_matching, "thesaurus_onderwerp_matchingresult.csv")
+
+
+# unieke lijst exporteren met eventuele uri's en die checken (broken?) en inhoudelijk checken
+
+
 

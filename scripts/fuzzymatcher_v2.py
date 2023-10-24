@@ -3,13 +3,13 @@ from tqdm import tqdm
 import Levenshtein
 
 # Define the path to the CSV file
-csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matchingset.csv"
+csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\data\\thesaurus_onderwerp_matchingset.csv"
 
 # Define the path to the output CSV file for matches
-output_csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matches_v2.csv"
+output_csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\data\\thesaurus_onderwerp_matches_leven_80pc.csv"
 
 # Minimum percentage match for matches (85%)
-min_percentage_match = 85
+min_percentage_match = 80
 
 # List to store matching terms
 matching_terms = []
