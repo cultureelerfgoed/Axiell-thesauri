@@ -1,0 +1,942 @@
+thesau_%0,term,term.soort,term.status,use_count,narrower_term,broader_term,related_term,equivalent_term,invoer.naam,invoer.bron,invoer.datum,RNA_identifier,bijzonderheden,wijziging.naam,wijziging.datum,wijziging.bron,dubbel
+24399,"potlood, pen en inkt in rood en aquarel; papier op linnen",techniek,descriptor,1,"","","","",Upgrade 2.1.2,"",2004-10-20,"","","","","",FALSE
+24400,pen en aquarel; papier op linnen,techniek,descriptor,3,"","","","",Upgrade 2.1.2,"",2004-10-20,"","","","","",FALSE
+24402,potlood en pen in zwart; calque,techniek,descriptor,1,"","","","",Upgrade 2.1.2,"",2004-10-20,"","","","","",FALSE
+24403,pen en aquarel; op linnen,techniek,descriptor,1,"","","","",Upgrade 2.1.2,"",2004-10-20,"","","","","",FALSE
+62043,Ankersweg; Basisschool Plus,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+62635,"Wijk: Zuilen; Marnixlaan, Van Hoornekade",geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+62919,vindplaats 5Z_2; Almere Hout Noord,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+62972,Steenbergseweg; klutsdorp,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+63817,Lent; Visveldsestraat,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+63852,Molensteeg 2; De Driesprong,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+64646,Conradkade; Cornelis de Wittlaan; President Kennedylaan,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+64654,Oude Elspeterweg; Echoput,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+65163,SPUI/Amsterdamste veerkade;St.Jacobsstraat-Kranenstraat.,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+65323,vroege geschiedenis ; België,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van België#bt: vroege geschiedenis#rt: België#tc: 15.63.12,"","","",FALSE
+65364,archeologie ; prehistorie,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: archeologie#bt: prehistorie#nt: archeologie ; prehistorie ; Nederland#nt: archeologie ; prehistorie ; Noord-Amerika#nt: archeologie ; prehistorie ; Noord-Europa#nt: archeologie ; prehistorie ; West- en Centraal-Europa#nt: Prehistorische stenen monumenten#rt: prehistorische kunst#tc: 15.32,"","","",FALSE
+65365,archeologie ; klassieke oudheid,onderwerp,niet gedefinieerd,37,"","","","","","",,"",bt: archeologie#nt: terra sigillata#rt: oudheid#rt: Romeinse rijk#tc: 15.33,"","","",FALSE
+65369,geschiedenis ; middeleeuwen,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis#rt: archeologie ; middeleeuws en postmiddeleeuws#rt: kunst ; middeleeuwen#tc: 15.64,"","","",FALSE
+65387,iconografie ; het bovennatuurlijke,onderwerp,niet gedefinieerd,16,"","","","","","",,"",bt: iconografie#rt: iconografie ; de bijbel#tc: 20.21#uf: het bovennatuurlijke,"","","",FALSE
+65388,iconografie ; de natuur,onderwerp,niet gedefinieerd,166,"","","","","","",,"",bt: iconografie#nt: dieren in de kunst#nt: iconografie ; de natuur ; België en Luxemburg#nt: iconografie ; de natuur ; Europa#nt: iconografie ; de natuur ; Nederland#nt: pastorale schilderkunst#rt: landschappen#rt: stilleven#tc: 20.22,"","","",FALSE
+65389,iconografie ; de mens,onderwerp,niet gedefinieerd,152,"","","","","","",,"",bt: iconografie#nt: iconografie ; de mens ; Nederland#nt: kinderen#nt: portretten#nt: vrouwen in de kunst#rt: erotiek#rt: figuurstudies#tc: 20.23,"","","",FALSE
+65390,iconografie ; de bijbel,onderwerp,niet gedefinieerd,15,kruisdraging (iconografie),"","","","","",,"",bt: bijbel#bt: iconografie#nt: kruiswegstaties#nt: Maria-figuur#rt: Christendom#rt: Christus#rt: heiligen#rt: iconografie ; het bovennatuurlijke#tc: 20.27,rcecor,2021-04-19,thesau>thesau,FALSE
+65391,iconografie ; klassieke mythologie,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: iconografie#bt: klassieke mythologie#nt: Pegasus#rt: iconografie ; literatuur#rt: kunst van de klassieke oudheid#tc: 20.29,"","","",FALSE
+65403,kunst ; middeleeuwen,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: middeleeuwen#bt: periodes in de kunstgeschiedenis#nt: beeldhouwkunst ; middeleeuwen#nt: gotiek#nt: kunst ; middeleeuwen ; Duitsland#nt: kunst ; middeleeuwen ; Italië#nt: kunst ; middeleeuwen ; Nederland#nt: romaanse kunst#nt: schilderkunst ; middeleeuwen#nt: tekenkunst ; middeleeuwen#rt: archeologie ; middeleeuws en postmiddeleeuws#rt: geschiedenis ; middeleeuwen#tc: 20.71,"","","",FALSE
+65404,kunst ; renaissance,onderwerp,niet gedefinieerd,44,"","","","","","",,"",bt: Laat-Renaissance. Classicisme en de romantiek. Historicisme. Eclecticisme#bt: periodes in de kunstgeschiedenis#bt: Renaissance. Barok. Rococo. Koloniale stijlen#bt: stijlen#nt: beeldhouwkunst ; renaissance#nt: bouwkunst ; renaissance#nt: grafische kunst ; renaissance#nt: kunst ; renaissance ; België#nt: kunst ; renaissance ; Europa algemeen#nt: kunst ; renaissance ; Frankrijk#nt: kunst ; renaissance ; Italië#nt: kunst ; renaissance ; Nederland#nt: schilderkunst ; renaissance#nt: tekenkunst ; renaissance#rt: maniërisme#tc: 20.72#uf: renaissance,"","","",FALSE
+65406,kunst ; twintigste eeuw,onderwerp,niet gedefinieerd,192,"","","","","","",,"","bt: periodes in de kunstgeschiedenis#bt: twintigste eeuw#nt: antikunst#nt: art engagé#nt: beeldhouwkunst ; twintigste eeuw#nt: bouwkunst ; twintigste eeuw#nt: bouwkunst ; twintigste eeuw ; Nederland#nt: concrete kunst#nt: Fundacao Calouse Gulbenkian, Lissabon#nt: Galleria Nazionale d'Arte Moderna, Rome#nt: jugendstil#nt: kunst ; twintigste eeuw ; België en Luxemburg#nt: kunst ; twintigste eeuw ; Duitsland#nt: kunst ; twintigste eeuw ; Europa#nt: kunst ; twintigste eeuw ; Frankrijk#nt: kunst ; twintigste eeuw ; Groot-Brittannië#nt: kunst ; twintigste eeuw ; Hongarije#nt: kunst ; twintigste eeuw ; Japan#nt: kunst ; twintigste eeuw ; Joegoslavië#nt: kunst ; twintigste eeuw ; Midden- en Zuid-Amerika#nt: kunst ; twintigste eeuw ; Nederland#nt: kunst ; twintigste eeuw ; Noord-Europa#nt: kunst ; twintigste eeuw ; Oost-Europa#nt: kunst ; twintigste eeuw ; Oostenrijk#nt: kunst ; twintigste eeuw ; Polen#nt: kunst ; twintigste eeuw ; Rusland#nt: kunst ; twintigste eeuw ; Sovjet-Unie#nt: kunst ; twintigste eeuw ; Spanje#nt: kunst ; twintigste eeuw ; Tsjechoslowakije#nt: kunst ; twintigste eeuw ; Verenigde Staten#nt: kunst ; twintigste eeuws ; Italië#nt: Moderne kunststromingen (vanaf de late 19e eeuw). Realisme, impressionisme#nt: schilderkunst ; twintigste eeuw#nt: superhumanisme#nt: tekenkunst ; twintigste eeuw#rt: kunst ; hedendaags#tc: 20.75#uf: kunst 20e eeuw#uf: twintigste-eeuwse kunst","","","",FALSE
+65407,kunst ; hedendaags,onderwerp,niet gedefinieerd,490,"","","","","","",,"",bt: periodes in de kunstgeschiedenis#nt: beeldhouwkunst ; hedendaags#nt: bouwkunst ; hedendaags#nt: grafische kunst ; hedendaags#nt: kunst ; hedendaags ; België en Luxemburg#nt: kunst ; hedendaags ; BRD#nt: kunst ; hedendaags ; Brazilië#nt: kunst ; hedendaags ; Canada#nt: kunst ; hedendaags ; China#nt: kunst ; hedendaags ; DDR#nt: kunst ; hedendaags ; Denemarken#nt: kunst ; hedendaags ; Duitsland#nt: kunst ; hedendaags ; Europa#nt: kunst ; hedendaags ; Finland#nt: kunst ; hedendaags ; Frankrijk#nt: kunst ; hedendaags ; Groot-Brittannië#nt: kunst ; hedendaags ; Hongarije#nt: kunst ; hedendaags ; Ierland#nt: kunst ; hedendaags ; Italië#nt: kunst ; hedendaags ; Japan#nt: kunst ; hedendaags ; Joegoslavië#nt: kunst ; hedendaags ; Midden- en Zuid-Amerika#nt: kunst ; hedendaags ; Nederland#nt: kunst ; hedendaags ; Noorwegen#nt: kunst ; hedendaags ; Oostenrijk#nt: kunst ; hedendaags ; Polen#nt: kunst ; hedendaags ; Portugal#nt: kunst ; hedendaags ; Rusland#nt: kunst ; hedendaags ; Spanje#nt: kunst ; hedendaags ; Turkije#nt: kunst ; hedendaags ; Verenigde Staten#nt: kunst ; hedendaags ; Zweden#nt: kunst ; hedendaags ; Zwitserland#nt: postmodernisme#nt: schilderkunst ; hedendaags#nt: tekenkunst ; hedendaags#rt: kunst ; twintigste eeuw#sn: NB periode 1945-1999#tc: 20.76#uf: hedendaagse kunst,"","","",FALSE
+65410,schilderkunst ; renaissance,onderwerp,niet gedefinieerd,43,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst ; renaissance#nt: schilderkunst ; renaissance ; België en Luxemburg#nt: schilderkunst ; renaissance ; Duitsland#nt: schilderkunst ; renaissance ; Italië#nt: schilderkunst ; renaissance ; Nederland#tc: 21.04,"","","",FALSE
+65411,"schilderkunst ; barok, klassicisme",onderwerp,niet gedefinieerd,130,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst ; barok, klassicisme#nt: barok#nt: klassicisme#nt: schilderkunst ; barok, klassicisme ; België#nt: schilderkunst ; barok, klassicisme ; Europa#nt: schilderkunst ; barok, klassicisme ; Frankrijk#nt: schilderkunst ; barok, klassicisme ; Groot-Brittannië#nt: schilderkunst ; barok, klassicisme ; Italië#nt: schilderkunst ; barok, klassicisme ; Nederland#nt: schilderkunst ; barok, klassicisme ; Spanje#tc: 21.05","","","",FALSE
+65412,schilderkunst ; negentiende eeuw,onderwerp,niet gedefinieerd,108,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst ; negentiende eeuw#nt: schilderkunst ; negentiende eeuw ; België#nt: schilderkunst ; negentiende eeuw ; Duitsland#nt: schilderkunst ; negentiende eeuw ; Europa#nt: schilderkunst ; negentiende eeuw ; Frankrijk#nt: schilderkunst ; negentiende eeuw ; Groot-Brittannië#nt: schilderkunst ; negentiende eeuw ; Joegoslavië#nt: schilderkunst ; negentiende eeuw ; Nederland#nt: schilderkunst ; negentiende eeuw ; Noord-Europa#nt: schilderkunst ; negentiende eeuw ; Verenigde Staten#tc: 21.06,"","","",FALSE
+65413,schilderkunst ; twintigste eeuw,onderwerp,niet gedefinieerd,136,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst ; twintigste eeuw#et: Moderne schilderkunst (vanaf eind 19e eeuw)#et: modern paintings. modern art movement (from late 19th century)#nt: schilderkunst ; hedendaags#nt: schilderkunst ; twintigste eeuw ; België#nt: schilderkunst ; twintigste eeuw ; Duitsland#nt: schilderkunst ; twintigste eeuw ; Europa#nt: schilderkunst ; twintigste eeuw ; Frankrijk#nt: schilderkunst ; twintigste eeuw ; Groot-Brittannië#nt: schilderkunst ; twintigste eeuw ; Italië#nt: schilderkunst ; twintigste eeuw ; Japan#nt: schilderkunst ; twintigste eeuw ; Midden- en Zuid-Amerika#nt: schilderkunst ; twintigste eeuw ; Ned. Antillen en Suriname#nt: schilderkunst ; twintigste eeuw ; Nederland#nt: schilderkunst ; twintigste eeuw ; Noord-Europa#nt: schilderkunst ; twintigste eeuw ; Oost-Europa#nt: schilderkunst ; twintigste eeuw ; Rusland#nt: schilderkunst ; twintigste eeuw ; Spanje#nt: schilderkunst ; twintigste eeuw ; Verenigde Staten#tc: 21.07,"","","",FALSE
+65414,schilderkunst ; hedendaags,onderwerp,niet gedefinieerd,131,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst ; hedendaags#bt: schilderkunst ; twintigste eeuw#nt: schilderkunst ; hedendaags ; Azië#nt: schilderkunst ; hedendaags ; België#nt: schilderkunst ; hedendaags ; Canada#nt: schilderkunst ; hedendaags ; Duitsland#nt: schilderkunst ; hedendaags ; Europa#nt: schilderkunst ; hedendaags ; Frankrijk#nt: schilderkunst ; hedendaags ; Groot-Brittannië#nt: schilderkunst ; hedendaags ; Hongarije#nt: schilderkunst ; hedendaags ; Italië#nt: schilderkunst ; hedendaags ; Joegoslavië#nt: schilderkunst ; hedendaags ; Midden- en Zuid-Amerika#nt: schilderkunst ; hedendaags ; Nederland#nt: schilderkunst ; hedendaags ; Nederlandse Antillen en Suriname#nt: schilderkunst ; hedendaags ; Noord-Amerika#nt: schilderkunst ; hedendaags ; Spanje#sn: periode 1945-1999#tc: 21.08,"","","",FALSE
+65418,tekenkunst ; renaissance,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: geschiedenis van de tekenkunst#bt: kunst ; renaissance#nt: tekenkunst ; renaissance ; Frankrijk#nt: tekenkunst ; renaissance ; Italie#nt: tekenkunst ; renaissance ; Nederland#tc: 21.24#uf: renaissance: tekenkunst,"","","",FALSE
+65419,"tekenkunst ; barok, klassicisme",onderwerp,niet gedefinieerd,39,"","","","","","",,"","bt: geschiedenis van de tekenkunst#bt: kunst ; barok, klassicisme#nt: tekenkunst ; barok, klassicisme ;  Nederland#nt: tekenkunst ; barok, klassicisme ; België en Luxemburg#nt: tekenkunst ; barok, klassicisme ; Frankrijk#nt: tekenkunst ; barok, klassicisme ; Groot-Brittannië#nt: tekenkunst ; barok, klassicisme ; Italië#tc: 21.25","","","",FALSE
+65420,tekenkunst ; negentiende eeuw,onderwerp,niet gedefinieerd,35,"","","","","","",,"",bt: geschiedenis van de tekenkunst#bt: kunst ; negentiende eeuw#nt: tekenkunst ; negentiende eeuw ; Duitsland#nt: tekenkunst ; negentiende eeuw ; Frankrijk#nt: tekenkunst ; negentiende eeuw ; Groot-Brittannië#nt: tekenkunst ; negentiende eeuw ; Nederland#tc: 21.26#uf: negentiende-eeuwse tekenkunst,"","","",FALSE
+65421,tekenkunst ; twintigste eeuw,onderwerp,niet gedefinieerd,29,"","","","","","",,"",bt: geschiedenis van de tekenkunst#bt: kunst ; twintigste eeuw#nt: tekenkunst ; hedendaags#nt: tekenkunst ; twintigste eeuw ; Duitsland#nt: tekenkunst ; twintigste eeuw ; Nederland#tc: 21.27#uf: twintigste-eeuwse tekenkunst,"","","",FALSE
+65422,tekenkunst ; hedendaags,onderwerp,niet gedefinieerd,44,"","","","","","",,"",bt: geschiedenis van de tekenkunst#bt: kunst ; hedendaags#bt: tekenkunst ; twintigste eeuw#nt: tekenkunst ; hedendaags ; België#nt: tekenkunst ; hedendaags ; Duitsland#nt: tekenkunst ; hedendaags ; Europa#nt: tekenkunst ; hedendaags ; Italië#nt: tekenkunst ; hedendaags ; Nederland#nt: tekenkunst ; hedendaags ; Oostenrijk#sn: periode 1945-1999#tc: 21.28#uf: hedendaagse tekenkunst,"","","",FALSE
+65426,grafische kunst ; renaissance,onderwerp,niet gedefinieerd,10,"","","","","","",,"",bt: geschiedenis van de grafische kunst#bt: kunst ; renaissance#nt: grafische kunst ; renaissance ; Nederland#tc: 21.34#uf: renaissance: grafische kunst,"","","",FALSE
+65427,"grafische kunst ; barok, klassicisme",onderwerp,niet gedefinieerd,18,"","","","","","",,"","bt: geschiedenis van de grafische kunst#bt: kunst ; barok, klassicisme#nt: grafische kunst ; barok, klassicisme ; Frankrijk#nt: grafische kunst ; barok, klassicisme ; Italië#nt: grafische kunst ; barok, klassicisme ; Japan#nt: grafische kunst ; barok, klassicisme ; Nederland#tc: 21.35","","","",FALSE
+65428,grafische kunst ; twintigste eeuw,onderwerp,niet gedefinieerd,13,"","","","","","",,"",nt: grafische kunst ; twintigste eeuw ; België en Luxemburg#nt: grafische kunst ; twintigste eeuw ; Denemarken#nt: grafische kunst ; twintigste eeuw ; Duitsland#nt: grafische kunst ; twintigste eeuw ; Frankrijk#nt: grafische kunst ; twintigste eeuw ; Italië#nt: grafische kunst ; twintigste eeuw ; Japan#nt: grafische kunst ; twintigste eeuw ; Nederland#nt: grafische kunst ; twintigste eeuw ; Spanje#nt: grafische kunst ; twintigste eeuw ; Verenigde Staten#tc: 21.37#uf: twintigste-eeuwse grafische kunst,"","","",FALSE
+65429,grafische kunst ; hedendaags,onderwerp,niet gedefinieerd,46,"","","","","","",,"",bt: geschiedenis van de grafische kunst#bt: kunst ; hedendaags#nt: grafische kunst ; hedendaags ; Amerika#nt: grafische kunst ; hedendaags ; België#nt: grafische kunst ; hedendaags ; Duitsland#nt: grafische kunst ; hedendaags ; Frankrijk#nt: grafische kunst ; hedendaags ; Groot-Brittannië#nt: grafische kunst ; hedendaags ; Israël#nt: grafische kunst ; hedendaags ; Nederland#nt: grafische kunst ; hedendaags ; Noord-Europa#nt: grafische kunst ; hedendaags ; Oost-Europa#nt: grafische kunst ; hedendaags ; Polen#nt: grafische kunst ; hedendaags ; Sovjet Unie#nt: grafische kunst ; hedendaags ; Verenigde Staten#nt: grafische kunst ; hedendaags ; Zuid- en Zuidoost Europa#nt: grafische kunst ; hedendaags ; Zweden#tc: 21.38#uf: hedendaagse grafische kunst,"","","",FALSE
+65435,beeldhouwkunst ; middeleeuwen,onderwerp,niet gedefinieerd,40,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst ; middeleeuwen#nt: beeldhouwkunst ; middeleeuwen ; Italië#nt: beeldhouwkunst ; middeleeuwen ; Nederland#tc: 21.53,"","","",FALSE
+65436,beeldhouwkunst ; renaissance,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst ; renaissance#nt: beeldhouwkunst ; renaissance ; Zuid- en Zuidoost-Europa#tc: 21.54#uf: renaissance: beeldhouwkunst,"","","",FALSE
+65437,beeldhouwkunst ; negentiende eeuw,onderwerp,niet gedefinieerd,18,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst ; negentiende eeuw#nt: beeldhouwkunst ; negentiende eeuw ; Europa#nt: beeldhouwkunst ; negentiende eeuw ; nederland#nt: beeldhouwkunst ; negentiende eeuw ; Zuid- en Zuidoost-Europa#tc: 21.56#uf: negentiende-eeuwse beeldhouwkunst,"","","",FALSE
+65438,beeldhouwkunst ; twintigste eeuw,onderwerp,niet gedefinieerd,39,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst ; twintigste eeuw#nt: beeldhouwkunst ; hedendaags#nt: beeldhouwkunst ; twintigste eeuw ; Duitsland#nt: beeldhouwkunst ; twintigste eeuw ; Europa#nt: beeldhouwkunst ; twintigste eeuw ; Frankrijk#nt: beeldhouwkunst ; twintigste eeuw ; Hongarije#nt: beeldhouwkunst ; twintigste eeuw ; Nederland#nt: beeldhouwkunst ; twintigste eeuw ; Sovjet Unie#tc: 21.57#uf: twintigste-eeuwse beeldhouwkunst,"","","",FALSE
+65439,beeldhouwkunst ; hedendaags,onderwerp,niet gedefinieerd,115,"","","","","","",,"",bt: beeldhouwkunst ; twintigste eeuw#bt: geschiedenis van de beeldhouwkunst#bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; België en Luxemburg#nt: beeldhouwkunst ; hedendaags ; Canada#nt: beeldhouwkunst ; hedendaags ; China#nt: beeldhouwkunst ; hedendaags ; Duitsland#nt: beeldhouwkunst ; hedendaags ; Europa#nt: beeldhouwkunst ; hedendaags ; Groot-Brittannie#nt: beeldhouwkunst ; hedendaags ; Hongarije#nt: beeldhouwkunst ; hedendaags ; Italie#nt: beeldhouwkunst ; hedendaags ; Nederland#nt: beeldhouwkunst ; hedendaags ; Oostenrijk#nt: beeldhouwkunst ; hedendaags ; Sovjet-Unie#nt: beeldhouwkunst ; hedendaags ; Zwitserland#tc: 21.58#uf: hedendaagse beeldhouwkunst,"","","",FALSE
+65440,beeldhouwkunst ; overige,onderwerp,niet gedefinieerd,26,"","","","","","",,"",bt: beeldhouwkunst#nt: beeldhouwkunst ; overige ; Nederland#tc: 21.59,"","","",FALSE
+65441,bouwkunst ; renaissance,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de bouwkunst#bt: kunst ; renaissance#nt: bouwkunst ; renaissance ; Nederland#tc: 21.64,"","","",FALSE
+65442,bouwkunst ; negentiende eeuw,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: geschiedenis van de bouwkunst#bt: kunst ; negentiende eeuw#nt: bouwkunst ; negentiende eeuw ; Nederland#tc: 21.66#uf: negentiende-eeuwse bouwkunst,"","","",FALSE
+65443,bouwkunst ; twintigste eeuw,onderwerp,niet gedefinieerd,23,"","","","","","",,"",bt: geschiedenis van de bouwkunst#bt: kunst ; twintigste eeuw#nt: bouwkunst ; hedendaags#nt: bouwkunst ; hedendaags ; Nederland#nt: bouwkunst ; twintigste eeuw ; Duitsland#nt: bouwkunst ; twintigste eeuw ; Europa#nt: bouwkunst ; twintigste eeuw ; Frankrijk#nt: bouwkunst ; twintigste eeuw ; Nederland#nt: bouwkunst ; twintigste eeuw ; Sovjet-Unie#nt: bouwkunst ; twintigste eeuw ; Verenigde staten#tc: 21.67,"","","",FALSE
+65444,bouwkunst ; hedendaags,onderwerp,niet gedefinieerd,20,"","","","","","",,"",bt: bouwkunst ; twintigste eeuw#bt: geschiedenis van de bouwkunst#bt: kunst ; hedendaags#nt: bouwkunst ; hedendaags ; België#nt: bouwkunst ; hedendaags ; Hongarije#nt: bouwkunst ; hedendaags ; Nederland#tc: 21.68#uf: hedendaagse bouwkunst,"","","",FALSE
+65462,muziekgeschiedenis ; romantiek,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: muziek#bt: muziekwetenschap#bt: romantiek#tc: 24.56,"","","",FALSE
+65463,muziek ; twintigste eeuw,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: muziek#bt: muziekwetenschap#bt: twintigste eeuw#nt: muziek ; twintigste eeuw ; Nederland#tc: 24.57,"","","",FALSE
+65520,textielkunst ; Nederland,onderwerp,niet gedefinieerd,69,"","","","","","",,"",bt: kunst van Europa ; Nederland#bt: textielkunst#rt: Nederland#tc: 21.86.11,"","","",FALSE
+65524,tentoonstellingen ; Nederland,onderwerp,niet gedefinieerd,4626,"","","","","","",,"","bt: tentoonstellingen#nt: Manifesta#rt: Nederland#rt: Vijverpark, Brunssum#sn: hierbij tentoonstellingscatalogi e.d. (Nederland)#tc: 20.13.11",RCEAdmin#rceadmin,2014-01-27#2013-02-11,thesau#thesau,FALSE
+65527,keramiek ; Nederland,onderwerp,niet gedefinieerd,303,"","","","","","",,"","bt: Keramiek#bt: kunst van Europa ; Nederland#nt: Cor Unum#nt: delfts aardewerk#nt: Fries aardewerk#nt: Gouds plateel#nt: Haags porselein#nt: Kat, Kunstaardewerkfabriek De#nt: Koninklijke Goedewaagen#nt: Loosdrechts Porselein#nt: Maastrichts aardewerk#nt: Porceleyne Fles#nt: Regout-aardewerk#nt: Struktuur 68#rt: Nederland#tc: 21.88.11","","","",FALSE
+65528,edelsmeedkunst ; Nederland,onderwerp,niet gedefinieerd,85,"","","","","","",,"",bt: edelsmeedkunst#bt: kunst van Europa ; Nederland#nt: zilver ; Nederlands#rt: Nederland#tc: 21.92.11,"","","",FALSE
+65529,keramiek ; Groot-Brittannië,onderwerp,niet gedefinieerd,27,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.88.13,"","","",FALSE
+65530,schilderkunst ; hedendaags ; Europa,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Europa#bt: kunst ; hedendaags ; Europa#bt: schilderkunst ; hedendaags#rt: Europa#sn: periode 1945-1999#tc: 21.08.05,"","","",FALSE
+65532,schilderkunst ; negentiende eeuw ; Nederland,onderwerp,niet gedefinieerd,166,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Nederland#bt: kunst ; negentiende eeuw ; Nederland#bt: schilderkunst ; negentiende eeuw#nt: Amsterdamse school#rt: Nederland#tc: 21.06.11#uf: schilderkunst ; 19e eeuw ; Nederland,"","","",FALSE
+65533,beeldhouwkunst ; hedendaags ; Nederland,onderwerp,niet gedefinieerd,278,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: beeldhouwkunst ; twintigste eeuw ; Nederland#bt: geschiedenis van de beeldhouwkunst ; Nederland#bt: kunst ; hedendaags ; Nederland#nt: Werkmanmonument#rt: Nederland#sn: periode 1945-1999#tc: 21.58.11,"","","",FALSE
+65537,geschiedenis van de schilderkunst ; Nederland,onderwerp,niet gedefinieerd,649,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van Europa ; Nederland#nt: schilderkunst ; barok, klassicisme ; Nederland#nt: schilderkunst ; hedendaags ; Nederland#nt: schilderkunst ; middeleeuwen ; Nederland#nt: schilderkunst ; negentiende eeuw ; Nederland#nt: schilderkunst ; renaissance ; Nederland#nt: schilderkunst ; twintigste eeuw ; Nederland#rt: Nederland#tc: 21.02.11","","","",FALSE
+65538,tekenkunst ; hedendaags ; Nederland,onderwerp,niet gedefinieerd,88,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Nederland#bt: kunst ; hedendaags ; Nederland#bt: tekenkunst ; hedendaags#rt: Nederland#tc: 21.28.11,"","","",FALSE
+65543,tekenkunst ; negentiende eeuw ; Nederland,onderwerp,niet gedefinieerd,34,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Nederland#bt: kunst ; negentiende eeuw ; Nederland#bt: tekenkunst ; negentiende eeuw#rt: Nederland#tc: 21.26.11,"","","",FALSE
+65544,schilderkunst ; hedendaags ; Nederland,onderwerp,niet gedefinieerd,329,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Nederland#bt: kunst ; hedendaags ; Nederland#bt: schilderkunst ; hedendaags#rt: Nederland#sn: periode 1945-1999#tc: 21.08.11,"","","",FALSE
+65545,"tekenkunst ; barok, klassicisme ;  Nederland",onderwerp,niet gedefinieerd,62,"","","","","","",,"","bt: geschiedenis van de tekenkunst ; Nederland#bt: kunst ; barok, klassicisme ; Nederland#bt: tekenkunst ; barok, klassicisme#rt: Nederland#tc: 21.25.11","","","",FALSE
+65547,tekenkunst ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,30,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Nederland#bt: kunst ; twintigste eeuw ; Nederland#bt: tekenkunst ; twintigste eeuw#rt: Nederland#tc: 21.27.11,"","","",FALSE
+65553,geschiedenis van de grafische kunst ; Europa,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de grafische kunst#bt: kunst van Europa#nt: grafische kunst ; hedendaags ; Noord-Europa#nt: grafische kunst ; hedendaags ; Oost-Europa#nt: grafische kunst ; hedendaags ; Zuid- en Zuidoost Europa#nt: grafische kunst ; negentiende eeuw ; Zuid- en Zuidoost Europa#nt: toegepaste grafische kunst ; Oost-Europa#rt: Europa#tc: 21.32.05,"","","",FALSE
+65555,"schilderkunst ; barok, klassicisme ; Nederland",onderwerp,niet gedefinieerd,306,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; Nederland#bt: kunst ; barok, klassicisme ; Nederland#bt: schilderkunst ; barok, klassicisme#nt: Delftse School#nt: schilderkunst ; zeventiende eeuw ; Nederland#rt: Nederland#tc: 21.05.11","","","",FALSE
+65564,grafische kunst ; hedendaags ; Nederland,onderwerp,niet gedefinieerd,110,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Nederland#bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Nederland#rt: Nederland#tc: 21.38.11,"","","",FALSE
+65567,kunst ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,161,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: Amsterdamse Joffers#nt: Amsterdamse Limburgers#nt: beeldhouwkunst ; twintigste eeuw ; Nederland#nt: grafische kunst ; twintigste eeuw ; Nederland#nt: schilderkunst ; twintigste eeuw ; Nederland#nt: tekenkunst ; twintigste eeuw ; Nederland#rt: Nederland#tc: 20.75.11,"","","",FALSE
+65569,kunst ; renaissance ; Italië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; renaissance#nt: schilderkunst ; renaissance ; Italië#nt: tekenkunst ; renaissance ; Italie#rt: Italië#tc: 20.72.33,"","","",FALSE
+65570,kunst ; renaissance ; Europa algemeen,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; renaissance#rt: Europa#tc: 20.72.05,"","","",FALSE
+65572,kunst ; renaissance ; Frankrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; renaissance#nt: tekenkunst ; renaissance ; Frankrijk#rt: Frankrijk#tc: 20.72.15,"","","",FALSE
+65573,kunst ; middeleeuwen ; Nederland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: kunst ; middeleeuwen#nt: schilderkunst ; middeleeuwen ; Nederland#nt: tekenkunst ; middeleeuwen ; Nederland#rt: Nederland#tc: 20.71.11,"","","",FALSE
+65574,geschiedenis van het boek ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van het boek#tc: 06.21.11,"","","",FALSE
+65575,beeldhouwkunst ; renaissance ; Zuid- en Zuidoost-Europa,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: beeldhouwkunst ; renaissance#bt: kunst van Europa#rt: Europa#tc: 21.54.30,"","","",FALSE
+65578,schilderkunst ; middeleeuwen ; Italië,onderwerp,niet gedefinieerd,13,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; italië#bt: kunst ; middeleeuwen ; Italië#bt: schilderkunst ; middeleeuwen#rt: Italië#tc: 21.03.33,"","","",FALSE
+65580,"schilderkunst ; barok, klassicisme ; Spanje",onderwerp,niet gedefinieerd,6,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; Spanje#bt: schilderkunst ; barok, klassicisme#rt: Spanje#tc: 21.05.31","","","",FALSE
+65581,kunst ; renaissance ; Nederland,onderwerp,niet gedefinieerd,15,"","","","","","",,"",bt: kunst ; renaissance#nt: bouwkunst ; renaissance ; Nederland#nt: grafische kunst ; renaissance ; Nederland#nt: schilderkunst ; renaissance ; Nederland#nt: tekenkunst ; renaissance ; Nederland#rt: Nederland#tc: 20.72.11,"","","",FALSE
+65582,"schilderkunst ; barok, klassicisme ; Italië",onderwerp,niet gedefinieerd,5,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; italië#bt: kunst ; barok, klassicisme ; Italië#bt: schilderkunst ; barok, klassicisme#rt: Italië#tc: 21.05.33","","","",FALSE
+65584,grafische kunst ; negentiende eeuw ; Zuid- en Zuidoost Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Europa#bt: grafische kunst ; negentiende eeuw#bt: kunst ; negentiende eeuw ; Europa#rt: Europa#tc: 21.36.30,"","","",FALSE
+65588,kunstwetenschappen ; Nederland,onderwerp,niet gedefinieerd,987,"","","","","","",,"","bt: kunstwetenschappen#nt: Stichting voor kunsthistorisch onderzoek, Den Haag#rt: Nederland#tc: 20.00.11","","","",FALSE
+65590,grafische kunst ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,29,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Nederland#bt: grafische kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; Nederland#rt: Nederland#tc: 21.37.11,"","","",FALSE
+65591,kunst ; twintigste eeuw ; Oostenrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: Wiener Werkstätte#rt: Oostenrijk#tc: 20.75.20,"","","",FALSE
+65592,kunst van europa ; Italië,onderwerp,niet gedefinieerd,13,"","","","","","",,"",bt: kunst van Europa#nt: beeldhouwkunst ; middeleeuwen ; Italië#nt: decoratieve kunst ; Italie#nt: geschiedenis van de fotografische kunst ; Italië#nt: geschiedenis van de grafische kunst ; Italië#nt: geschiedenis van de schilderkunst ; Italië#nt: geschiedenis van de tekenkunst ; Italië#nt: glaskunst ; Italie#nt: keramiek ; Italië#nt: kunst ; twintigste eeuws ; Italië#rt: Italië#tc: 20.70.33#uf: Italiaanse kunst in Nederland,"","","",FALSE
+65593,kunst ; twintigste eeuw ; Noord-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: schilderkunst ; twintigste eeuw ; Noord-Europa#rt: Europa#tc: 20.75.50,"","","",FALSE
+65594,beeldhouwkunst ; negentiende eeuw ; Zuid- en Zuidoost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: beeldhouwkunst ; negentiende eeuw#bt: geschiedenis van de beeldhouwkunst ; Europa#bt: kunst ; negentiende eeuw ; Europa#rt: Europa#tc: 21.56.30,"","","",FALSE
+65595,beeldhouwkunst ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,41,"","","","","","",,"",bt: beeldhouwkunst ; twintigste eeuw#bt: geschiedenis van de beeldhouwkunst ; Nederland#bt: kunst ; twintigste eeuw ; Nederland#nt: beeldhouwkunst ; hedendaags ; Nederland#rt: Nederland#tc: 21.57.11,"","","",FALSE
+65596,"bibliofilie, boekverzamelingen ; Zwitserland",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: bibliofilie, boekverzamelingen van particulieren#rt: Zwitserland#tc: 06.24.19","","","",FALSE
+65601,kunst ; hedendaags ; BRD,onderwerp,niet gedefinieerd,18,"","","","","","",,"",bt: kunst ; hedendaags#rt: duitsland#tc: 20.76.17,"","","",FALSE
+65602,kunst ; hedendaags ; DDR,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst ; hedendaags#rt: duitsland#tc: 20.76.18,"","","",FALSE
+65616,grafische kunst ; hedendaags ; Noord-Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Europa#bt: grafische kunst ; hedendaags#rt: Europa#tc: 21.38.50,"","","",FALSE
+65620,geschiedenis van de bouwkunst ; Nederland,onderwerp,niet gedefinieerd,25,"","","","","","",,"","bt: geschiedenis van de bouwkunst#bt: kunst van Europa ; Nederland#nt: Architectura et Amicitia#nt: bouwkunst ; barok, klassicisme ; Nederland#nt: bouwkunst ; hedendaags ; Nederland#nt: bouwkunst ; negentiende eeuw ; Nederland#nt: bouwkunst ; renaissance ; Nederland#nt: bouwkunst ; twintigste eeuw ; Nederland#nt: religieuze bouwkunst ; Nederland#nt: Stimuleringsfonds voor Architectuur#nt: utilitaire bouwkunst ; Nederland#nt: woningbouw (bouwkunst) ; Nederland#rt: Nederland#tc: 21.62.11#uf: bouwkunst ; Nederland","","","",FALSE
+65622,fotografische kunst ; Nederland,onderwerp,niet gedefinieerd,44,"","","","","","",,"","bt: fotografische kunst#nt: geschiedenis van de fotografische kunst ; Nederland#nt: Stichting Stedelijke Fotografie, Utrecht#rt: Nederland#tc: 21.45.11","","","",FALSE
+65623,beeldhouwkunst ; negentiende eeuw ; Europa,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: beeldhouwkunst ; negentiende eeuw#bt: kunst van Europa#rt: Europa#tc: 21.56.05,"","","",FALSE
+65624,schilderkunst ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,148,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; Nederland#bt: kunst ; twintigste eeuw ; Nederland#bt: schilderkunst ; twintigste eeuw#nt: Amsterdamse school#nt: Branding, de#rt: Nederland#tc: 21.07.11","","","",FALSE
+65630,tentoonstellingen ; DDR,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: tentoonstellingen#rt: duitsland#tc: 20.13.18,"","","",FALSE
+65633,beeldhouwkunst ; middeleeuwen ; Nederland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: beeldhouwkunst ; middeleeuwen#bt: geschiedenis van de beeldhouwkunst ; Nederland#tc: 21.53.11,"","","",FALSE
+65634,schilderkunst ; hedendaags ; Frankrijk,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Frankrijk#bt: kunst ; hedendaags ; Frankrijk#bt: schilderkunst ; hedendaags#rt: Frankrijk#tc: 21.08.15,"","","",FALSE
+65639,bouwkunst ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,44,"","","","","","",,"",bt: bouwkunst ; twintigste eeuw#bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst ; twintigste eeuw#nt: Amsterdamse school#rt: Nederland#tc: 21.67.11,"","","",FALSE
+65640,schilderkunst ; renaissance ; Nederland,onderwerp,niet gedefinieerd,72,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Nederland#bt: kunst ; renaissance ; Nederland#bt: schilderkunst ; renaissance#rt: Nederland#tc: 21.04.11,"","","",FALSE
+65649,grafische kunst ; negentiende eeuw ; Frankrijk,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Frankrijk#bt: grafische kunst ; negentiende eeuw#bt: kunst ; negentiende eeuw ; Frankrijk#rt: Frankrijk#tc: 21.36.15,"","","",FALSE
+65650,grafische kunst ; twintigste eeuw ; Italië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Italië#bt: grafische kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; italië#rt: Italië#tc: 21.37.33,"","","",FALSE
+65652,beeldhouwkunst ; twintigste eeuw ; Frankrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: beeldhouwkunst ; twintigste eeuw#bt: geschiedenis van de beeldhouwkunst ; Frankrijk#bt: kunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 21.57.15,"","","",FALSE
+65655,textielkunst ; Frankrijk,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst van europa ; frankrijk#bt: textielkunst#rt: Frankrijk#tc: 21.86.15,"","","",FALSE
+65656,glaskunst ; Italie,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: glaskunst#bt: kunst van europa ; Italië#rt: Italië#tc: 21.90.33,"","","",FALSE
+65659,keramiek ; Duitsland,onderwerp,niet gedefinieerd,14,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa ; Duitsland#nt: keramiek ; BRD en West Berlijn#nt: keramiek ; DDR#rt: Duitsland#tc: 21.88.16,"","","",FALSE
+65661,kunst ; twintigste eeuw ; Verenigde Staten,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: bouwkunst ; twintigste eeuw ; Verenigde staten#nt: grafische kunst ; twintigste eeuw ; Verenigde Staten#nt: schilderkunst ; twintigste eeuw ; Verenigde Staten#rt: Verenigde Staten#tc: 20.75.62,"","","",FALSE
+65662,decoratieve kunst ; Italie,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: decoratieve kunst#bt: kunst van europa ; Italië#rt: Italië#tc: 21.80.33,"","","",FALSE
+65663,schilderkunst ; hedendaags ; België,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; België en Luxemburg#bt: kunst ; hedendaags ; België en Luxemburg#bt: schilderkunst ; hedendaags#rt: België#tc: 21.08.12,"","","",FALSE
+65664,iconografie ; de maatschappij,onderwerp,niet gedefinieerd,84,"","","","","","",,"",bt: iconografie#nt: iconografie ; de maatschappij ; België#nt: iconografie ; de maatschappij ; Nederland#rt: genrevoorstellingen#tc: 20.24,"","","",FALSE
+65666,"kleding, mode ; japan",onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: kleding, mode#bt: kunst van Azië#rt: Japan#tc: 21.85.77","","","",FALSE
+65667,industriële vormgeving ; Zweden,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: industriële vormgeving#bt: kunst van Europa ; Zweden#rt: Zweden#tc: 21.82.52,"","","",FALSE
+65668,tentoonstellingen ; Verenigde Staten,onderwerp,niet gedefinieerd,109,"","","","","","",,"",bt: tentoonstellingen#rt: Verenigde Staten#tc: 20.13.62,"","","",FALSE
+65670,tentoonstellingen ; België,onderwerp,niet gedefinieerd,106,"","","","","","",,"",bt: tentoonstellingen#rt: België#tc: 20.13.12,"","","",FALSE
+65672,tentoonstellingen ; BRD,onderwerp,niet gedefinieerd,149,"","","","","","",,"",bt: tentoonstellingen#rt: duitsland#tc: 20.13.17,"","","",FALSE
+65673,vroege geschiedenis ; Zuid-Europa en Zuidoost Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van Europa#bt: vroege geschiedenis#rt: Europa#tc: 15.63.30,"","","",FALSE
+65675,schilderkunst ; negentiende eeuw ; België,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; België en Luxemburg#bt: kunst ; negentiende eeuw ; België#bt: schilderkunst ; negentiende eeuw#rt: België#tc: 21.06.12,"","","",FALSE
+65676,schilderkunst ; twintigste eeuw ; België,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; België en Luxemburg#bt: kunst ; twintigste eeuw ; België en Luxemburg#bt: schilderkunst ; twintigste eeuw#rt: België#tc: 21.07.12,"","","",FALSE
+65677,muziekgeschiedenis ; barok ; Oostenrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: muziekgeschiedenis ; barok#rt: Oostenrijk#tc: 24.54.20,"","","",FALSE
+65679,kunst van Europa ; Nederland,onderwerp,niet gedefinieerd,51,"","","","","","",,"","bt: geschiedenis van de beeldhouwkunst ; Nederland#bt: kunst van Europa#nt: binnenhuiskunst ; Nederland#nt: decoratieve kunst ; Nederland#nt: edelsmeedkunst ; Nederland#nt: geschiedenis van de bouwkunst ; Nederland#nt: geschiedenis van de fotografische kunst ; Nederland#nt: geschiedenis van de grafische kunst ; Nederland#nt: geschiedenis van de schilderkunst ; Nederland#nt: geschiedenis van de tekenkunst ; Nederland#nt: industriële vormgeving ; Nederland#nt: keramiek ; Nederland#nt: kleding, mode ; Nederland#nt: metaalbewerking ; Nederland#nt: religieuze bouwkunst ; Nederland#nt: textielkunst ; Nederland#nt: toegepaste grafische kunst ; Nederland#nt: utilitaire bouwkunst ; Nederland#nt: woningbouw (bouwkunst) ; Nederland#rt: kunst en maatschappij ; overige ; Nederland#tc: 20.70.11#uf: geschiedenis van de kunst ; Nederland","","","",FALSE
+65680,muziekgeschiedenis ; klassieken ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: muziek#bt: muziekwetenschap#rt: Nederland#tc: 24.55.11,"","","",FALSE
+65681,snaarinstrumenten ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: snaarinstrumenten#tc: 24.82.11,"","","",FALSE
+65682,kunst ; hedendaags ; Europa,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Europa#nt: grafische kunst ; hedendaags ; Oost-Europa#nt: grafische kunst ; hedendaags ; Zuid- en Zuidoost Europa#nt: schilderkunst ; hedendaags ; Europa#nt: tekenkunst ; hedendaags ; Europa#tc: 20.76.05,"","","",FALSE
+65684,grafische kunst ; hedendaags ; Sovjet Unie,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; hedendaags#rt: Rusland#tc: 21.38.41,"","","",FALSE
+65690,geschiedenis van buitenlandse betrekkingen ; België,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van belgië#bt: geschiedenis van buitenlandse betrekkingen#rt: België#tc: 15.12.12,"","","",FALSE
+65691,kunst ; negentiende eeuw ; Noord-Amerika,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; negentiende eeuw#rt: Noord-Amerika#tc: 20.74.61,"","","",FALSE
+65695,vormgeving van boeken ; Nederland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: vormgeving van boeken#rt: Nederland#tc: 06.22.11,"","","",FALSE
+65698,kunst ; hedendaags ; Oostenrijk,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Oostenrijk#nt: tekenkunst ; hedendaags ; Oostenrijk#rt: Oostenrijk#tc: 20.76.20,"","","",FALSE
+65700,schilderkunst ; renaissance ; Italië,onderwerp,niet gedefinieerd,24,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; italië#bt: kunst ; renaissance ; Italië#bt: schilderkunst ; renaissance#rt: Italië#tc: 21.04.33,"","","",FALSE
+65702,tekenkunst ; hedendaags ; Italië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Italië#bt: kunst ; hedendaags ; Italië#bt: tekenkunst ; hedendaags#rt: Italië#tc: 21.28.33,"","","",FALSE
+65703,industriële vormgeving ; Oostenrijk,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: industriële vormgeving#bt: kunst van europa ; Oostenrijk#rt: Oostenrijk#tc: 21.82.20,"","","",FALSE
+65705,iconografie ; de mens ; Nederland,onderwerp,niet gedefinieerd,33,"","","","","","",,"",bt: iconografie ; de mens#rt: Nederland#tc: 20.23.11,"","","",FALSE
+65706,iconografie ; de maatschappij ; Nederland,onderwerp,niet gedefinieerd,14,"","","","","","",,"",bt: iconografie ; de maatschappij#rt: Nederland#tc: 20.24.11,"","","",FALSE
+65707,geschiedenis van de schilderkunst ; België en Luxemburg,onderwerp,niet gedefinieerd,20,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van Europa ; België en Luxemburg#nt: schilderkunst ; barok, klassicisme ; België#nt: schilderkunst ; hedendaags ; België#nt: schilderkunst ; middeleeuwen ; België en Luxemburg#nt: schilderkunst ; negentiende eeuw ; België#nt: schilderkunst ; renaissance ; België en Luxemburg#nt: schilderkunst ; twintigste eeuw ; België#rt: België#rt: Luxemburg#tc: 21.02.12","","","",FALSE
+65708,grafische kunst ; twintigste eeuw ; BRD en west Berlijn,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: grafische kunst ; twintigste eeuw ; Duitsland#rt: Duitsland#tc: 21.37.17,"","","",FALSE
+65709,kunst ; twintigste eeuw ; België en Luxemburg,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: bouwkunst ; hedendaags ; België#nt: grafische kunst ; twintigste eeuw ; België en Luxemburg#nt: schilderkunst ; twintigste eeuw ; België#rt: België#rt: Luxemburg#tc: 20.75.12,"","","",FALSE
+65710,keramiek ; Verenigde Staten,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: Keramiek#bt: kunst van Amerika#rt: Verenigde Staten#tc: 21.88.62,"","","",FALSE
+65711,kunst ; hedendaags ; België en Luxemburg,onderwerp,niet gedefinieerd,22,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; België en Luxemburg#nt: grafische kunst ; hedendaags ; België#nt: Stichting Veranneman#nt: schilderkunst ; hedendaags ; België#nt: tekenkunst ; hedendaags ; België#rt: België#rt: Luxemburg#tc: 20.76.12#uf: kunst ; hedendaags ; belgië,"","","",FALSE
+65712,grafische kunst ; twintigste eeuw ; België en Luxemburg,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; België en Luxemburg#bt: grafische kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; België en Luxemburg#rt: België#rt: Luxemburg#tc: 21.37.12,"","","",FALSE
+65714,keramiek ; BRD en West Berlijn,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: keramiek ; Duitsland#rt: Duitsland#tc: 21.88.17,"","","",FALSE
+65718,kunst ; negentiende eeuw ; Noorwegen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; negentiende eeuw#rt: Noorwegen#tc: 20.74.51,"","","",FALSE
+65719,kunst ; negentiende eeuw ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; negentiende eeuw#nt: schilderkunst ; negentiende eeuw ; Verenigde Staten#rt: Verenigde Staten#tc: 20.74.62,"","","",FALSE
+65720,vroege geschiedenis ; Europa algemeen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van Europa#bt: vroege geschiedenis#rt: Europa#tc: 15.63.05,"","","",FALSE
+65721,grafische kunst ; twintigste eeuw ; Denemarken,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; twintigste eeuw#bt: kunst van Europa ; Denemarken#rt: Denemarken#tc: 21.37.54,"","","",FALSE
+65723,kunst ; hedendaags ; Groot-Brittannië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; hedendaags#bt: kunst van Europa ; Groot-Brittannië#nt: beeldhouwkunst ; hedendaags ; Groot-Brittannie#nt: grafische kunst ; hedendaags ; Groot-Brittannië#nt: schilderkunst ; hedendaags ; Groot-Brittannië#rt: Groot-Brittannië#tc: 20.76.13,"","","",FALSE
+65731,tentoonstellingen ; Frankrijk,onderwerp,niet gedefinieerd,161,"","","","","","",,"",bt: tentoonstellingen#rt: Frankrijk#tc: 20.13.15,"","","",FALSE
+65732,"beeldhouwkunst ; barok, klassicisme ; Nederland",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: beeldhouwkunst ; barok, klassicisme#bt: geschiedenis van de beeldhouwkunst ; Nederland#bt: kunst ; barok, klassicisme ; Nederland#nt: beeldhouwkunst ; zeventiende eeuw ; Nederland#rt: Nederland#tc: 21.55.11","","","",FALSE
+65733,kunstwetenschappen ; BRD,onderwerp,niet gedefinieerd,38,"","","","","","",,"",bt: kunstwetenschappen#bt: kunstwetenschappen ; Duitsland#rt: Duitsland#tc: 20.00.17,"","","",FALSE
+65736,schilderkunst ; hedendaags ; Duitsland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; duitsland#bt: kunst ; hedendaags ; Duitsland#bt: schilderkunst ; hedendaags#rt: Duitsland#tc: 21.08.17,"","","",FALSE
+65738,"numismatiek, sigillografie ; Nederland",onderwerp,niet gedefinieerd,16,"","","","","","",,"","bt: numismatiek, sigillografie#rt: Nederland#tc: 15.23.11","","","",FALSE
+65739,sociale geschiedenis ; Nederland,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van Nederland#bt: sociale geschiedenis#rt: Nederland#tc: 15.17.11,"","","",FALSE
+65740,schilderkunst ; hedendaags ; Italië,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Italië#bt: kunst ; hedendaags ; Italië#bt: schilderkunst ; hedendaags#rt: Italië#tc: 21.08.33,"","","",FALSE
+65741,"tekenkunst ; barok, klassicisme ; Italië",onderwerp,niet gedefinieerd,4,"","","","","","",,"","bt: geschiedenis van de tekenkunst ; Italië#bt: kunst ; barok, klassicisme ; Italië#bt: tekenkunst ; barok, klassicisme#tc: 21.25.33","","","",FALSE
+65742,bouwkunst ; negentiende eeuw ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: bouwkunst ; negentiende eeuw#bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst ; negentiende eeuw ; Nederland#rt: Nederland#tc: 21.66.11,"","","",FALSE
+65743,tekenkunst ; renaissance ; Nederland,onderwerp,niet gedefinieerd,8,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Nederland#bt: kunst ; renaissance ; Nederland#bt: tekenkunst ; renaissance#rt: Nederland#tc: 21.24.11,"","","",FALSE
+65744,geschiedenis van de tekenkunst ; Frankrijk,onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: geschiedenis van de tekenkunst#bt: kunst van europa ; frankrijk#nt: tekenkunst ; barok, klassicisme ; Frankrijk#nt: tekenkunst ; negentiende eeuw ; Frankrijk#nt: tekenkunst ; renaissance ; Frankrijk#rt: Frankrijk#tc: 21.22.15","","","",FALSE
+65745,tekenkunst ; negentiende eeuw ; Frankrijk,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Frankrijk#bt: kunst ; negentiende eeuw ; Frankrijk#bt: tekenkunst ; negentiende eeuw#rt: Frankrijk#tc: 21.26.15,"","","",FALSE
+65747,kunst ; twintigste eeuw ; Frankrijk,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: beeldhouwkunst ; twintigste eeuw ; Frankrijk#nt: bouwkunst ; twintigste eeuw ; Frankrijk#nt: grafische kunst ; twintigste eeuw ; Frankrijk#nt: schilderkunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 20.75.15,"","","",FALSE
+65748,"schilderkunst ; barok, klassicisme ; Groot-Brittannië",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: Geschiedenis van de schilderkunst ; Groot-Brittannië#bt: kunst ; barok, klassicisme ; Groot-Brittannië#bt: schilderkunst ; barok, klassicisme#rt: Groot-Brittannië#tc: 21.05.13","","","",FALSE
+65749,schilderkunst ; negentiende eeuw ; Groot-Brittannië,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: Geschiedenis van de schilderkunst ; Groot-Brittannië#bt: kunst ; negentiende eeuw ; Groot-Brittannië#bt: schilderkunst ; negentiende eeuw#rt: Groot-Brittannië#tc: 21.06.13,"","","",FALSE
+65750,grafische kunst ; middeleeuwen ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; duitsland#bt: kunst ; middeleeuwen ; duitsland#rt: Duitsland#tc: 21.33.16,"","","",FALSE
+65751,grafische kunst ; renaissance ; Nederland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Nederland#bt: grafische kunst ; renaissance#bt: kunst ; renaissance ; Nederland#rt: Nederland#tc: 21.34.11,"","","",FALSE
+65752,grafische kunst ; hedendaags ; Polen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Polen#bt: kunst van Europa ; Polen#rt: Polen#tc: 21.38.42,"","","",FALSE
+65753,grafische kunst ; hedendaags ; Groot-Brittannië,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Groot-Brittannië#bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.38.13,"","","",FALSE
+65754,grafische kunst ; negentiende eeuw ; België en Luxemburg,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; België en Luxemburg#bt: grafische kunst ; negentiende eeuw#bt: kunst ; negentiende eeuw ; België#rt: België#rt: Luxemburg#tc: 21.36.13,"","","",FALSE
+65755,schilderkunst ; twintigste eeuw ; Oost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Europa#bt: kunst ; twintigste eeuw ; Oost-Europa#bt: schilderkunst ; twintigste eeuw#rt: Europa#tc: 21.07.40,"","","",FALSE
+65757,kunst ; hedendaags ; Spanje,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; hedendaags#nt: schilderkunst ; hedendaags ; Spanje#rt: Spanje#tc: 20.76.31,"","","",FALSE
+65759,glaskunst ; Oost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: glaskunst#bt: kunst van Europa#rt: Europa#tc: 21.90.40,"","","",FALSE
+65763,"tekenkunst ; barok, klassicisme ; België en Luxemburg",onderwerp,niet gedefinieerd,5,"","","","","","",,"","bt: geschiedenis van de tekenkunst ; België en Luxemburg#bt: kunst ; barok, klassicisme ; België en Luxemburg#bt: tekenkunst ; barok, klassicisme#rt: België#rt: Luxemburg#tc: 21.25.12","","","",FALSE
+65765,tekenkunst ; negentiende eeuw ; Duitsland,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Duitsland#bt: kunst ; negentiende eeuw ; Duitsland#bt: tekenkunst ; negentiende eeuw#rt: Duitsland#tc: 21.26.16,"","","",FALSE
+65773,tentoonstellingen ; Duitsland,onderwerp,niet gedefinieerd,113,"","","","","","",,"",bt: tentoonstellingen#rt: duitsland#tc: 20.13.16,"","","",FALSE
+65774,kunsthandel ; Nederland,onderwerp,niet gedefinieerd,86,"","","","","","",,"",bt: kunsthandel#rt: Nederland#tc: 20.14.11,"","","",FALSE
+65775,verzamelwezen ; Nederland,onderwerp,niet gedefinieerd,224,"","","","","","",,"",bt: verzamelwezen#rt: Nederland#tc: 20.11.11,"","","",FALSE
+65777,grafische kunst ; hedendaags ; DDR,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; hedendaags ; Duitsland#rt: Duitsland#tc: 21.38.18,"","","",FALSE
+65778,grafische kunst ; hedendaags ; Frankrijk,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Frankrijk#bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Frankrijk#rt: Frankrijk#tc: 21.38.15,"","","",FALSE
+65779,vormgeving van boeken ; Oost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: vormgeving van boeken#rt: Europa#tc: 06.22.40,"","","",FALSE
+65780,kunst ; hedendaags ; Noorwegen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; hedendaags#rt: Noorwegen#tc: 20.76.51,"","","",FALSE
+65781,productie en distributie van boeken ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: productie en distributie van boeken#rt: Verenigde Staten#tc: 06.23.62,"","","",FALSE
+65783,kunstwetenschappen ; Oost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstwetenschappen#rt: Europa#tc: 20.00.40,"","","",FALSE
+65787,grafische kunst ; twintigste eeuw ; Frankrijk,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Frankrijk#bt: grafische kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 21.37.15,"","","",FALSE
+65788,grafische kunst ; twintigste eeuw ; Spanje,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: grafische kunst ; twintigste eeuw#rt: Spanje#tc: 21.37.31,"","","",FALSE
+65791,grafische kunst ; hedendaags ; Israël,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; hedendaags#rt: Israël#tc: 21.38.72,"","","",FALSE
+65792,kunst ; twintigste eeuw ; Oost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: schilderkunst ; twintigste eeuw ; Oost-Europa#rt: Europa#tc: 20.75.40,"","","",FALSE
+65797,zilver ; Belgisch,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: zilver#bt: edelsmeedkunst ; België#rt: België,"","","",FALSE
+65798,"bouwkunst ; barok, klassicisme ; Nederland",onderwerp,niet gedefinieerd,12,"","","","","","",,"","bt: bouwkunst ; barok, klassicisme#bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst ; barok, klassicisme ; Nederland#rt: Nederland#tc: 21.65.11","","","",FALSE
+65799,tentoonstellingen ; Groot-Brittannië,onderwerp,niet gedefinieerd,89,"","","","","","",,"",bt: tentoonstellingen#rt: Groot-Brittannië#tc: 20.13.13,"","","",FALSE
+65800,zilver ; Nederlands,onderwerp,niet gedefinieerd,26,"","","","","","",,"",bt: zilver#bt: edelsmeedkunst ; Nederland#rt: Nederland,"","","",FALSE
+65808,kunst ; hedendaags ; Duitsland,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Duitsland#nt: grafische kunst ; hedendaags ; Duitsland#nt: schilderkunst ; hedendaags ; Duitsland#nt: tekenkunst ; hedendaags ; Duitsland#rt: duitsland#tc: 20.76.16,"","","",FALSE
+65810,beeldhouwkunst ; twintigste eeuw ; Duitsland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: beeldhouwkunst ; twintigste eeuw#bt: geschiedenis van de beeldhouwkunst ; Duitsland#bt: kunst ; twintigste eeuw ; Duitsland#nt: beeldhouwkunst ; hedendaags ; Duitsland#nt: beeldhouwkunst ; twintigste eeuw ; BRD#rt: Duitsland#tc: 21.57.16,"","","",FALSE
+65812,"wetenschapsbeleid, cultuurbeleid ; Nederland",onderwerp,niet gedefinieerd,280,"","","","","","",,"","bt: wetenschapsbeleid, cultuurbeleid#rt: Nederland#tc: 02.15.11","","","",FALSE
+65814,muziek ; twintigste eeuw ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: muziek ; twintigste eeuw#tc: 24.57.11,"","","",FALSE
+65815,tentoonstellingen ; Japan,onderwerp,niet gedefinieerd,45,"","","","","","",,"",bt: tentoonstellingen#rt: Japan#tc: 20.13.77,"","","",FALSE
+65818,museumwezen ; Nederland,onderwerp,niet gedefinieerd,79,"","","","","","",,"",bt: museumwezen#nt: Rijkscommissie voor de musea#nt: rijksmusea#nt: Stichting Museumjaarkaart#rt: Nederland#tc: 20.12.11,"","","",FALSE
+65820,genealogie en heraldiek ; Nederland,onderwerp,niet gedefinieerd,27,"","","","","","",,"","bt: genealogie en heraldiek#nt: gemeentewapens#rt: Dierkens, geslacht#tc: 15.22.11","","","",FALSE
+65822,beeldhouwkunst ; negentiende eeuw ; nederland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: beeldhouwkunst ; negentiende eeuw#bt: geschiedenis van de beeldhouwkunst ; Nederland#bt: kunst ; negentiende eeuw ; Nederland#rt: Nederland#tc: 21.56.11,"","","",FALSE
+65823,"locale geschiedenis, regionale geschiedenis ; Nederland",onderwerp,niet gedefinieerd,122,"","","","","","",,"","bt: geschiedenis van Nederland#bt: locale geschiedenis, regionale geschiedenis#tc: 15.16.11","","","",FALSE
+65831,keramiek ; Azië,onderwerp,niet gedefinieerd,10,"","","","","","",,"",bt: Keramiek#rt: Azië#tc: 21.88.70,"","","",FALSE
+65834,prehistorie ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: archeologie ; Nederland#bt: geschiedenis van Nederland#bt: prehistorie#nt: archeologie ; prehistorie ; Nederland#tc: 15.62.11,"","","",FALSE
+65836,tentoonstellingen ; Portugal,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: tentoonstellingen#rt: Portugal#tc: 20.13.32,"","","",FALSE
+65838,kunstwetenschappen ; België,onderwerp,niet gedefinieerd,41,"","","","","","",,"",bt: kunstwetenschappen#rt: België#tc: 20.00.12#uf: kunstwetenschappen in België en Luxemburg,"","","",FALSE
+65842,tekenkunst ; hedendaags ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Duitsland#bt: kunst ; hedendaags ; Duitsland#bt: tekenkunst ; hedendaags#rt: Duitsland#tc: 21.28.16,"","","",FALSE
+65843,tentoonstellingen ; Spanje,onderwerp,niet gedefinieerd,32,"","","","","","",,"",bt: tentoonstellingen#rt: Spanje#tc: 20.13.31,"","","",FALSE
+65844,tentoonstellingen ; Zwitserland,onderwerp,niet gedefinieerd,52,"","","","","","",,"",bt: tentoonstellingen#rt: Zwitserland#tc: 20.13.19,"","","",FALSE
+65845,kunst ; hedendaags ; Zwitserland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Zwitserland#rt: Zwitserland#tc: 20.76.19,"","","",FALSE
+65846,kunst ; hedendaags ; Turkije,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst ; hedendaags#rt: Turkije#tc: 20.76.35,"","","",FALSE
+65848,kunst van Europa ; Groot-Brittannië,onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: kunst van Europa#nt: binnenhuiskunst ; Groot-Brittannië#nt: Geschiedenis van de schilderkunst ; Groot-Brittannië#nt: geschiedenis van de beeldhouwkunst ; Groot-Brittannië#nt: geschiedenis van de grafische kunst ; Groot-Brittannië#nt: geschiedenis van de tekenkunst ; Groot-Brittannië#nt: keramiek ; Groot-Brittannië#nt: kleding, mode ; Groot-Brittannië#nt: kunst ; hedendaags ; Groot-Brittannië#nt: textielkunst ; Groot-Brittannië#rt: Groot-Brittannië#tc: 20.70.13","","","",FALSE
+65849,kunst ; twintigste eeuw ; Hongarije,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: kunst ; twintigste eeuw#rt: Hongarije#tc: 20.75.44,"","","",FALSE
+65851,tentoonstellingen ; Italië,onderwerp,niet gedefinieerd,101,"","","","","","",,"",bt: tentoonstellingen#rt: Italië#tc: 20.13.33,"","","",FALSE
+65854,industriële archeologie ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: archeologie ; Nederland#rt: industrieel erfgoed#rt: Nederland#tc: 15.35.11,"","","",FALSE
+65858,tentoonstellingen ; Griekenland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: tentoonstellingen#rt: Griekenland#tc: 20.13.34,"","","",FALSE
+65859,tekenkunst ; middeleeuwen ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Nederland#bt: kunst ; middeleeuwen ; Nederland#bt: tekenkunst ; middeleeuwen#rt: Nederland#tc: 21.23.11,"","","",FALSE
+65860,tekenkunst ; renaissance ; Frankrijk,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Frankrijk#bt: kunst ; renaissance ; Frankrijk#bt: tekenkunst ; renaissance#rt: Frankrijk#tc: 21.24.15,"","","",FALSE
+65861,"tekenkunst ; barok, klassicisme ; Frankrijk",onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: geschiedenis van de tekenkunst ; Frankrijk#bt: kunst ; barok, klassicisme ; Frankrijk#bt: tekenkunst ; barok, klassicisme#rt: Frankrijk#tc: 21.25.15","","","",FALSE
+65875,tentoonstellingen ; Oostenrijk,onderwerp,niet gedefinieerd,24,"","","","","","",,"",bt: tentoonstellingen#rt: Oostenrijk#tc: 20.13.20,"","","",FALSE
+65876,schilderkunst ; middeleeuwen ; Nederland,onderwerp,niet gedefinieerd,19,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Nederland#bt: kunst ; middeleeuwen ; Nederland#bt: schilderkunst ; middeleeuwen#rt: Nederland#tc: 21.03.11,"","","",FALSE
+65877,schilderkunst ; renaissance ; België en Luxemburg,onderwerp,niet gedefinieerd,23,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; België en Luxemburg#bt: kunst ; renaissance ; België#bt: schilderkunst ; renaissance#rt: België#rt: Luxemburg#tc: 21.04.12,"","","",FALSE
+65886,iconografie ; de natuur ; Nederland,onderwerp,niet gedefinieerd,35,"","","","","","",,"",bt: iconografie ; de natuur#rt: Nederland#tc: 20.22.11,"","","",FALSE
+65985,geschiedenis van de fotografische kunst ; Nederland,onderwerp,niet gedefinieerd,59,"","","","","","",,"",bt: fotografische kunst ; Nederland#bt: geschiedenis van de fotografische kunst#bt: kunst van Europa ; Nederland#rt: Nederland#tc: 21.47.11,"","","",FALSE
+65992,binnenhuiskunst ; Groot-Brittannië,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: binnenhuiskunst#bt: kunst van Europa ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.84.13,"","","",FALSE
+65993,cultuurgeschiedenis ; Verenigde Staten,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: cultuurgeschiedenis#bt: geschiedenis van de Verenigde Staten#tc: 15.13.62,"","","",FALSE
+65994,kunst in relatie tot andere gebieden van cultuur ; Nederland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunst in relatie tot andere gebieden van cultuur#rt: Nederland#tc: 20.05.11,"","","",FALSE
+65996,keramiek ; Zweden,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa ; Zweden#rt: Zweden#tc: 21.88.52,"","","",FALSE
+65997,glaskunst ; Zweden,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: glaskunst#bt: kunst van Europa ; Zweden#rt: Zweden#tc: 21.90.52,"","","",FALSE
+65998,kunst ; twintigste eeuw ; Polen,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; twintigste eeuw#rt: Polen#tc: 20.75.42,"","","",FALSE
+66009,textielkunst ; Groot-Brittannië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst van Europa ; Groot-Brittannië#bt: textielkunst#rt: Groot-Brittannië#tc: 21.86.13,"","","",FALSE
+66010,textielkunst ; Azië,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: kunst van Azië#bt: textielkunst#rt: Azië#tc: 21.86.70,"","","",FALSE
+66011,textielkunst ; Midden-Oosten,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst van Azië#bt: textielkunst#rt: Azië#tc: 21.86.72,"","","",FALSE
+66013,binnenhuiskunst ; Frankrijk,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: binnenhuiskunst#bt: kunst van europa ; frankrijk#rt: Frankrijk#tc: 21.84.15,"","","",FALSE
+66014,binnenhuiskunst ; Nederland,onderwerp,niet gedefinieerd,151,"","","","","","",,"",bt: binnenhuiskunst#bt: kunst van Europa ; Nederland#rt: Nederland#tc: 21.84.11,"","","",FALSE
+66015,keramiek ; Europa,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa#rt: Europa#tc: 21.88.05,"","","",FALSE
+66017,cultuurgeschiedenis ; Nederland,onderwerp,niet gedefinieerd,73,"","","","","","",,"",bt: cultuurgeschiedenis#bt: geschiedenis van Nederland#rt: Nederland#tc: 15.13.11#uf: cultuurgeschiedenis; Nederland,"","","",FALSE
+66021,religieuze bouwkunst ; Nederland,onderwerp,niet gedefinieerd,11,"","","","","","",,"","bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst van Europa ; Nederland#bt: religieuze bouwkunst#nt: Dom van Utrecht#nt: Eusebiuskerk, Arnhem#rt: Nederland#tc: 21.70.11","","","",FALSE
+66023,bouwkunst ; renaissance ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: bouwkunst ; renaissance#bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst ; renaissance ; Nederland#rt: Nederland#tc: 21.64.11,"","","",FALSE
+66027,adresboeken ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: Adresboeken#rt: Duitsland#tc: 01.24.16,"","","",FALSE
+66028,museumwezen ; Duitsland,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: museumwezen#rt: Duitsland#tc: 20.12.16,"","","",FALSE
+66029,kunsthandel ; Groot-Brittannië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunsthandel#rt: Groot-Brittannië#tc: 20.14.13,"","","",FALSE
+66034,tekenkunst ; renaissance ; Italie,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Italië#bt: kunst ; renaissance ; Italië#bt: tekenkunst ; renaissance#rt: Italië#tc: 21.24.33,"","","",FALSE
+66036,tentoonstellingen ; Australië,onderwerp,niet gedefinieerd,14,"","","","","","",,"",bt: tentoonstellingen#rt: Australië#tc: 20.13.90,"","","",FALSE
+66040,onderwerpsontsluiting ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: onderwerpsontsluiting#tc: 06.72.11,"","","",FALSE
+66049,tentoonstellingen ; Noord-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: tentoonstellingen#rt: Europa#tc: 20.13.50,"","","",FALSE
+66050,iconografie ; de natuur ; Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: iconografie ; de natuur#rt: Europa#tc: 20.22.05,"","","",FALSE
+66052,tentoonstellingen ; Polen,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: tentoonstellingen#rt: Polen#tc: 20.13.42,"","","",FALSE
+66054,iconografie ; geschiedenis ; Nederland,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: iconografie ; geschiedenis#rt: Nederland#tc: 20.26.11,"","","",FALSE
+66055,filosofie en theorie van de kunstwetenschappen ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: filosofie en theorie van de kunstwetenschappen#rt: filosofie en theorie der wetenschap#rt: filosofie van de kunst#rt: Nederland#tc: 20.02.11,"","","",FALSE
+66056,binnenhuiskunst ; Europa,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: binnenhuiskunst#bt: kunst van Europa#rt: Europa#tc: 21.84,"","","",FALSE
+66057,kunsthandel ; Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunsthandel#rt: Europa#tc: 20.14.05,"","","",FALSE
+66059,metaalbewerking ; Nederland,onderwerp,niet gedefinieerd,18,"","","","","","",,"",bt: kunst van Europa ; Nederland#bt: metaalbewerking#rt: Nederland#tc: 21.91.11,"","","",FALSE
+66063,edelsmeedkunst ; Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: edelsmeedkunst#bt: kunst van Europa#rt: Europa#tc: 21.92.05,"","","",FALSE
+66064,kunstwetenschappen: overige ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstwetenschappen ; overige#rt: Nederland#tc: 20.99.11,"","","",FALSE
+66066,"kleding, mode ; Nederland",onderwerp,niet gedefinieerd,19,"","","","","","",,"","bt: kleding, mode#bt: kunst van Europa ; Nederland#rt: Nederland#tc: 21.85.11","","","",FALSE
+66070,religieuze bouwkunst ; Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de bouwkunst ; Europa#bt: religieuze bouwkunst#rt: Europa#tc: 21.70.05,"","","",FALSE
+66072,iconografie ; literatuur ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: iconografie ; literatuur#rt: Nederland#tc: 20.28.11,"","","",FALSE
+66073,utilitaire bouwkunst ; Nederland,onderwerp,niet gedefinieerd,152,"","","","","","",,"","bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst van Europa ; Nederland#bt: utilitaire bouwkunst#nt: Bartholomeus Gasthuis#nt: Beurs van Berlage#nt: Binnenhof, het#nt: Fogelsangh-state, Veenklooster#nt: Gemeenlandshuis Hoogheemraadschap Delfland#nt: Heringa-State#nt: Honselaarsdijk#nt: Kabinet der Koningin#nt: Korenhuis, Het#nt: Plein 23#nt: Schuylenburch, huis#nt: St. Elisabeth-gesticht, Amsterdam#rt: Nederland#tc: 21.71.11","","","",FALSE
+66074,geschiedenis van de tekenkunst ; Europa,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de tekenkunst#bt: kunst van Europa#nt: tekenkunst ; hedendaags ; Europa#rt: Europa#tc: 21.22.05,"","","",FALSE
+66075,technieken en materialen (tekenkunst) ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: technieken en materialen (tekenkunst)#rt: Nederland#tc: 21.21.11,"","","",FALSE
+66119,kunstbevordering ; Nederland,onderwerp,niet gedefinieerd,32,"","","","","","",,"",bt: kunstbevordering#nt: Provinciaal Genootschap van Kunsten en Wetenschappen#nt: Rotterdamse Kunststichting#nt: verzameling Koninklijk Zeeuwsch genootschap der wetenschap#nt: Wim Izaks Stipendium#rt: Nederland#rt: organisaties van kunst en cultuur ; Nederland#tc: 20.16.11,"","","",FALSE
+66120,glasraamkunst ; Nederland,onderwerp,niet gedefinieerd,18,"","","","","","",,"",bt: glasraamkunst#rt: Nederland#tc: 21.12.11,"","","",FALSE
+66121,kunst ; twintigste eeuw ; Rusland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; Sovjet-Unie#nt: schilderkunst ; twintigste eeuw ; Rusland#rt: Rusland#tc: 20.75.41,"","","",FALSE
+66122,Avant-garde ; Rusland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: avant-garde,"","","",FALSE
+66123,kunst ; negentiende eeuw ; Europa,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunst ; negentiende eeuw#nt: beeldhouwkunst ; negentiende eeuw ; Zuid- en Zuidoost-Europa#nt: grafische kunst ; negentiende eeuw ; Zuid- en Zuidoost Europa#rt: Europa#tc: 20.74.05,"","","",FALSE
+66124,adresboeken ; Nederland,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: Adresboeken#rt: Nederland#tc: 01.24.11,"","","",FALSE
+66125,technieken en materialen (grafische kunst) ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: technieken en materialen (grafische kunst)#rt: Nederland#tc: 21.31.11,"","","",FALSE
+66126,ambtenarenrecht; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: jurisprudentie#nt: ARAR#rt: arbeidsomstandigheden, arbeidsvoorwaarden#tc: 86.57.11","","","",FALSE
+66127,kunstwetenschappen ; Canada,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunstwetenschappen#rt: Canada#tc: 20.00.63,"","","",FALSE
+66128,overheidseconomie ; Nederland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: overheidseconomie#tc: 83.52.11,"","","",FALSE
+66130,pers ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: pers#rt: Nederland#tc: 05.33.11,"","","",FALSE
+66131,belastingrecht ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: belastingrecht#bt: jurisprudentie#rt: Nederland#tc: 86.61.11,"","","",FALSE
+66134,fotografische kunst ; overige,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: fotografische kunst#tc: 21.49,"","","",FALSE
+66135,schilderkunst ; twintigste eeuw ; Spanje,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Spanje#bt: kunst ; twintigste eeuw ; Spanje#bt: schilderkunst ; twintigste eeuw#rt: Spanje#tc: 21.07.31,"","","",FALSE
+66136,schilderkunst ; hedendaags ; Spanje,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Spanje#bt: kunst ; hedendaags ; Spanje#bt: schilderkunst ; hedendaags#rt: Spanje#tc: 21.08.31,"","","",FALSE
+66140,tekenkunst ; hedendaags ; Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Europa#bt: kunst ; hedendaags ; Europa#bt: tekenkunst ; hedendaags#rt: Europa#tc: 21.28.05,"","","",FALSE
+66142,monumentenzorg ; Nederland,onderwerp,non-descriptor,1,"","","","","","",,"",bt: monumentenzorg#nt: Geldersche Kasteelen#nt: Monumentenraad#nt: Rijksdienst Kastelenbeheer#nt: Rijksdienst voor de Monumentenzorg#nt: Rijksinspecteur voor roerende monumenten#rt: monumentenwet#tc: 21.75.11,rcejulian,2023-05-16,thesau>thesau,FALSE
+66146,tentoonstellingen ; Zweden,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: tentoonstellingen#rt: Zweden#tc: 20.13.52,"","","",FALSE
+66147,kunstwetenschappen ; Brazilië,onderwerp,niet gedefinieerd,15,"","","","","","",,"",bt: kunstwetenschappen#rt: Brazilië#tc: 20.00.66,"","","",FALSE
+66148,tentoonstellingen ; Canada,onderwerp,niet gedefinieerd,25,"","","","","","",,"",bt: tentoonstellingen#rt: Canada#tc: 20.13.63,"","","",FALSE
+66151,productie en distributie van boeken ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: productie en distributie van boeken#rt: Nederland#tc: 06.23.11,"","","",FALSE
+66152,tentoonstellingen ; Hongarije,onderwerp,niet gedefinieerd,40,"","","","","","",,"",bt: tentoonstellingen#rt: Hongarije#tc: 20.13.44,"","","",FALSE
+66153,tentoonstellingen ; Azië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: tentoonstellingen#rt: Azië#tc: 20.13.70,"","","",FALSE
+66157,schilderkunst ; hedendaags ; Noord-Amerika,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: schilderkunst ; hedendaags#rt: Noord-Amerika#tc: 21.08.62,"","","",FALSE
+66158,kunst ; hedendaags ; Rusland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Sovjet-Unie#rt: Rusland#tc: 20.76.41,"","","",FALSE
+66167,kunst ; twintigste eeuw ; Duitsland,onderwerp,niet gedefinieerd,10,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: beeldhouwkunst ; twintigste eeuw ; Duitsland#nt: grafische kunst ; twintigste eeuw ; Duitsland#nt: kunst ; twintigste eeuw ; BRD#nt: schilderkunst ; twintigste eeuw ; Duitsland#nt: tekenkunst ; twintigste eeuw ; Duitsland#rt: duitsland#tc: 20.75.16,"","","",FALSE
+66169,stedebouw (bouwkunst) ; Nederland,onderwerp,niet gedefinieerd,14,"","","","","","",,"",bt: stedebouw (bouwkunst)#rt: Nederland#tc: 21.73.11,"","","",FALSE
+66172,tentoonstellingen ; Denemarken,onderwerp,niet gedefinieerd,21,"","","","","","",,"",bt: tentoonstellingen#rt: denemarken#tc: 20.13.54,"","","",FALSE
+66177,"landschapskunst, tuinkunst ; Nederland",onderwerp,niet gedefinieerd,7,"","","","","","",,"","bt: landschapskunst, tuinkunst#rt: Nederland#tc: 21.74.11","","","",FALSE
+66180,edelsmeedkunst ; België,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: edelsmeedkunst#bt: kunst van Europa ; België en Luxemburg#nt: zilver ; Belgisch#rt: België#tc: 21.92.12,"","","",FALSE
+66182,kunst ; hedendaags ; Zweden,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst ; hedendaags#nt: grafische kunst ; hedendaags ; Zweden#rt: Zweden#tc: 20.76.52,"","","",FALSE
+66188,"wetenschapsbeleid, cultuurbeleid ; België",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: wetenschapsbeleid, cultuurbeleid#rt: België#tc: 02.15.12","","","",FALSE
+66191,methoden en technieken van de kunstwetenschappen ; Nederland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: methoden en technieken van de kunstwetenschappen#rt: Nederland#tc: 20.03.11,"","","",FALSE
+66194,tentoonstellingen ; Finland,onderwerp,niet gedefinieerd,16,"","","","","","",,"",bt: tentoonstellingen#rt: Finland#tc: 20.13.53,"","","",FALSE
+66197,keramiek ; China,onderwerp,niet gedefinieerd,44,"","","","","","",,"",bt: Keramiek#nt: Chine de Commande#nt: porselein ; chinees#rt: China#tc: 21.88.75,"","","",FALSE
+66200,"archieven, archivistiek ; Nederland",onderwerp,niet gedefinieerd,46,"","","","","","",,"","bt: archieven, archivistiek#nt: archiefwet#rt: Nederland#tc: 06.90.11","","","",FALSE
+66201,overheidsbeleid (communicatiewetenschap) ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: communicatiewetenschap#bt: overheidsbeleid#tc: 05.01.11,"","","",FALSE
+66202,"restaureren, conserveren, vervalsen ; België",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: restaureren, conserveren, vervalsen#rt: België#tc: 20.15.12","","","",FALSE
+66203,keramiek ; België en Luxemburg,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa ; België en Luxemburg#nt: porselein ;  België#rt: België#rt: Luxemburg#tc: 21.88.12,"","","",FALSE
+66205,volkskunst ; Nederland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: volkskunst#rt: Nederland#tc: 20.33.11,"","","",FALSE
+66206,woningbouw (bouwkunst) ; Nederland,onderwerp,niet gedefinieerd,29,"","","","","","",,"","bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst van Europa ; Nederland#bt: woningbouw (bouwkunst)#nt: Rembrandthuis, Amsterdam#nt: Rietveld-Schröder huis#nt: Van Limburg Stirumhuis, Den Haag#tc: 21.72.11","","","",FALSE
+66207,"biografische woordenboeken, bijzondere ; Nederland",onderwerp,niet gedefinieerd,4,"","","","","","",,"","bt: biografische woordenboeken, bijzondere#tc: 01.33.11","","","",FALSE
+66212,kunst van Europa ; Finland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst van Europa#nt: keramiek ; Finland#rt: Finland#tc: 20.70.53,"","","",FALSE
+66216,bouwkunst ; twintigste eeuw ; Verenigde staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: bouwkunst ; twintigste eeuw#bt: geschiedenis van de bouwkunst ; Verenigde Staten#bt: kunst ; twintigste eeuw ; Verenigde Staten#rt: Verenigde Staten#tc: 21.67.62,"","","",FALSE
+66224,schilderkunst ; twintigste eeuw ; Rusland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; twintigste eeuw ; Rusland#bt: schilderkunst ; twintigste eeuw#rt: Rusland#tc: 21.07.41,"","","",FALSE
+66225,geschiedenis van de tekenkunst ; Italië,onderwerp,niet gedefinieerd,7,"","","","","","",,"","bt: geschiedenis van de tekenkunst#bt: kunst van europa ; Italië#nt: tekenkunst ; barok, klassicisme ; Italië#nt: tekenkunst ; hedendaags ; Italië#nt: tekenkunst ; renaissance ; Italie#rt: Italië#tc: 21.22.33","","","",FALSE
+66227,schilderkunst ; negentiende eeuw ; Verenigde Staten,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Verenigde Staten#bt: kunst ; negentiende eeuw ; Verenigde Staten#bt: schilderkunst ; negentiende eeuw#rt: Verenigde Staten#tc: 21.06.62,"","","",FALSE
+66232,tentoonstellingen ; Israël,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: tentoonstellingen#rt: israël#tc: 20.13.83,"","","",FALSE
+66233,tentoonstellingen ; Turkije,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: tentoonstellingen#rt: Turkije#tc: 20.13.35,"","","",FALSE
+66235,presentatiebeleid ; internationaal,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: presentaties#rt: presentatiebeleid ; nationaal,"","","",FALSE
+66240,"locale geschiedenis, regionale geschiedenis ; België",onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: geschiedenis van België#bt: locale geschiedenis, regionale geschiedenis#tc: 15.16.12","","","",FALSE
+66241,iconografie ; geschiedenis,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: iconografie#nt: iconografie ; geschiedenis ; België#nt: iconografie ; geschiedenis ; Brazilië#nt: iconografie ; geschiedenis ; Japan#nt: iconografie ; geschiedenis ; Nederland#nt: iconografie ; geschiedenis ; Verenigde Staten#tc: 20.26,"","","",FALSE
+66242,decoratieve kunst ; Nederland,onderwerp,niet gedefinieerd,39,"","","","","","",,"",bt: decoratieve kunst#bt: kunst van Europa ; Nederland#rt: Nederland#tc: 21.80.11,"","","",FALSE
+66245,geschiedenis van de bouwkunst ; Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de bouwkunst#bt: kunst van Europa#nt: bouwkunst ; negentiende eeuw ; Europa#nt: bouwkunst ; twintigste eeuw ; Europa#nt: religieuze bouwkunst ; Europa#rt: Europa#tc: 21.62.05,"","","",FALSE
+66252,beeldhouwkunst ; hedendaags ; Zwitserland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: kunst ; hedendaags ; Zwitserland#rt: Zwitserland#tc: 21.58.19,"","","",FALSE
+66274,grafische kunst ; twintigste eeuw ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Verenigde Staten#bt: grafische kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; Verenigde Staten#rt: Verenigde Staten#tc: 21.37.62,"","","",FALSE
+66275,filmkunst ; verschijningsvormen ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: filmkunst#rt: Nederland#tc: 24.34.11,"","","",FALSE
+66276,textielkunst ; Polen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst van Europa ; Polen#bt: textielkunst#rt: Polen#tc: 21.86.42,"","","",FALSE
+66278,kunst ; hedendaags ; Brazilië,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: kunst ; hedendaags#rt: Brazilië#tc: 20.76.66,"","","",FALSE
+66279,tentoonstellingen ; (voormalig) Joegoslavië,onderwerp,niet gedefinieerd,14,"","","","","","",,"",bt: tentoonstellingen#rt: Joegoslavië#tc: 20.13.46,"","","",FALSE
+66280,museumwezen ; België,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: museumwezen#rt: België#tc: 20.12.12,"","","",FALSE
+66281,binnenhuiskunst ; België,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: binnenhuiskunst#bt: kunst van Europa ; België en Luxemburg#rt: België#tc: 21.84.12,"","","",FALSE
+66282,verzamelwezen ; België,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: verzamelwezen#rt: België#tc: 20.11.12,"","","",FALSE
+66283,industriële vormgeving ; België,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: industriële vormgeving#bt: kunst van Europa ; België en Luxemburg#rt: België#tc: 21.82.12,"","","",FALSE
+66284,"kleding, mode ; Groot-Brittannië",onderwerp,niet gedefinieerd,9,"","","","","","",,"","bt: kleding, mode#bt: kunst van Europa ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.85","","","",FALSE
+66285,tekenkunst ; hedendaags ; België,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; België en Luxemburg#bt: kunst ; hedendaags ; België en Luxemburg#bt: tekenkunst ; hedendaags#rt: België#tc: 21.28.12,"","","",FALSE
+66286,grafische kunst ; negentiende eeuw ; Japan,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Japan#bt: grafische kunst ; negentiende eeuw#rt: Japan#tc: 21.36.77,"","","",FALSE
+66290,"grafische kunst ; barok, klassicisme ; Italië",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: geschiedenis van de grafische kunst ; italië#bt: grafische kunst ; barok, klassicisme#rt: Italië#tc: 21.35.33","","","",FALSE
+66292,geschiedenis van de grafische kunst ; Nederland,onderwerp,niet gedefinieerd,61,"","","","","","",,"","bt: geschiedenis van de grafische kunst#bt: kunst van Europa ; Nederland#nt: grafische kunst ; barok, klassicisme ; Nederland#nt: grafische kunst ; hedendaags ; Nederland#nt: grafische kunst ; negentiende eeuw ; Nederland#nt: grafische kunst ; renaissance ; Nederland#nt: grafische kunst ; twintigste eeuw ; Nederland#nt: toegepaste grafische kunst ; Nederland#rt: Nederland#tc: 21.32.11","","","",FALSE
+66294,iconografie ; geschiedenis ; België,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: iconografie ; geschiedenis#rt: België#tc: 20.26.12,"","","",FALSE
+66295,filmkunst ; België,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: filmkunst#rt: België#tc: 24.30.12,"","","",FALSE
+66296,kunst ; renaissance ; België,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; renaissance#nt: schilderkunst ; renaissance ; België en Luxemburg#rt: België#tc: 20.72.12,"","","",FALSE
+66297,kunstwetenschappen ; Zuid-Azië,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: kunstwetenschappen#bt: kunstwetenschappen ; Azië#rt: Azië#tc: 20.00.73,"","","",FALSE
+66298,tentoonstellingen ; Europa algemeen,onderwerp,niet gedefinieerd,13,"","","","","","",,"",bt: tentoonstellingen#rt: Europa#tc: 20.13.05,"","","",FALSE
+66312,keramiek ; Japan,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: Keramiek#nt: Japans porselein#rt: Japan#tc: 21.88.77,"","","",FALSE
+66318,"natuurkunde ; onderwijs, beroepsuitoefening, organisaties",onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: natuurkunde#bt: onderwijs#tc: 33.04,"","","",FALSE
+66335,religieuze bouwkunst ; België,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de bouwkunst ; belgië#bt: kunst van Europa ; België en Luxemburg#bt: religieuze bouwkunst#rt: België#tc: 21.70.12,"","","",FALSE
+66336,kunst van Europa ; België en Luxemburg,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst van Europa#nt: binnenhuiskunst ; België#nt: edelsmeedkunst ; België#nt: geschiedenis van de beeldhouwkunst ; België en Luxemburg#nt: geschiedenis van de bouwkunst ; belgië#nt: geschiedenis van de grafische kunst ; België en Luxemburg#nt: geschiedenis van de schilderkunst ; België en Luxemburg#nt: geschiedenis van de tekenkunst ; België en Luxemburg#nt: geschiedenis van het ornament ; België#nt: houtkunst ; België#nt: industriële vormgeving ; België#nt: keramiek ; België en Luxemburg#nt: religieuze bouwkunst ; België#nt: textielkunst ; België#rt: België#rt: Luxemburg#tc: 20.70.12,RCEAdmin,2020-01-10,thesau,FALSE
+66337,textielkunst ; België,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst van Europa ; België en Luxemburg#bt: textielkunst#rt: België#tc: 21.86.12,RCEAdmin,2020-01-10,thesau,FALSE
+66338,kunst van Europa ; algemeen,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: kunst van Europa#tc: 20.70.05,"","","",FALSE
+66342,kunstwetenschappen ; overige,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunstwetenschappen#nt: kunstwetenschappen: overige ; Nederland#tc: 20.99,"","","",FALSE
+66343,kunstwetenschappen ; Polen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstwetenschappen#rt: Polen#tc: 20.00.42,"","","",FALSE
+66348,kunst ; hedendaags ; Italië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Italie#nt: schilderkunst ; hedendaags ; Italië#nt: tekenkunst ; hedendaags ; Italië#rt: Italië#tc: 20.76.33,"","","",FALSE
+66349,tentoonstellingen ; Ierland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: tentoonstellingen#rt: Ierland#tc: 20.13.14,"","","",FALSE
+66350,tentoonstellingen ; Tsjechoslowakije,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: tentoonstellingen#rt: Tsjechoslowakije#tc: 20.13.43,"","","",FALSE
+66352,keramiek ; Italië,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: Keramiek#bt: kunst van europa ; Italië#rt: Italië#tc: 21.88.33,"","","",FALSE
+66354,sociale groepen ; bejaarden,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: sociale geschiedenis#bt: sociologie#tc: 71.36,"","","",FALSE
+66355,museumwezen ; Frankrijk,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: museumwezen#rt: frankrijk#tc: 20.12.15,"","","",FALSE
+66356,verzamelwezen ; Frankrijk,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: verzamelwezen#nt: verzameling Loys Delteil#rt: Frankrijk#tc: 20.11.15,"","","",FALSE
+66361,kunst ; hedendaags ; Joegoslavië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; hedendaags#nt: schilderkunst ; hedendaags ; Joegoslavië#rt: Joegoslavië#tc: 20.76.46,"","","",FALSE
+66362,kunst ; hedendaags ; Hongarije,onderwerp,niet gedefinieerd,8,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Hongarije#nt: bouwkunst ; hedendaags ; Hongarije#nt: schilderkunst ; hedendaags ; Hongarije#rt: Hongarije#tc: 20.76.44,"","","",FALSE
+66364,kunstwetenschappen ; Zwitserland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunstwetenschappen#rt: Zwitserland#tc: 20.00.19,"","","",FALSE
+66365,kunst ; negentiende eeuw ; Oostenrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; negentiende eeuw#nt: Wiener Werkstätte#rt: Oostenrijk#tc: 20.74.20,"","","",FALSE
+66366,museumwezen ; BRD,onderwerp,niet gedefinieerd,15,"","","","","","",,"",bt: museumwezen#rt: duitsland#tc: 20.12.17,"","","",FALSE
+66367,textielkunst ; BRD,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: textielkunst ; Duitsland#rt: Duitsland#tc: 21.86.17,RCEAdmin,2020-01-10,thesau,FALSE
+66368,decoratieve kunst ; Oostenrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: decoratieve kunst#bt: kunst van europa ; Oostenrijk#rt: Oostenrijk#tc: 21.80.20,"","","",FALSE
+66372,kunst ; twintigste eeuw ; Tsjechoslowakije,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw#rt: Tsjechoslowakije#tc: 20.75.43,RCEAdmin,2020-01-10,thesau,FALSE
+66377,verzamelwezen ; Zwitserland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: verzamelwezen#rt: Zwitserland#tc: 20.11.19,"","","",FALSE
+66378,keramiek ; Frankrijk,onderwerp,niet gedefinieerd,8,"","","","","","",,"",bt: Keramiek#bt: kunst van europa ; frankrijk#rt: Frankrijk#tc: 21.88.15,"","","",FALSE
+66380,kunsthandel ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunsthandel#nt: kunsthandel ; BRD#rt: duitsland#tc: 20.14.16,"","","",FALSE
+66382,bouwkunst ; twintigste eeuw ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: bouwkunst ; twintigste eeuw#bt: geschiedenis van de bouwkunst ; Duitsland#rt: Duitsland#tc: 21.67.16,"","","",FALSE
+66383,kunst ; twintigste eeuw ; BRD,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw ; Duitsland#rt: duitsland#tc: 20.75.17,"","","",FALSE
+66384,kunstwetenschappen ; China,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstwetenschappen#rt: China#tc: 20.00.75,"","","",FALSE
+66387,schilderkunst ; hedendaags ; Hongarije,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; hedendaags ; Hongarije#bt: schilderkunst ; hedendaags#rt: Hongarije#tc: 21.08.44,"","","",FALSE
+66388,edelsmeedkunst ; Duitsland,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: edelsmeedkunst#bt: kunst van Europa ; Duitsland#nt: edelsmeedkunst ; BRD#rt: Duitsland#tc: 21.92.16,"","","",FALSE
+66390,verzamelwezen ; Duitsland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: verzamelwezen#nt: verzameling Ludwig#nt: verzamelwezen ; BRD#rt: duitsland#tc: 20.11.16,"","","",FALSE
+66391,kunstwetenschappen ; Oostenrijk,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunstwetenschappen#rt: Oostenrijk#tc: 20.00.20,"","","",FALSE
+66393,kunst van Europa ; Duitsland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst van Europa#nt: edelsmeedkunst ; Duitsland#nt: geschiedenis van de beeldhouwkunst ; Duitsland#nt: geschiedenis van de bouwkunst ; Duitsland#nt: geschiedenis van de grafische kunst ; Duitsland#nt: geschiedenis van de tekenkunst ; Duitsland#nt: keramiek ; Duitsland#nt: kunst ; middeleeuwen ; Duitsland#nt: textielkunst ; Duitsland#rt: duitsland#tc: 20.70.17,"","","",FALSE
+66394,tentoonstellingen ; Zuid-Oost-Azië,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: tentoonstellingen#rt: Azië#tc: 20.13.74,"","","",FALSE
+66395,iconografie ; geschiedenis ; Verenigde Staten,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: iconografie ; geschiedenis#rt: Verenigde Staten#tc: 20.26.62,"","","",FALSE
+66401,scheikunde ; overige,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: Chemie#tc: 35.99,"","","",FALSE
+66414,geschiedenis van de schilderkunst ; Spanje,onderwerp,niet gedefinieerd,8,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van Europa ; Spanje#nt: schilderkunst ; barok, klassicisme ; Spanje#nt: schilderkunst ; hedendaags ; Spanje#nt: schilderkunst ; twintigste eeuw ; Spanje#rt: Spanje#tc: 21.02.31#uf: schilderkunst ; Spanje","","","",FALSE
+66416,decoratieve kunst ; Joegoslavië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: decoratieve kunst#bt: kunst van europa ; joegoslavië#rt: Joegoslavië#tc: 21.80.46,"","","",FALSE
+66417,kunst ; twintigste eeuw ; Joegoslavië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst ; twintigste eeuw#rt: Joegoslavië#tc: 20.75.46,"","","",FALSE
+66418,schilderkunst ; negentiende eeuw ; Joegoslavië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; joegoslavië#bt: schilderkunst ; negentiende eeuw#rt: Joegoslavië#tc: 21.06.46,"","","",FALSE
+66419,schilderkunst ; hedendaags ; Joegoslavië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Joegoslavië#bt: kunst ; hedendaags ; Joegoslavië#bt: schilderkunst ; hedendaags#rt: Joegoslavië#tc: 21.08.46,"","","",FALSE
+66420,tentoonstellingen ; Noorwegen,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: tentoonstellingen#rt: Noorwegen#tc: 20.13.51,"","","",FALSE
+66421,schilderkunst ; negentiende eeuw ; Noord-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Noord-Europa#bt: schilderkunst ; negentiende eeuw#rt: Europa#tc: 21.06.50,"","","",FALSE
+66426,museumwezen ; Denemarken,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: museumwezen#rt: denemarken#tc: 20.12.54,"","","",FALSE
+66427,schilderkunst ; twintigste eeuw ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Verenigde Staten#bt: kunst ; twintigste eeuw ; Verenigde Staten#bt: schilderkunst ; twintigste eeuw#rt: Verenigde Staten#tc: 21.07.62,"","","",FALSE
+66428,decoratieve kunst ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: decoratieve kunst#bt: kunst van Amerika#rt: Verenigde Staten#tc: 21.80.62,"","","",FALSE
+66430,museumwezen ; Verenigde Staten,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: museumwezen#nt: American Association of Museums#rt: Verenigde Staten#tc: 20.12.62,"","","",FALSE
+66433,schilderkunst ; negentiende eeuw ; Duitsland,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; duitsland#bt: kunst ; negentiende eeuw ; Duitsland#bt: schilderkunst ; negentiende eeuw#rt: duitsland#tc: 21.06.16,"","","",FALSE
+66442,tentoonstellingen ; Oost-Azië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: tentoonstellingen#rt: Azië#tc: 20.13.76,"","","",FALSE
+66443,museumwezen ; Zuid-Azië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: museumwezen#rt: Azië#tc: 20.12.73,"","","",FALSE
+66444,tentoonstellingen ; Zuid-Azië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: tentoonstellingen#rt: Azië#tc: 20.13.73,"","","",FALSE
+66447,keramiek ; Zuid-Azië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: Keramiek#rt: Azië#tc: 21.88.73,"","","",FALSE
+66448,kunst van Europa ; Spanje,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst van Europa#nt: geschiedenis van de schilderkunst ; Spanje#nt: industriële vormgeving ; Spanje#nt: kunst ; twintigste eeuw ; Spanje#rt: Spanje#tc: 20.70.31,RCEAdmin,2020-01-10,thesau,FALSE
+66454,tentoonstellingen ; Nederlandse Antillen en Suriname,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: tentoonstellingen#rt: Nederlandse Antillen#rt: Suriname#tc: 20.13.69,"","","",FALSE
+66456,schilderkunst ; hedendaags ; Nederlandse Antillen en Suriname,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: schilderkunst ; hedendaags#rt: Nederlandse Antillen#rt: Suriname#tc: 21.08.69,"","","",FALSE
+66457,tentoonstellingen ; Zuid-Afrika,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: tentoonstellingen#nt: Suid-Afrikaanse Kunsvereniging#rt: Zuid-Afrika#tc: 20.13.84,"","","",FALSE
+66460,kunstwetenschappen ; Australië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunstwetenschappen#rt: Australië#tc: 20.00.90,"","","",FALSE
+66471,museumwezen ; Finland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: museumwezen#rt: Finland#tc: 20.12.53,"","","",FALSE
+66475,methoden en technieken van de kunstwetenschappen ; Denemarken,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: methoden en technieken van de kunstwetenschappen#rt: denemarken#tc: 20.03.54,"","","",FALSE
+66476,industriële vormgeving ; Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: industriële vormgeving#bt: kunst van Europa#rt: Europa#tc: 21.82.05,"","","",FALSE
+66478,overige kunstvormen ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",tc: 21.99.11,"","","",FALSE
+66509,presentatiebeleid ; nationaal,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: presentaties#rt: presentatiebeleid ; internationaal,"","","",FALSE
+66513,geschiedenis van de schilderkunst ; Frankrijk,onderwerp,niet gedefinieerd,21,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van europa ; frankrijk#nt: muurschilderkunst ; Frankrijk#nt: schilderkunst ; barok, klassicisme ; Frankrijk#nt: schilderkunst ; hedendaags ; Frankrijk#nt: schilderkunst ; negentiende eeuw ; Frankrijk#nt: schilderkunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 21.02.15","","","",FALSE
+66527,bestuurskunde ; overheid,onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: bestuurskunde#nt: Raad van State#rt: management, organisatie#rt: Overheidsinstellingen#rt: overheidsbeleid#tc: 88.10","","","",FALSE
+66529,leeftijdsgroepen ; jeugd,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: sociologie#rt: kinderen#tc: 71.35,RCEAdmin,2020-01-10,thesau,FALSE
+66558,kunstwetenschappen ; Spanje,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunstwetenschappen#rt: Spanje#tc: 20.00.31,"","","",FALSE
+66579,kunstwetenschappen ; Groot Brittannië,onderwerp,niet gedefinieerd,38,"","","","","","",,"",bt: kunstwetenschappen#rt: Groot-Brittannië#tc: 20.00.13#uf: kunstwetenschappen in het Verenigd Koninkrijk,"","","",FALSE
+66580,kunstwetenschappen ; Verenigde Staten,onderwerp,niet gedefinieerd,50,"","","","","","",,"",bt: kunstwetenschappen#rt: Verenigde Staten#tc: 20.00.62,"","","",FALSE
+66583,kunstwetenschappen ; Hongarije,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: kunstwetenschappen#rt: Hongarije#tc: 20.00.44,"","","",FALSE
+66584,Museum of Fine Arts ; Hongarije,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: musea buitenland,"","","",FALSE
+66605,kunstwetenschappen ; DDR,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: kunstwetenschappen#bt: kunstwetenschappen ; Duitsland#rt: Duitsland#tc: 20.00.18,"","","",FALSE
+66606,kunstwetenschappen ; Duitsland,onderwerp,niet gedefinieerd,24,"","","","","","",,"",bt: kunstwetenschappen#nt: kunstwetenschappen ; BRD#nt: kunstwetenschappen ; DDR#rt: Duitsland#tc: 20.00.16,"","","",FALSE
+66622,keramiek ; Zuid-Oost-Azië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: Keramiek#rt: Azië#tc: 21.88.74,"","","",FALSE
+66624,blaasinstrumenten ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: blaasinstrumenten#tc: 24.83.11,"","","",FALSE
+66625,"wetenschapsbeleid, cultuurbeleid ; Europa",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: wetenschapsbeleid, cultuurbeleid#rt: Europa#tc: 02.15.05","","","",FALSE
+66626,archeologie ; Nederland,onderwerp,niet gedefinieerd,42,"","","","","","",,"","bt: archeologie#nt: archeologie ; middeleeuws en postmiddeleeuws ; Nederland#nt: archeologie ; prehistorie ; Nederland#nt: Groninger Museum#nt: industriële archeologie ; Nederland#nt: prehistorie ; Nederland#nt: Rijksmuseum G.M. Kam#nt: Rijksmuseum van Oudheden, Leiden#rt: geschiedenis van Nederland#rt: Reuvens, C.J.C.#tc: 15.30.11","","","",FALSE
+66628,"archieven, archivistiek ; België",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: archieven, archivistiek#rt: België#tc: 06.90.12","","","",FALSE
+66630,kunstwetenschappen ; Denemarken,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunstwetenschappen#rt: denemarken#tc: 20.00.54,"","","",FALSE
+66632,museumwezen ; Brazilië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: museumwezen#rt: Brazilië#tc: 20.12.66,"","","",FALSE
+66633,"restaureren, conserveren, vervalsen ; Duitsland",onderwerp,niet gedefinieerd,4,"","","","","","",,"","bt: restaureren, conserveren, vervalsen#rt: Duitsland#tc: 20.15.17","","","",FALSE
+66635,utilitaire bouwkunst ; Denemarken,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst van Europa ; Denemarken#bt: utilitaire bouwkunst#nt: Sophienholm#rt: denemarken#tc: 21.71.54,"","","",FALSE
+66636,geschiedenis van de schilderkunst ; Noord-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst van Europa#nt: schilderkunst ; negentiende eeuw ; Noord-Europa#rt: Europa#tc: 21.02.50,"","","",FALSE
+66638,museumwezen ; DDR,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: museumwezen#rt: Duitsland#tc: 20.12.18,"","","",FALSE
+66640,geschiedenis van de schilderkunst ; Europa,onderwerp,niet gedefinieerd,59,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van Europa#nt: schilderkunst ; barok, klassicisme ; Europa#nt: schilderkunst ; hedendaags ; Europa#nt: schilderkunst ; negentiende eeuw ; Europa#nt: schilderkunst ; twintigste eeuw ; Europa#nt: schilderkunst ; twintigste eeuw ; Noord-Europa#nt: schilderkunst ; twintigste eeuw ; Oost-Europa#rt: Europa#tc: 21.02.05","","","",FALSE
+66641,geschiedenis van de beeldhouwkunst ; België en Luxemburg,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van Europa ; België en Luxemburg#nt: beeldhouwkunst ; hedendaags ; België en Luxemburg#rt: België#rt: Luxemburg#tc: 21.52.12,RCEAdmin,2020-01-10,thesau,FALSE
+66645,kunst van de klassieke oudheid ; Griekenland,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: kunst van de klassieke oudheid#bt: oudheid#bt: periodes in de kunstgeschiedenis#rt: Griekenland#tc: 20.61,"","","",FALSE
+66647,geschiedenis van de schilderkunst ; China,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: Chinese kunst#bt: geschiedenis van de schilderkunst#rt: China#rt: schilderkunst: overige in China#tc: 21.02.75,"","","",FALSE
+66659,kunstwetenschappen ; Frankrijk,onderwerp,niet gedefinieerd,42,"","","","","","",,"",bt: kunstwetenschappen#rt: Frankrijk#tc: 20.00.15,"","","",FALSE
+66685,kunstwetenschappen ; Japan,onderwerp,niet gedefinieerd,8,"","","","","","",,"",bt: kunstwetenschappen#rt: Japan#tc: 20.00.77,"","","",FALSE
+66686,kunstwetenschappen ; Italië,onderwerp,niet gedefinieerd,27,"","","","","","",,"",bt: kunstwetenschappen#rt: Italië#tc: 20.00.33,"","","",FALSE
+66707,bouwkunst ; twintigste eeuw ; Sovjet-Unie,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: bouwkunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; Sovjet-Unie#rt: Sovjet-Unie#tc: 21.67.41,"","","",FALSE
+66710,archeologie ; middeleeuws en postmiddeleeuws  ; België,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: archeologie ; middeleeuws en postmiddeleeuws#rt: geschiedenis van België#tc: 15.34.12,"","","",FALSE
+66712,adresboeken ; Noorwegen,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: Adresboeken#rt: Noorwegen#tc: 01.24.51,"","","",FALSE
+66715,kunsthandel ; Frankrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunsthandel#rt: Frankrijk#tc: 20.14.15,"","","",FALSE
+66717,locale en regionale geschiedenis ; BRD,onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: locale geschiedenis, regionale geschiedenis#rt: Duitsland#tc: 15.16.17","","","",FALSE
+66719,schilderkunst ; renaissance ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; duitsland#bt: schilderkunst ; renaissance#rt: duitsland#tc: 21.04.16,"","","",FALSE
+66720,muurschilderkunst ; Frankrijk,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Frankrijk#bt: muurschilderkunst#rt: Frankrijk#tc: 21.11.15,"","","",FALSE
+66721,geschiedenis van de beeldhouwkunst ; Frankrijk,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van europa ; frankrijk#nt: beeldhouwkunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 21.52.15,"","","",FALSE
+66911,geschiedenis van de beeldhouwkunst ; Nederland,onderwerp,niet gedefinieerd,167,"","","","","","",,"","bt: geschiedenis van de beeldhouwkunst#nt: beeldhouwkunst ; barok, klassicisme ; Nederland#nt: beeldhouwkunst ; hedendaags ; Nederland#nt: beeldhouwkunst ; middeleeuwen ; Nederland#nt: beeldhouwkunst ; negentiende eeuw ; nederland#nt: beeldhouwkunst ; twintigste eeuw ; Nederland#nt: kunst van Europa ; Nederland#rt: Nederland#tc: 21.52.11","","","",FALSE
+66971,beeldhouwkunst ; overige ; Nederland,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: beeldhouwkunst ; overige#tc: 21.59.11,"","","",FALSE
+67027,museologie ; Verenigde Staten,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: museologie#bt: museologie ; Noord-Amerika#rt: Verenigde Staten#tc: 02.30.62,"","","",FALSE
+67030,wetenschap en cultuur in het algemeen ; overige,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: wetenschap en cultuur in het algemeen#tc: 02.99,"","","",FALSE
+67033,cultuurgeschiedenis ; België,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: cultuurgeschiedenis#bt: geschiedenis van België#tc: 15.13.12,"","","",FALSE
+67042,archeologie ; prehistorie ; West- en Centraal-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: archeologie ; prehistorie#rt: Europa#tc: 15.32.10,"","","",FALSE
+67043,archeologie ; prehistorie ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: archeologie ; Nederland#bt: archeologie ; prehistorie#bt: prehistorie ; Nederland#rt: Nederland#tc: 15.32.11,"","","",FALSE
+67058,geschiedenis ; laat-modern tijdvak,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis#nt: geschiedenis ; laat-modern tijdvak ; Europa algemeen#nt: geschiedenis ; laat-modern tijdvak ; Nederland#nt: twintigste eeuw#tc: 15.66,"","","",FALSE
+67059,geschiedenis ; laat-modern tijdvak ; Nederland,onderwerp,niet gedefinieerd,13,"","","","","","",,"",bt: geschiedenis ; laat-modern tijdvak#bt: geschiedenis van Nederland#rt: Nederland#tc: 15.66.11,"","","",FALSE
+67067,algemene naslagwerken ; overige,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: naslagwerken ; algemene#tc: 01.29,"","","",FALSE
+67073,naslagwerken ; algemene,onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: algemene werken#bt: Naslagwerken#et: Algemene naslagwerken. Incl. encyclopediën. woordenboeken#et: general reference works. incl. encyclopaedias. dictionaries#nt: Adresboeken#nt: algemene naslagwerken ; overige#nt: encyclopedieën, algemene#nt: woordenboeken, algemene#tc: 01.20","","","",FALSE
+67074,organisatie van wetenschap en cultuur ; Nederland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: organisatie van wetenschap en cultuur#nt: instituut collectie nederland#nt: organisaties van kunst en cultuur ; Nederland#nt: verzameling Koninklijk Zeeuwsch genootschap der wetenschap#rt: cultuurbeleid#tc: 02.14.11,"","","",FALSE
+67075,museologie ; Canada,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: museologie#bt: museologie ; Noord-Amerika#rt: canada#tc: 02.30.63,"","","",FALSE
+67076,museologie ; Nederland,onderwerp,niet gedefinieerd,68,"","","","","","",,"",bt: museologie#nt: Stichting Museumjaarkaart#rt: Nederland#tc: 02.30.11,"","","",FALSE
+67080,geschiedenis ; contemporain tijdvak ; Nederland,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis ; contemporain tijdvak#bt: geschiedenis van Nederland#tc: 15.67.11,"","","",FALSE
+67082,geschiedenis ; contemporain tijdvak,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis#nt: geschiedenis ; contemporain tijdvak ; BRD#nt: geschiedenis ; contemporain tijdvak ; DDR#nt: geschiedenis ; contemporain tijdvak ; Nederland#tc: 15.67,"","","",FALSE
+67092,kunstwetenschappen ; Rusland,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: kunstwetenschappen#rt: Rusland#tc: 20.00.41,"","","",FALSE
+67094,kunstwetenschappen ; (voormalig) Joegoslavië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstwetenschappen#rt: Joegoslavië#tc: 20.00.46,"","","",FALSE
+67097,kunstwetenschappen ; Finland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstwetenschappen#rt: Finland#tc: 20.00.53,"","","",FALSE
+67099,"onderwijs, beroepsuitoefening, organisaties (kunst) ; Frankrijk",onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: onderwijs, beroepsuitoefening, organisaties (kunst)#rt: Frankrijk#tc: 20.04.15","","","",FALSE
+67100,"onderwijs, beroepsuitoefening, organisaties (kunst) ; Italië",onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: onderwijs, beroepsuitoefening, organisaties (kunst)#rt: Italië#tc: 20.04.33","","","",FALSE
+67105,verzamelwezen ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: verzamelwezen#rt: Verenigde Staten#tc: 20.11.62,"","","",FALSE
+67106,museumwezen ; Groot-Brittannië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: museumwezen#rt: Groot-Brittannië#tc: 20.12.13,"","","",FALSE
+67116,museumwezen ; Japan,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: museumwezen#rt: Japan#tc: 20.12.77,"","","",FALSE
+67118,tentoonstellingen ; China,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: tentoonstellingen#rt: China#tc: 20.13.75,"","","",FALSE
+67119,tentoonstellingen ; Mexico,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: tentoonstellingen#rt: mexico#tc: 20.13.68,"","","",FALSE
+67120,kunsthandel ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunsthandel#rt: Verenigde Staten#tc: 20.14.62,"","","",FALSE
+67121,"restaureren, conserveren, vervalsen ; Nederland",onderwerp,niet gedefinieerd,30,"","","","","","",,"","bt: restaureren, conserveren, vervalsen#rt: Nederland#tc: 20.15.11","","","",FALSE
+67122,"restaureren, conserveren, vervalsen ; Italië",onderwerp,niet gedefinieerd,11,"","","","","","",,"","bt: restaureren, conserveren, vervalsen#rt: Italië#tc: 20.15.33","","","",FALSE
+67125,kunst en maatschappij ; overige,onderwerp,niet gedefinieerd,41,"","","","","","",,"",bt: kunst en maatschappij#nt: kunst en maatschappij ; overige ; Nederland#tc: 20.19,"","","",FALSE
+67140,verzamelwezen ; Groot-Brittannië,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: verzamelwezen#rt: Groot-Brittannië#tc: 20.11.13,"","","",FALSE
+67152,beeldhouwkunst ; hedendaags ; Oostenrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: kunst ; hedendaags ; Oostenrijk#rt: Oostenrijk#tc: 21.58.20,"","","",FALSE
+67155,tentoonstellingen ; Brazilië,onderwerp,niet gedefinieerd,24,"","","","","","",,"",bt: tentoonstellingen#rt: Brazilië#tc: 20.13.66,"","","",FALSE
+67171,geschiedenis ; contemporain tijdvak ; BRD,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis ; contemporain tijdvak#rt: Duitsland#tc: 15.67.17,"","","",FALSE
+67176,"jaarverslagen, jaarboeken ; Verenigde Staten",onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: algemene bronnenverzamelingen: overige#bt: Jaarverslagen#bt: jaarboeken#rt: Verenigde Staten#tc: 01.49.62,"","","",FALSE
+67181,organisaties van kunst en cultuur ; Nederland,onderwerp,niet gedefinieerd,9,"","","","","","",,"","bt: organisaties van kunst en cultuur#bt: organisatie van wetenschap en cultuur ; Nederland#nt: musea Nederland#nt: Stichting Kunst & Cultuur Limburg#nt: Stichting Kunst & Cultuur Overijssel#nt: Stichting Kunst en Cultuur Noord-Nederland#nt: Stichting Limburgs Kunstbezit#nt: Stichting Materiaalfonds voor Beeldende Kunst#nt: Stichting Museumjaarkaart#nt: Stichting Schone Kunsten rond 1900#nt: Stichting Stedelijke Fotografie, Utrecht#nt: Stichting voor kunsthistorisch onderzoek, Den Haag#nt: Stimuleringsfonds voor Architectuur#nt: VeRes#nt: Arti et Amicitiae#nt: Architectura et Amicitia#nt: Ars Æmula Naturæ#nt: Centrum Beeldende Kunst, Rotterdam#nt: instituut collectie nederland#nt: Federatie Stichts Cultureel Erfgoed#nt: Federatie van Musea in Zuid-Holland#nt: Gelderse Archaeologische Stichting#nt: Haagse Kunstkring#rt: Nederland#rt: kunstbevordering ; Nederland","","","",FALSE
+67224,porselein ; chinees,onderwerp,niet gedefinieerd,39,"","","","","","",,"",bt: Porselein#bt: keramiek ; China#et: porcelain ; china#nt: Chine de Commande#nt: Kraak porselein#nt: swatow-porselein#rt: China,"","","",FALSE
+67244,kunst ; twintigste eeuw ; Groot-Brittannië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: schilderkunst ; twintigste eeuw ; Groot-Brittannië#rt: Groot-Brittannië#tc: 20.75.13,"","","",FALSE
+67248,correspondentie ; inventarisatie,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: correspondentie,"","","",FALSE
+67254,internationale betrekkingen ; overige,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: internationale betrekkingen#tc: 89.94,"","","",FALSE
+67278,geschiedenis van de grafische kunst ; Verenigde Staten,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de grafische kunst#bt: geschiedenis van de grafische kunst ; Noord-Amerika#nt: grafische kunst ; hedendaags ; Verenigde Staten#nt: grafische kunst ; twintigste eeuw ; Verenigde Staten#rt: Verenigde Staten#tc: 21.32.62,"","","",FALSE
+67287,"onderwijs, beroepsuitoefening, organisaties (kunst) ; Nederland",onderwerp,niet gedefinieerd,34,"","","","","","",,"","bt: onderwijs, beroepsuitoefening, organisaties (kunst)#rt: Nederland#tc: 20.04.11","","","",FALSE
+67321,geschiedenis van de beeldhouwkunst ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van Amerika#rt: Verenigde Staten#tc: 21.52.62,"","","",FALSE
+67322,"bouwkunst ; barok, klassicisme",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: geschiedenis van de bouwkunst#bt: kunst ; barok, klassicisme#nt: bouwkunst ; barok, klassicisme ; Nederland#tc: 21.65",RCEAdmin,2020-01-10,thesau,FALSE
+67325,museologie ; Afrika,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: museologie#rt: Afrika#tc: 02.30.80,"","","",FALSE
+67326,kunsthandel ; Afrika,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunsthandel#rt: Afrika#tc: 20.14.80,"","","",FALSE
+67340,tentoonstellingen ; Midden- en Zuid-Amerika,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: tentoonstellingen#rt: Noord-Amerika#rt: Zuid-Amerika#tc: 20.13.65,"","","",FALSE
+67394,binnenhuiskunst ; Zuid-Azië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: binnenhuiskunst#bt: kunst van Azië#rt: Azië#tc: 21.84.73,"","","",FALSE
+67398,kunst ; hedendaags ; Verenigde Staten,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunst ; hedendaags#nt: grafische kunst ; hedendaags ; Verenigde Staten#rt: Verenigde Staten#tc: 20.76.62,"","","",FALSE
+67431,"beeldhouwkunst ; barok, klassicisme",onderwerp,niet gedefinieerd,10,"","","","","","",,"","bt: geschiedenis van de beeldhouwkunst#bt: kunst ; barok, klassicisme#nt: beeldhouwkunst ; barok, klassicisme ; Nederland#tc: 21.55","","","",FALSE
+67432,beeldhouwkunst ; middeleeuwen ; Italië,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: beeldhouwkunst ; middeleeuwen#bt: geschiedenis van de beeldhouwkunst#bt: kunst van europa ; Italië#rt: Italië#tc: 21.53.33,"","","",FALSE
+67471,schilderkunst ; middeleeuwen,onderwerp,niet gedefinieerd,24,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst ; middeleeuwen#bt: middeleeuwen#nt: schilderkunst ; middeleeuwen ; België en Luxemburg#nt: schilderkunst ; middeleeuwen ; Duitsland#nt: schilderkunst ; middeleeuwen ; Italië#nt: schilderkunst ; middeleeuwen ; Nederland#tc: 21.03,"","","",FALSE
+67524,geschiedenis van de beeldhouwkunst ; Afrika,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van Afrika#rt: Afrika#tc: 21.52.80,"","","",FALSE
+67548,geschiedenis van de beeldhouwkunst ; Griekenland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van Europa#rt: Griekenland#tc: 21.52.34,"","","",FALSE
+67554,vroege geschiedenis ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van Nederland#bt: vroege geschiedenis#rt: Nederland#tc: 15.63.11,"","","",FALSE
+67587,kunst ; twintigste eeuw ; Europa,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: kunst ; twintigste eeuw#nt: beeldhouwkunst ; twintigste eeuw ; Europa#nt: bouwkunst ; twintigste eeuw ; Europa#nt: schilderkunst ; twintigste eeuw ; Europa#rt: Europa#tc: 20.75.05,"","","",FALSE
+67594,grafische kunst ; negentiende eeuw,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: geschiedenis van de grafische kunst#bt: kunst ; negentiende eeuw#nt: grafische kunst ; negentiende eeuw ; België en Luxemburg#nt: grafische kunst ; negentiende eeuw ; Frankrijk#nt: grafische kunst ; negentiende eeuw ; Japan#nt: grafische kunst ; negentiende eeuw ; Nederland#nt: grafische kunst ; negentiende eeuw ; Zuid- en Zuidoost Europa#tc: 21.36,"","","",FALSE
+67604,kunst ; hedendaags ; Nederland,onderwerp,niet gedefinieerd,661,"","","","","","",,"",bt: kunst ; hedendaags#nt: beeldhouwkunst ; hedendaags ; Nederland#nt: bouwkunst ; hedendaags ; Nederland#nt: grafische kunst ; hedendaags ; Nederland#nt: schilderkunst ; hedendaags ; Nederland#nt: tekenkunst ; hedendaags ; Nederland#rt: Nederland#tc: 20.76.11,"","","",FALSE
+67614,iconografie ; de natuur ; België en Luxemburg,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: iconografie ; de natuur#rt: België#rt: Luxemburg#tc: 20.22.22,"","","",FALSE
+67616,geschiedenis ; vroeg-modern tijdvak ; Nederland,onderwerp,niet gedefinieerd,42,"","","","","","",,"","bt: geschiedenis ; vroeg-modern tijdvak#bt: geschiedenis van Nederland#nt: Daendels, Herman Willem#nt: Groot, Hugo de#nt: tachtigjarige oorlog#nt: Witt, Johan de#rt: archeologie ; middeleeuws en postmiddeleeuws ; Nederland#tc: 15.65.11","","","",FALSE
+67617,kunst en maatschappij ; overige ; Nederland,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: kunst en maatschappij ; overige#rt: kunst van Europa ; Nederland#tc: 20.19.11,"","","",FALSE
+67618,"biografie, biografische woordenboeken: overige ; Italië",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: biografie, biografische woordenboeken: overige#rt: Italië#tc: 01.39.33","","","",FALSE
+67619,"biografie, biografische woordenboeken: overige ; Frankrijk",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: biografie, biografische woordenboeken: overige#rt: Frankrijk#tc: 01.39.15","","","",FALSE
+67620,museumwezen ; Tsjechoslowakije,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: museumwezen#rt: Tsjechoslowakije#tc: 20.12.43,"","","",FALSE
+67621,"bibliotheek, documentatie, informatie ; geschiedenis",onderwerp,niet gedefinieerd,8,"","","","","","",,"","bt: bibliotheek, documentatie, informatie#bt: geschiedenis#bt: geschiedenis van de documentaire informatie#rt: Bibliotheekwezen#tc: 06.31","","","",FALSE
+67624,"jaarverslagen, jaarboeken ; Nederland",onderwerp,niet gedefinieerd,92,"","","","","","",,"",bt: algemene bronnenverzamelingen: overige#bt: Jaarverslagen#bt: jaarboeken#tc: 01.49.11,"","","",FALSE
+67625,bibliografieën ; overige,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: bibliografieën#tc: 01.19,"","","",FALSE
+67626,adresboeken ; Europa,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: Adresboeken#tc: 01.24.05,"","","",FALSE
+67627,schilderkunst ; middeleeuwen ; België en Luxemburg,onderwerp,niet gedefinieerd,18,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; België en Luxemburg#bt: schilderkunst ; middeleeuwen#rt: België#rt: Luxemburg#tc: 21.03.12,"","","",FALSE
+67630,Avant-garde ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: avant-garde#rt: Verenigde Staten,"","","",FALSE
+67639,kunst ; negentiende eeuw,onderwerp,niet gedefinieerd,53,"","","","","","",,"",bt: negentiende eeuw#bt: periodes in de kunstgeschiedenis#nt: beeldhouwkunst ; negentiende eeuw#nt: bouwkunst ; negentiende eeuw#nt: grafische kunst ; negentiende eeuw#nt: jugendstil#nt: kunst ; negentiende eeuw ; België#nt: kunst ; negentiende eeuw ; Duitsland#nt: kunst ; negentiende eeuw ; Europa#nt: kunst ; negentiende eeuw ; Frankrijk#nt: kunst ; negentiende eeuw ; Groot-Brittannië#nt: kunst ; negentiende eeuw ; Italië#nt: kunst ; negentiende eeuw ; Midden- en Zuid-Amerika#nt: kunst ; negentiende eeuw ; Nederland#nt: kunst ; negentiende eeuw ; Noord-Amerika#nt: kunst ; negentiende eeuw ; Noorwegen#nt: kunst ; negentiende eeuw ; Oostenrijk#nt: kunst ; negentiende eeuw ; Portugal#nt: kunst ; negentiende eeuw ; Verenigde Staten#nt: Rijksmuseum Vincent van Gogh#nt: romantiek#nt: schilderkunst ; negentiende eeuw#nt: tekenkunst ; negentiende eeuw#tc: 20.74#uf: negentiende-eeuwse kunst,"","","",FALSE
+67640,kunst ; negentiende eeuw ; Nederland,onderwerp,niet gedefinieerd,28,"","","","","","",,"",bt: kunst ; negentiende eeuw#nt: beeldhouwkunst ; negentiende eeuw ; nederland#nt: bouwkunst ; negentiende eeuw ; Nederland#nt: grafische kunst ; negentiende eeuw ; Nederland#nt: schilderkunst ; negentiende eeuw ; Nederland#nt: Tachtigers#nt: tekenkunst ; negentiende eeuw ; Nederland#rt: Nederland#tc: 20.74.11,"","","",FALSE
+67643,bouwkunst ; hedendaags ; Nederland,onderwerp,niet gedefinieerd,26,"","","","","","",,"",bt: bouwkunst ; hedendaags#bt: bouwkunst ; twintigste eeuw#bt: geschiedenis van de bouwkunst ; Nederland#bt: kunst ; hedendaags ; Nederland#rt: Nederland#tc: 21.68.11,"","","",FALSE
+67647,beeldhouwkunst ; hedendaags ; België en Luxemburg,onderwerp,niet gedefinieerd,11,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: geschiedenis van de beeldhouwkunst ; België en Luxemburg#bt: kunst ; hedendaags ; België en Luxemburg#rt: België#rt: Luxemburg#tc: 21.58.12,"","","",FALSE
+67648,beeldhouwkunst ; hedendaags ; Canada,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: kunst ; hedendaags ; Canada#rt: Canada#tc: 21.58.63,"","","",FALSE
+67649,beeldhouwkunst ; hedendaags ; Groot-Brittannie,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: geschiedenis van de beeldhouwkunst ; groot-brittannië#bt: kunst ; hedendaags ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.58.13,"","","",FALSE
+67650,beeldhouwkunst ; hedendaags ; Europa,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: beeldhouwkunst ; twintigste eeuw ; Europa#bt: geschiedenis van de beeldhouwkunst ; Europa#bt: kunst ; hedendaags ; Europa#rt: Europa#tc: 21.58.05,"","","",FALSE
+67651,beeldhouwkunst ; hedendaags ; Italie,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: beeldhouwkunst ; hedendaags#bt: kunst ; hedendaags ; Italië#rt: Italië#tc: 21.58.33,"","","",FALSE
+67653,grafische kunst ; hedendaags ; Oost-Europa,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Europa#bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Europa#rt: Europa#tc: 21.38.40,"","","",FALSE
+67654,grafische kunst ; hedendaags ; Zuid- en Zuidoost Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Europa#bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Europa#rt: Europa#tc: 21.38.30,"","","",FALSE
+67655,grafische kunst ; hedendaags ; Zweden,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; Zweden#rt: Zweden#tc: 21.38.52,"","","",FALSE
+67656,grafische kunst ; hedendaags ; Amerika,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: grafische kunst ; hedendaags#bt: kunst van Amerika#rt: Noord-Amerika#rt: Zuid-Amerika#tc: 21.38.60,"","","",FALSE
+67657,grafische kunst ; hedendaags ; België,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; België en Luxemburg#bt: grafische kunst ; hedendaags#bt: kunst ; hedendaags ; België en Luxemburg#rt: België#tc: 21.38.12,"","","",FALSE
+67658,archeologie ; middeleeuws en postmiddeleeuws,onderwerp,niet gedefinieerd,21,"","","","","","",,"",bt: archeologie#et: archeology ; medieval and postmedieval#nt: archeologie ; middeleeuws en postmiddeleeuws  ; België#nt: archeologie ; middeleeuws en postmiddeleeuws ; Nederland#rt: geschiedenis ; middeleeuwen#rt: geschiedenis ; vroeg-modern tijdvak#rt: kunst ; middeleeuwen#tc: 15.34#uf: middeleeuwse en post-middeleeuwse archeologie,"","","",FALSE
+67659,archeologie ; middeleeuws en postmiddeleeuws ; Nederland,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: archeologie ; middeleeuws en postmiddeleeuws#bt: archeologie ; Nederland#rt: geschiedenis ; vroeg-modern tijdvak ; Nederland#tc: 15.34.11,"","","",FALSE
+67660,schilderkunst ; hedendaags ; Groot-Brittannië,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: Geschiedenis van de schilderkunst ; Groot-Brittannië#bt: kunst ; hedendaags ; Groot-Brittannië#bt: schilderkunst ; hedendaags#rt: Groot-Brittannië#tc: 21.08.13,"","","",FALSE
+67661,toegepaste grafische kunst ; Oost-Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Europa#bt: toegepaste grafische kunst#rt: Europa#tc: 21.41.40,"","","",FALSE
+67662,toegepaste grafische kunst ; Nederland,onderwerp,niet gedefinieerd,45,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Nederland#bt: kunst van Europa ; Nederland#bt: toegepaste grafische kunst#rt: Nederland#tc: 21.41.11,"","","",FALSE
+67663,glaskunst ; Nederland,onderwerp,niet gedefinieerd,56,"","","","","","",,"",bt: glaskunst#rt: Nederland#tc: 21.90.11,"","","",FALSE
+67664,"kunst ; barok, klassicisme ; Europa",onderwerp,niet gedefinieerd,2,"","","","","","",,"","bt: kunst ; barok, klassicisme#nt: schilderkunst ; barok, klassicisme ; Europa#rt: Europa#tc: 20.73.05","","","",FALSE
+67665,geschiedenis ; vroeg-modern tijdvak,onderwerp,niet gedefinieerd,25,"","","","","","",,"",bt: geschiedenis#nt: geschiedenis ; vroeg-modern tijdvak ; Italië#nt: geschiedenis ; vroeg-modern tijdvak ; Nederland#nt: geschiedenis ; vroeg-modern tijdvak ; Verenigde Staten#rt: archeologie ; middeleeuws en postmiddeleeuws#tc: 15.65,"","","",FALSE
+67666,geschiedenis ; vroeg-modern tijdvak ; Italië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis ; vroeg-modern tijdvak#rt: Italië#tc: 15.65.33,"","","",FALSE
+67667,geschiedenis ; vroeg-modern tijdvak ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis ; vroeg-modern tijdvak#bt: geschiedenis van de Verenigde Staten#tc: 15.65.62,"","","",FALSE
+67668,"kunst ; barok, klassicisme ; Frankrijk",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: kunst ; barok, klassicisme#nt: schilderkunst ; barok, klassicisme ; Frankrijk#nt: tekenkunst ; barok, klassicisme ; Frankrijk#rt: Frankrijk#tc: 20.73.15","","","",FALSE
+67669,tekenkunst ; twintigste eeuw ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de tekenkunst ; Duitsland#bt: kunst ; twintigste eeuw ; Duitsland#bt: tekenkunst ; twintigste eeuw#nt: tekenkunst ; twintigste eeuw ; BDR#rt: Duitsland#tc: 21.27.16,"","","",FALSE
+67670,grafische kunst ; twintigste eeuw ; Duitsland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Duitsland#bt: grafische kunst ; twintigste eeuw#bt: kunst ; twintigste eeuw ; Duitsland#nt: grafische kunst ; twintigste eeuw ; BRD en west Berlijn#rt: Duitsland#tc: 21.37.16,"","","",FALSE
+67671,beeldhouwkunst ; twintigste eeuw ; BRD,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: beeldhouwkunst ; twintigste eeuw ; Duitsland#nt: beeldhouwkunst ; hedendaags ; BRD#rt: Duitsland#tc: 21.57.17,"","","",FALSE
+67672,tekenkunst ; twintigste eeuw ; BDR,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: tekenkunst ; twintigste eeuw ; Duitsland#rt: Duitsland#tc: 21.27.17,"","","",FALSE
+67673,schilderkunst ; twintigste eeuw ; Japan,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Japan#bt: kunst ; twintigste eeuw ; Japan#bt: schilderkunst ; twintigste eeuw#rt: Japan#tc: 21.07.77,"","","",FALSE
+67674,schilderkunst ; twintigste eeuw ; Groot-Brittannië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: Geschiedenis van de schilderkunst ; Groot-Brittannië#bt: kunst ; twintigste eeuw ; Groot-Brittannië#bt: schilderkunst ; twintigste eeuw#rt: Groot-Brittannië#tc: 21.07.13,"","","",FALSE
+67675,schilderkunst ; twintigste eeuw ; Frankrijk,onderwerp,niet gedefinieerd,9,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Frankrijk#bt: kunst ; twintigste eeuw ; Frankrijk#bt: schilderkunst ; twintigste eeuw#rt: Frankrijk#tc: 21.07.15,"","","",FALSE
+67676,beeldhouwkunst ; twintigste eeuw ; Europa,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: beeldhouwkunst ; twintigste eeuw#bt: geschiedenis van de beeldhouwkunst ; Europa#bt: kunst ; twintigste eeuw ; Europa#nt: beeldhouwkunst ; hedendaags ; Europa#rt: Europa#tc: 21.57.05,"","","",FALSE
+67677,schilderkunst ; twintigste eeuw ; Europa,onderwerp,niet gedefinieerd,12,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Europa#bt: kunst ; twintigste eeuw ; Europa#bt: schilderkunst ; twintigste eeuw#rt: Europa#tc: 21.07.05,"","","",FALSE
+67678,schilderkunst ; negentiende eeuw ; Europa,onderwerp,niet gedefinieerd,16,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Europa#bt: schilderkunst ; negentiende eeuw#rt: Europa#tc: 21.06.05,"","","",FALSE
+67679,schilderkunst ; twintigste eeuw ; Duitsland,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; duitsland#bt: kunst ; twintigste eeuw ; Duitsland#bt: schilderkunst ; twintigste eeuw#rt: Duitsland#tc: 21.07.16,"","","",FALSE
+67680,keramiek ; Centraal Azië,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: Keramiek#rt: Azië#tc: 21.88.78,"","","",FALSE
+67681,keramiek ; Denemarken,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa ; Denemarken#rt: Denemarken#tc: 21.88.54,"","","",FALSE
+67682,keramiek ; Oost - Europa,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: Keramiek#bt: kunst van Europa#rt: Europa#tc: 21.88.40,"","","",FALSE
+67683,muziekgeschiedenis ; barok,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: barok#bt: muziek#bt: muziekwetenschap#nt: muziekgeschiedenis ; barok ; Duitsland#nt: muziekgeschiedenis ; barok ; Oostenrijk#tc: 24.54,"","","",FALSE
+67684,muziekgeschiedenis ; barok ; Duitsland,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: muziekgeschiedenis ; barok#tc: 24.54.16,"","","",FALSE
+67686,"kunst ; barok, klassicisme ; Denemarken",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: kunst ; barok, klassicisme#rt: denemarken#tc: 20.73.54","","","",FALSE
+67687,"kunst ; barok, klassicisme ; Duitsland",onderwerp,niet gedefinieerd,4,"","","","","","",,"","bt: kunst ; barok, klassicisme#rt: duitsland#tc: 20.73.16","","","",FALSE
+67688,kunst ; negentiende eeuw ; Frankrijk,onderwerp,niet gedefinieerd,5,"","","","","","",,"",bt: kunst ; negentiende eeuw#nt: grafische kunst ; negentiende eeuw ; Frankrijk#nt: schilderkunst ; negentiende eeuw ; Frankrijk#nt: tekenkunst ; negentiende eeuw ; Frankrijk#rt: Frankrijk#tc: 20.74.15,"","","",FALSE
+67689,"kunst ; barok, klassicisme ; Groot-Brittannië",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: kunst ; barok, klassicisme#nt: schilderkunst ; barok, klassicisme ; Groot-Brittannië#nt: tekenkunst ; barok, klassicisme ; Groot-Brittannië#rt: Groot-Brittannië#tc: 20.73.13","","","",FALSE
+67690,kunst ; twintigste eeuws ; Italië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; twintigste eeuw#bt: kunst van europa ; Italië#rt: Italië#tc: 20.75.33,"","","",FALSE
+67691,kunst ; negentiende eeuw ; Italië,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst ; negentiende eeuw#rt: Italië#tc: 20.74.33,"","","",FALSE
+67692,"kunst ; barok, klassicisme ; Italië",onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: kunst ; barok, klassicisme#nt: schilderkunst ; barok, klassicisme ; Italië#nt: tekenkunst ; barok, klassicisme ; Italië#rt: Italië#tc: 20.73.33","","","",FALSE
+67693,"kunst ; barok, klassicisme ; Nederland",onderwerp,niet gedefinieerd,41,"","","","","","",,"","bt: kunst ; barok, klassicisme#nt: beeldhouwkunst ; barok, klassicisme ; Nederland#nt: bouwkunst ; barok, klassicisme ; Nederland#nt: schilderkunst ; barok, klassicisme ; Nederland#nt: tekenkunst ; barok, klassicisme ;  Nederland#rt: Nederland#tc: 20.73.11","","","",FALSE
+67694,"kunst ; barok, klassicisme ; België en Luxemburg",onderwerp,niet gedefinieerd,6,"","","","","","",,"","bt: kunst ; barok, klassicisme#nt: schilderkunst ; barok, klassicisme ; België#nt: tekenkunst ; barok, klassicisme ; België en Luxemburg#rt: België#rt: Luxemburg#tc: 20.73.12#uf: kunst ; barok, klassicisme ; België","","","",FALSE
+67695,"grafische kunst ; barok, klassicisme ; Nederland",onderwerp,niet gedefinieerd,23,"","","","","","",,"","bt: geschiedenis van de grafische kunst ; Nederland#bt: grafische kunst ; barok, klassicisme#nt: prentkunst ; zeventiende eeuw ; Nederland#rt: Nederland#tc: 21.35.11","","","",FALSE
+67696,"grafische kunst ; barok, klassicisme ; Frankrijk",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: geschiedenis van de grafische kunst ; Frankrijk#bt: grafische kunst ; barok, klassicisme#rt: Frankrijk#tc: 21.35.15","","","",FALSE
+67697,grafische kunst ; negentiende eeuw ; Nederland,onderwerp,niet gedefinieerd,14,"","","","","","",,"",bt: geschiedenis van de grafische kunst ; Nederland#bt: grafische kunst ; negentiende eeuw#bt: kunst ; negentiende eeuw ; Nederland#rt: Nederland#tc: 21.36.11,"","","",FALSE
+67698,geschiedenis van de tekenkunst ; Nederland,onderwerp,niet gedefinieerd,89,"","","","","","",,"","bt: geschiedenis van de tekenkunst#bt: kunst van Europa ; Nederland#nt: tekenkunst ; barok, klassicisme ;  Nederland#nt: tekenkunst ; hedendaags ; Nederland#nt: tekenkunst ; middeleeuwen ; Nederland#nt: tekenkunst ; negentiende eeuw ; Nederland#nt: tekenkunst ; renaissance ; Nederland#nt: tekenkunst ; twintigste eeuw ; Nederland#rt: Nederland#tc: 21.22.11","","","",FALSE
+67699,"schilderkunst ; barok, klassicisme ; Europa",onderwerp,niet gedefinieerd,28,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; Europa#bt: kunst ; barok, klassicisme ; Europa#bt: schilderkunst ; barok, klassicisme#rt: Europa#tc: 21.05.05","","","",FALSE
+67700,schilderkunst ; negentiende eeuw ; Frankrijk,onderwerp,niet gedefinieerd,29,"","","","","","",,"",bt: geschiedenis van de schilderkunst ; Frankrijk#bt: kunst ; negentiende eeuw ; Frankrijk#bt: schilderkunst ; negentiende eeuw#rt: Frankrijk#tc: 21.06.15,"","","",FALSE
+67701,"schilderkunst ; barok, klassicisme ; Frankrijk",onderwerp,niet gedefinieerd,8,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; Frankrijk#bt: kunst ; barok, klassicisme ; Frankrijk#bt: schilderkunst ; barok, klassicisme#rt: Frankrijk#tc: 21.05.15","","","",FALSE
+67702,"schilderkunst ; barok, klassicisme ; België",onderwerp,niet gedefinieerd,39,"","","","","","",,"","bt: geschiedenis van de schilderkunst ; België en Luxemburg#bt: kunst ; barok, klassicisme ; België en Luxemburg#bt: schilderkunst ; barok, klassicisme#rt: België#tc: 21.05.12","","","",FALSE
+67703,videokunst ; Nederland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",bt: videokunst#sn: boeken onder BC 24.30.11,"","","",FALSE
+67705,glaskunst ; Noord-Amerika,onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+67706,glaskunst ; Europa,onderwerp,niet gedefinieerd,5,"","","","","","",,"","","","","",FALSE
+67707,kunstroof; tweede wereldoorlog; jodenvervolging,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunstroof#rt: Jodendom,rcejulian,2023-04-27,thesau>thesau,FALSE
+67710,kunst ; negentiende eeuw ; België,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: kunst ; negentiende eeuw#nt: grafische kunst ; negentiende eeuw ; België en Luxemburg#nt: schilderkunst ; negentiende eeuw ; België#rt: België#tc: 20.74.12,"","","",FALSE
+68638,Organisatie en management van musea. Incl.: PR; marketing,onderwerp,niet gedefinieerd,56,"","","","","","",,"",bt: Musea. Permanente exposities#bt: management#bt: marketing#bt: museologie#bt: organisatie#bt: public relations#et: organization and management of museums. incl.: PR; marketing#tc: 069.6,"","","",FALSE
+68744,"scheikunde ; onderwijs, beroepsuitoefening, organisaties",onderwerp,niet gedefinieerd,21,"","","","","","",,"",bt: Chemie#bt: onderwijs#bt: organisaties#tc: 35.04,"","","",FALSE
+68745,scheikunde ; algemeen,onderwerp,niet gedefinieerd,3,"","","","","","",,"",bt: Chemie#tc: 35.00,"","","",FALSE
+68805,kunstnijverheid ; zeventiende eeuw ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+68806,schilderkunst ; zeventiende eeuw ; Nederland,onderwerp,niet gedefinieerd,45,"","","","","","",,"","bt: schilderkunst ; barok, klassicisme ; Nederland","","","",FALSE
+68807,beeldhouwkunst ; zeventiende eeuw ; Nederland,onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: beeldhouwkunst ; barok, klassicisme ; Nederland","","","",FALSE
+68808,prentkunst ; zeventiende eeuw ; Nederland,onderwerp,niet gedefinieerd,3,"","","","","","",,"","bt: grafische kunst ; barok, klassicisme ; Nederland","","","",FALSE
+68809,tekenkunst : zeventiende eeuw ; Nederland,onderwerp,niet gedefinieerd,7,"","","","","","",,"",bt: tekenkunst,"","","",FALSE
+68829,porselein ;  België,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: Porselein#bt: keramiek ; België en Luxemburg#rt: België,"","","",FALSE
+68830,faience ; België,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: faience#rt: België,"","","",FALSE
+68854,"onderwijs, beroepsuitoefening, organisaties (kunst) ; Duitsland",onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: onderwijs, beroepsuitoefening, organisaties (kunst)#nt: onderwijs, beroepsuitoefening, organisaties (kunst) ; DDR#tc: 20.04.16","","","",FALSE
+68860,iconografie ; literatuur,onderwerp,niet gedefinieerd,1,"","","","","","",,"",nt: iconografie ; literatuur ; Nederland#rt: iconografie ; klassieke mythologie#tc: 20.28,RCEAdmin,2020-01-10,thesau,FALSE
+68863,"kunst ; barok, klassicisme",onderwerp,niet gedefinieerd,45,"","","","","","",,"","bt: Laat-Renaissance. Classicisme en de romantiek. Historicisme. Eclecticisme#bt: periodes in de kunstgeschiedenis#bt: stijlen#nt: barok#nt: beeldhouwkunst ; barok, klassicisme#nt: bouwkunst ; barok, klassicisme#nt: grafische kunst ; barok, klassicisme#nt: klassicisme#nt: kunst ; barok, klassicisme ; België en Luxemburg#nt: kunst ; barok, klassicisme ; Denemarken#nt: kunst ; barok, klassicisme ; Duitsland#nt: kunst ; barok, klassicisme ; Europa#nt: kunst ; barok, klassicisme ; Frankrijk#nt: kunst ; barok, klassicisme ; Groot-Brittannië#nt: kunst ; barok, klassicisme ; Italië#nt: kunst ; barok, klassicisme ; Nederland#nt: schilderkunst ; barok, klassicisme#nt: tekenkunst ; barok, klassicisme#rt: rococo#tc: 20.73#uf: barok, klassicisme","","","",FALSE
+68864,kunst ; twintigste eeuw ; italië,onderwerp,niet gedefinieerd,3,"","","","","","",,"",nt: schilderkunst ; twintigste eeuw ; Italië#nt: grafische kunst ; twintigste eeuw ; Italië,"","","",FALSE
+68868,kunst van europa ; frankrijk,onderwerp,niet gedefinieerd,3,"","","","","","",,"",nt: binnenhuiskunst ; Frankrijk#nt: decoratieve kunst ; Frankrijk#nt: geschiedenis van de beeldhouwkunst ; Frankrijk#nt: geschiedenis van de bouwkunst ; Frankrijk#nt: geschiedenis van de grafische kunst ; Frankrijk#nt: geschiedenis van de schilderkunst ; Frankrijk#nt: geschiedenis van de tekenkunst ; Frankrijk#nt: keramiek ; Frankrijk#nt: textielkunst ; Frankrijk#rt: Frankrijk#tc: 20.70.15,RCEAdmin,2020-01-10,thesau,FALSE
+68869,geschiedenis van de schilderkunst ; Duitsland,onderwerp,niet gedefinieerd,6,"","","","","","",,"",nt: schilderkunst ; hedendaags ; Duitsland#nt: schilderkunst ; middeleeuwen ; Duitsland#nt: schilderkunst ; negentiende eeuw ; Duitsland#nt: schilderkunst ; renaissance ; Duitsland#nt: schilderkunst ; twintigste eeuw ; Duitsland#rt: duitsland#tc: 21.02.16,"","","",FALSE
+68870,geschiedenis van de schilderkunst ; Italië,onderwerp,niet gedefinieerd,29,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van europa ; Italië#nt: schilderkunst ; barok, klassicisme ; Italië#nt: schilderkunst ; hedendaags ; Italië#nt: schilderkunst ; middeleeuwen ; Italië#nt: schilderkunst ; renaissance ; Italië#nt: schilderkunst ; twintigste eeuw ; Italië#rt: Italië#tc: 21.02.33","","","",FALSE
+68871,geschiedenis van de schilderkunst ; Verenigde Staten,onderwerp,niet gedefinieerd,4,"","","","","","",,"",bt: geschiedenis van de schilderkunst#bt: kunst van Amerika#nt: schilderkunst ; negentiende eeuw ; Verenigde Staten#nt: schilderkunst ; twintigste eeuw ; Verenigde Staten#rt: Verenigde Staten#tc: 21.02.62,"","","",FALSE
+68874,Geschiedenis van de schilderkunst ; Groot-Brittannië,onderwerp,niet gedefinieerd,6,"","","","","","",,"","bt: geschiedenis van de schilderkunst#bt: kunst van Europa ; Groot-Brittannië#nt: schilderkunst ; barok, klassicisme ; Groot-Brittannië#nt: schilderkunst ; hedendaags ; Groot-Brittannië#nt: schilderkunst ; negentiende eeuw ; Groot-Brittannië#nt: schilderkunst ; twintigste eeuw ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.02.13","","","",FALSE
+68877,geschiedenis van de tekenkunst ; België en Luxemburg,onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: geschiedenis van de tekenkunst#bt: kunst van Europa ; België en Luxemburg#nt: tekenkunst ; barok, klassicisme ; België en Luxemburg#nt: tekenkunst ; hedendaags ; België#rt: België#rt: Luxemburg#tc: 21.22.12","","","",FALSE
+68879,geschiedenis van de tekenkunst ; Groot-Brittannie͏̈,onderwerp,kandidaat,1,"","","","","","",,"","bt: geschiedenis van de tekenkunst#bt: kunst van Europa ; Groot-Brittannië#nt: tekenkunst ; barok, klassicisme ; Groot-Brittannië#nt: tekenkunst ; negentiende eeuw ; Groot-Brittannië#rt: Groot-Brittannië#tc: 21.22.16",RCEAdmin,2020-01-10,thesau,FALSE
+68885,tekenkunst ; middeleeuwen,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de tekenkunst#bt: kunst ; middeleeuwen#nt: tekenkunst ; middeleeuwen ; Nederland#tc: 21.23,"","","",FALSE
+68886,geschiedenis van de grafische kunst ; Frankrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"","bt: geschiedenis van de grafische kunst#bt: kunst van europa ; frankrijk#nt: grafische kunst ; barok, klassicisme ; Frankrijk#nt: grafische kunst ; hedendaags ; Frankrijk#nt: grafische kunst ; negentiende eeuw ; Frankrijk#nt: grafische kunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 21.32.15",RCEAdmin,2020-01-10,thesau,FALSE
+68888,geschiedenis van de grafische kunst ; België en Luxemburg,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de grafische kunst#bt: kunst van Europa ; België en Luxemburg#nt: grafische kunst ; hedendaags ; België#nt: grafische kunst ; negentiende eeuw ; België en Luxemburg#nt: grafische kunst ; twintigste eeuw ; België en Luxemburg#rt: België#rt: Luxemburg#tc: 21.32.12,RCEAdmin,2020-01-10,thesau,FALSE
+68891,geschiedenis van de beeldhouwkunst ; Europa,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van Europa#nt: beeldhouwkunst ; hedendaags ; Europa#nt: beeldhouwkunst ; negentiende eeuw ; Zuid- en Zuidoost-Europa#nt: beeldhouwkunst ; twintigste eeuw ; Europa#rt: Europa#tc: 21.52.05,"","","",FALSE
+68893,geschiedenis van de beeldhouwkunst ; Duitsland,onderwerp,niet gedefinieerd,2,"","","","","","",,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van Europa ; Duitsland#nt: beeldhouwkunst ; hedendaags ; Duitsland#nt: beeldhouwkunst ; twintigste eeuw ; Duitsland#rt: Duitsland#tc: 21.52.16,"","","",FALSE
+68897,geschiedenis van de bouwkunst ; Frankrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: geschiedenis van de bouwkunst#bt: kunst van europa ; frankrijk#nt: bouwkunst ; twintigste eeuw ; Frankrijk#rt: Frankrijk#tc: 21.62.15,RCEAdmin,2020-01-10,thesau,FALSE
+68901,kunst van europa ; Oostenrijk,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst van Europa#nt: decoratieve kunst ; Oostenrijk#nt: industriële vormgeving ; Oostenrijk#rt: Oostenrijk#tc: 20.70.20,RCEAdmin,2020-01-10,thesau,FALSE
+68905,kunst van Europa ; Zweden,onderwerp,niet gedefinieerd,1,"","","","","","",,"",bt: kunst van Europa#nt: glaskunst ; Zweden#nt: industriële vormgeving ; Zweden#nt: keramiek ; Zweden#rt: Zweden#tc: 20.70.52,RCEAdmin,2020-01-10,thesau,FALSE
+70213,"onderwijs, beroepsuitoefening, organisaties (kunst) ; Verenigde",onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+73716,"kunstkritiek, kunstbeschouwing ; Nederland",onderwerp,niet gedefinieerd,4,"","","","","","",,"","","","","",FALSE
+73857,keramiek ; Azi,onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+73997,Polymeren; luminisme,onderwerp,niet gedefinieerd,3,"","","","","","",,"","","","","",FALSE
+74126,glaskunst ; België en Luxemburg,onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+74568,tentoonstellingen ; België en Luxemburg,onderwerp,niet gedefinieerd,29,"","","","","","",,"","","","","",FALSE
+74583,schilderkunst ; overige,onderwerp,niet gedefinieerd,21,"","","","","","",,"","","","","",FALSE
+74907,beeldhouwkunst ; hedendaags ; Verenigde Staten,onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+74914,schilderkunst ; hedendaags ; China,onderwerp,niet gedefinieerd,1,"","","","","","",,"","","","","",FALSE
+75652,Hugo de Grootstraat; Hunerberg,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+75836,Kreupelstraat; Achter de Kamp,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+75938,Tiendweg; Hoogdijk; De Poel,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+75944,Park Mijnsheerenland; Scouting,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+76360,Noordstraat 4; Mozeskerk,geografisch trefwoord,kandidaat,2,"","","","","","",,"","","","","",FALSE
+76365,"pen in zwart, gewassen in kleuren; de toegevoegde variant: pen in zwart, gewassen in grijs",techniek,kandidaat,1,"","","","",rcepeter,collect>images,2012-03-26,"","","","","",FALSE
+77414,Sint Pieterstraat; Burgermeester Henssingel,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+77563,Snevert; De Hoep,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+77564,Bogardeind; site K,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+77565,Cocody; site F-zuid,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+78423,Waalsprong; Nijmegen-Oosterhout,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+78872,Graaf Allardsingel; Lent,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+79078,Deels Late Gotiek; deels Wederopbouw,periode,niet gedefinieerd,1,"","","","",rcenella,collect>extern,2013-04-23,"","","","","",FALSE
+79869,Wijngaardstraat 3; Bleekveld 9-15,geografisch trefwoord,kandidaat,2,"","","","","","",,"","","","","",FALSE
+80167,Paspoortstraat 2-4; Rehobothstraat 2,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+80497,Hazenstraat; Landgoed Heijbroek,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+84579,"vlakke voet met hol geprofileerde rand, overgaand in omgekeerd conische schacht; bovenaan tussen geprofileerde ringen een gedrongen omgekeerd balustervormige nodus",onderwerp,descriptor,1,"",voeten,"","","",rce.rnatoolset.net,,"","",RCEAdmin,2018-02-16,"",FALSE
+94054,Nistelrodeseweg; Ruitersweg-Oost,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+94058,Kempencampus; VLD,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+94278,Heideslag; deelgebied Koksgoed,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+94447,Bommerig; Geul,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+96741,De Weverij; Kerkhof,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+97101,Abandzi; Cormantin,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+97110,Kayeli; Buru,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+97206,Groot Constantia; Stellenberg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+97413,"""""Waddenzee; wadden""""",onderwerp,kandidaat,7,"","","","","","",,"","","","","",FALSE
+97966,tentoonstellingen ; Afrika,onderwerp,niet gedefinieerd,1,"","","","",rcecor,thesau,2016-06-03,"",bt: tentoonstellingen#rt: Afrika#tc: 20.13.80,"","","",FALSE
+98485,Ruimte voor de Lek; steenovenlocatie 5: het Hoender werk,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+98500,deelgebied A: De Sleeg 11a; deelgebied B: Galgenstede,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+98657,Driebergsestraatweg 50; Hydepark,geografisch trefwoord,kandidaat,2,"","","","","","",,"","","","","",FALSE
+98703,Ruimte voor de Lek; steenovenlocatie 1: het Oude werk,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+98711,Broersvest 99; Broersveld 128-130,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+100287,koloniale geschiedenis ; Nederland,onderwerp,kandidaat,1,"","","","","","",,"","","","","",FALSE
+100418,Smitsvest; binnenstad,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+101081,Groote Heide; sectie E; perceel 596,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+102041,Controleren; aanvullen,inschrijvingsproces,kandidaat,1,"","","","","","",,"","","","","",FALSE
+102104,kunstwetenschappen ; Nederlandse Antillen en Suriname,onderwerp,niet gedefinieerd,1,"","","","",rcecor,thesau,2019-06-06,"",bt: kunstwetenschappen#nt: Stichting voor Culturele Samenwerking (Sticusa)#rt: Nederland#rt: Nederlandse Antillen#rt: Suriname#tc: 20.00.69,rcecor,2019-06-06,thesau,FALSE
+102354,N348 Raalte-Ommen; Bouwsteen 5; Tunnel Oude Twentseweg,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+102355,N348 Raalte-Ommen; Bouwsteen 10; Dalmsholterdijk-Achterveldseweg,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+102707,geschiedenis van de beeldhouwkunst ; Italië,onderwerp,niet gedefinieerd,2,"","","","",rcecor,thesau,2020-02-25,"",bt: geschiedenis van de beeldhouwkunst#bt: kunst van europa ; Italië#nt: beeldhouwkunst ; twintigste eeuw ; Italië#rt: Italië#tc: 21.52.33,"","","",FALSE
+102799,Pomona; Mytylschool,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103425,Drachten ; Bergum,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103501,Amersfoort; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103514,Assen ; Maastricht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103554,Leipzig; Paris,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103557,s.l; z.p,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103562,Den Haag ; Leidschendam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103572,Nijmegen; Helmond,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103580,München; Bari; München,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103604,Gloucester; Oxford,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103608,London; New York,plaats,kandidaat,3,"","","","","","",,"","","","","",FALSE
+103609,München; Leipzig; Augsburg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103610,Utrecht; Gouda,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103613,Leiden ; Leeuwarden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103615,Nieuwerkerk a/d IJssel ; Zwamm,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103616,Winschoten; Groningen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103620,Assen; Haarlem,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103621,Koeln; Stuttgart; Muenchen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103622,Zwolle; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103624,Roma; Roma,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103627,Hoorn; Andijk,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103628,Koog aan de Zaan; Zaandam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103632,Groningen; Groningen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103634,Roma; Roma; London,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103635,Amsterdam; Amsterdam,plaats,kandidaat,4,"","","","","","",,"","","","","",FALSE
+103639,Zaltbommel; z.p; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103640,Vlissingen; Vlissingen; Middel,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103644,IJmuiden; Haarlem; z.p,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103647,Vlaardingen; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103649,'s-Gravenhage; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103655,Chicago; z.p,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103657,Utrecht; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103658,Amsterdam; 's-Gravenhage,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103660,Leeuwarden; Leeuwarden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103662,Amsterdam ; Meppel,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103672,S.l; Alphen a/d Rijn,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103673,Alphen aan den Rijn; Amsterdam,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103678,Washington D.C; Paris,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103681,Dover; London; Berlin,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103682,Berlin; London; New York,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103683,Stuttgart; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103688,Nijmegen; Grave,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103695,Paris; Farnborough,plaats,kandidaat,3,"","","","","","",,"","","","","",FALSE
+103698,Amsteldam; Leiden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103700,Haarlem; Haarlem,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103701,Puteaux; Paris,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103705,Tilburg; Delft,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103708,Enschede; z.p,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103712,Tielt; Bussum,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103719,Roeselare; Kortrijk,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103724,Hildesheim; Parijs,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103727,Amsterdam; Nijmegen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103729,Amerongen; Praag,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103732,Bamberg; Worms,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103733,Antwerpen; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103744,'s-Gravenhage; Leiden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103746,Prinsenbeek; S.l,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103750,Gorkum?; S.l,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103751,Naarden; Fribourg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103767,Basel; Stuttgart,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103771,Köln; Graz,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103774,Utrecht; Asten,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103777,Groningen; Delfzijl,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103783,Venlo; Geldern,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103788,Leeuwarden; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103795,De Lutte; Oldenzaal,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103796,S.l; Schiedam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103797,Groningen; Emmen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103798,Zierikzee; Zierikzee,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103801,Genhout; Beek-L,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103803,'s-Hertogenbosch; 's-Gravenhag,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103806,Zutphen; Doetinchem,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103809,New Haven; London,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103821,München; Leipzig,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103822,Milano; New York,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103824,Utrecht; Amsterdam; Brussel,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103825,Edam; Alphen aan den Rijn,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103829,The Hague; The Hague,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103837,Zeist; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103838,'s-Graaven-Haage; 's-Graaven-H,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103843,Paris; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103844,Amsterdam; Paris,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103845,Zwolle; Zwolle,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103849,Hannover; Pailzig,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103852,Utrecht; 's-Gravenhage,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103856,Waalre; Liempde,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103860,Wien; Wien,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103862,Eindhoven; Delft,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103865,Cambridge; Tokyo,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103867,New York; London,plaats,kandidaat,3,"","","","","","",,"","","","","",FALSE
+103871,Baltimore; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103875,Ootmarsum; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103880,Epe; Zutphen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103881,Amsterdam; 's-Graven Haghe,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103882,'s-Graven Haghe; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103886,Gouda; Gouda,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103887,Brielle; Barendrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103889,Utrecht; Alphen aan den Rijn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103901,Antverpiae; Lugdunum Batavorum,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103909,Leiden; Den Haag,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103918,Groningen; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103923,; Nijmegen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103924,London; Farnborough,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+103930,Zwolle; Dordrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103936,Amsterdam; s-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103946,Groningen; Alphen a/d Rijn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103952,Aachen; Mönchengladbach,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103963,Lochem; Zeist,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103964,St. Albans; Dresden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103965,Dresden; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103968,Salzburg; Ottobeuren,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103976,Amsterdam/Brussel; Muenchen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103985,Amsterdam; Roermond,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103987,Westzaan; Zaandam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103988,Muenchen; Aken,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103990,Groningen; Zeist,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103995,Aalen; Siegburg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103997,Utrecht; Nijmegen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+103999,Amsterdam; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104001,ui; Duesseldorf,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104010,Leipzig; Hannover,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104011,Hannover; Leipzig,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104013,Tielt; Weesp,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104016,Rotterdam; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104017,Oxford; Farnborough,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104018,Zierikzee; Baarn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104020,Berlin; Goettingen; Heidelberg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104025,Amerongen; Bonn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104027,S.l; Delft,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104028,Groningen; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104030,Zwolle ; Zeist,plaats,kandidaat,4,"","","","","","",,"","","","","",FALSE
+104054,Deventer; Antwerpen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104075,Leipzig; Berlin; Muenchen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104076,Utrecht; Antwerpen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104077,Nijmegen; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104081,Ljouwert; Leeuwarden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104082,Nijmegen; Maastricht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104127,Nijmegen; Weert,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104128,New York; London.,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+104131,London; New York.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104180,'s-Gravenhage; Rijswijk,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104196,"Nendeln, ; Heidelberg.",plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104214,Kassel; Frankfurt a.M.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104238,Vianen; Alphen aan den Rijn.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104306,Geneve; Parijs.,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+104309,London; Farnborough.,plaats,kandidaat,14,"","","","","","",,"","","","","",FALSE
+104334,'s-Gravenhage; Assen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104357,Rouen; Ridgewood.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104369,Berlin; Hagen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104371,Eindhoven; Zeist.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104380,'s-Gravenhage; Rotterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104388,Amsteldam; 's-Hertogenbosch.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104393,'s-Hertogenbosch; Zwolle.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104405,Londen; Farnborough.,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+104420,Leiden; Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104432,Paris; Muenchen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104435,Wijchen; Rosmalen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104446,Paris; Farnborough.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104473,Oud-Beijerland; Zierikzee.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104474,Zaltbommel; Zierikzee.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104483,Utrecht; Antwerpen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104504,Amsterdam; Haarlem.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104505,Amsterdam; Alphen aan den Rijn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104516,Berlin; Muenchen/Berlin.,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+104533,Leipzig; Walluf bei Wiesbaden.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104556,Delft; 's-Gravenhage.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104565,Amsteldam; Dordrecht.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104566,Groningen; Den Haag.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104583,Amsterdam; Brussel.,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+104593,Lugduni Batavorum; Brussel.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104617,"Franeker, ; Leeuwarden.",plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104624,Venezia; Ridgewood.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104625,Hannover; Berlijn.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104626,Hoogeveen; Assen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104627,Thorn; Maastricht.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104651,Assen; Maastricht.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104652,Berlin; Kopenhagen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104665,Amsterdam; Oudeschoot (Fr.).,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104675,Nuernberg; Hannover.,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+104688,Venetia; Ridgewood.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104704,Amstelveen; Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104707,"Philadelphia; Ann Arbor, Michi",plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104737,Strassburg; Unterschneidheim.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104738,Nijmegen ; Antwerpen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104740,Alphen aan den Rijn; Haarlem.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104747,London; Boston.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104750,Gdansnk; S.l.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104778,Amsterdam; Den Haag.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104783,Münster Westf;,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104787,Zutphen; Leeuwarden.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104801,Bonn; Habelt.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104802,Bern; Stuttgart.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104805,'s-Gravenhage; Zeist.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104814,Leipzig; Hannover.,plaats,kandidaat,3,"","","","","","",,"","","","","",FALSE
+104819,'s-Gravenhage; Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104832,Haarlem; Antwerpen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104833,Muenchen; Paris.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104834,Leipzig; Zwickau.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104836,Zaandam; Ede.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104861,New York; Oslo.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104881,Zaltbommel; Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104887,Ochten ; Ede,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104897,Amsterdam; 's-Gravenhage.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104904,Genf; Paris.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104913,Kleve; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104914,Bussum; Weesp.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104922,Utrecht; Bilzen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104936,Paris; Ridgewood.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104950,Middelburg; Alphen aan den Rij,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104951,Assen; Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104953,Schiedam; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104954,Antwerpen; Hildesheim / New Yo,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104955,Amsterdam; Antwerpen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104956,Antverpiae; Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104971,Strawberry-Hill; London.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104975,Gouda; Nieuwendijk (NB).,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+104978,S.l; Farnborough.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105008,Groningen; Assen.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105011,Hoorn; Alphen aan den Rijn.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105031,Venezia; Den Haag/Amsterdam.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105045,London; Kingsmead.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105068,Edam; Alphen aan den Rijn.,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105095,Tilburg; Schiedam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105096,Nijmegen ; Uden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105101,Zeist ; Zwolle,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105102,Nantes ; Paris,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105104,Den Ilp ; Alphen aan den Rijn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105111,Zeist ; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105115,Maarssen ; 's-Gravenhage,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105134,Eindhoven ; Antwerpen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105137,Munich ; Chicago,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105140,Amsterdam ; Zutphen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105142,'s-Hertogenbosch ; Hilversum,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105144,Assen ; Rotterdam ; Den Haag,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105146,Leeuwarden ; Sassenheim,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105149,Wormer ; IJmuiden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105151,Vianen ; Vleuten,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105152,Den Haag ; Utrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105153,Wageningen ; Kesteren,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105157,Amsterdam ; Atlanta,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105160,Bogor ; Enschede,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105161,Zwolle ; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105162,Muiden ; Zutphen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105163,Arnhem ; Zaltbommel,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105170,Nijmegen ; Wijchen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105171,Lisse ; Alphen aan den Rijn,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+105172,Zwolle ; Delden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105173,Haarlem ; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105175,Amsterdam ; Bussum,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105178,Zutphen ; Delft,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105227,Chicago ; Munich,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105246,Zellik ; Baarn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105250,Münster ; Hamburg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105253,Vianen ; Alphen aan den Rijn,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105260,Delft ; Amersfoort,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105305,Enschede ; Delden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105307,Zwolle ; Assen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105308,Wormerveer ; Oosthuizen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105309,Freiburg ; Unterengstringen,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105313,Bruxelles ; Namur,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105314,Amsterdam ; Zwolle,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105315,Otterlo ; Leiden,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105316,Den Haag ; Zeist,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105317,Stuttgart ; Freiburg,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105338,Den Haag ; Zwolle,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105367,Bern ; Berlijn ; Franfurt a. M. ; New York ; Paris ; Wien,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+105370,Leeuwarden ; Hilversum,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+106075,Köln ; Wien,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+106204,[Paris] ; Tournai,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+106228,A. hardy; P. Beaussart,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+106784,Roermond ; Maaseik,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+106900,Berlin; New York,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107009,Hamburg ; Berlin,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107033,New York ; Boston ; Dordrecht [etc.],plaats,kandidaat,3,"","","","","","",,"","","","","",FALSE
+107093,New York ; Boston ; Dordrecht,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107268,Baltimore ; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107269,Amsterdam ; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107282,Leuven ; Den Haag,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107293,London ; Boston,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107309,Austin; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107333,Haarlem; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107392,'s-Gravenhage ; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107409,New York ; Oxford,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107410,New York ; Chichester,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107415,Amsterdam ; Oxford,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107417,"Cambridge, Mass. ; London",plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107418,Hasselt ; Amsterdam [etc.],plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+107442,Oxford ; New York,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108438,Brussel ; [S.I.],plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108594,[Montreal ; New York],plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108638,New Haven ; London,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108914,Maastricht ; Venlo,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108943,Arnhem; Maassluis,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108944,Maassluis ; Arnhem,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108949,Paris; New York,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+108955,Antwerpen ; Amsterdam,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+109064,Amersfoort ; Zeist,plaats,kandidaat,4,"","","","","","",,"","","","","",FALSE
+109103,Arnhem ; Assen,plaats,kandidaat,2,"","","","","","",,"","","","","",FALSE
+109104,Hoog-Keppel ; Zelhem,plaats,kandidaat,1,"","","","","","",,"","","","","",FALSE
+109146,spooronderdoorgang Santpoort-Driehuis; Duin- en Kruiderbergweg,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+109189,Kraaierslaan; locatie H,geografisch trefwoord,kandidaat,1,"","","","","","",,"","","","","",FALSE
+109940,geschiedenis van de schilderkunst ; Denemarken,onderwerp,niet gedefinieerd,1,"","","","",rcecor,thesau>thesau,2021-09-23,"","bt: landen#bt: Europa#rt: museumwezen ; Denemarken#rt: methoden en technieken van de kunstwetenschappen ; Denemarken#rt: kunstwetenschappen ; Denemarken#rt: kunst ; barok, klassicisme ; Denemarken#rt: tentoonstellingen ; Denemarken#rt: kunst ; hedendaags ; Denemarken#rt: utilitaire bouwkunst ; Denemarken#rt: grafische kunst ; twintigste eeuw ; Denemarken#rt: kunst van Europa ; Denemarken#rt: keramiek ; Denemarken#rt: denemarken#rt: Groenland#tc: 21.02.54",rcecor#rcecor#rcecor,2021-09-23#2021-09-23#2021-09-23,thesau>thesau#thesau>thesau#thesau>thesau,FALSE

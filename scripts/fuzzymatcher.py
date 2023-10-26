@@ -3,12 +3,12 @@ import csv
 from tqdm import tqdm
 
 # Define the path to the CSV file
-csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matchingset.csv"
+csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\data\\thesaurus_onderwerp_matchingset.csv"
 
 # Define the path to the output CSV file for matches
-output_csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\thesaurus_onderwerp_matches_run2.csv"
+output_csv_file = r"C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\data\\thesaurus_onderwerp_fuzzymatches.csv"
 
-# Threshold similarity score for matches (70%)
+# Threshold similarity score for matches (85%)
 threshold = 85
 
 # List to store matching terms
@@ -42,16 +42,16 @@ progress_bar.close()
 
 # Write matching terms to the output CSV file
 with open(output_csv_file, mode="w", encoding="utf-8", newline="") as output_file:
-    fieldnames = ["Term in CSV", "Other Term in CSV", "Similarity Score"]
+    fieldnames = ["term_in_csv", "other_term", "similarity_score"]
     writer = csv.DictWriter(output_file, fieldnames=fieldnames)
     writer.writeheader()
 
     for match in matching_terms:
         term_in_csv, other_term, similarity_score = match
         writer.writerow({
-            "Term in CSV": term_in_csv,
-            "Other Term in CSV": other_term,
-            "Similarity Score": similarity_score
+            "term_in_csv": term_in_csv,
+            "other_term": other_term,
+            "similarity_score": similarity_score
         })
 
 print(f"Matching terms saved to {output_csv_file}")

@@ -26,9 +26,13 @@ thesaurus[, .N, by = term.status]
 
 zero_use <- thesaurus[use_count == 0, list(term, term.soort)]
 
-# duplicates, all removed
+fwrite(zero_use, "thesaurus_zero_use.csv")
+
+# duplicates, all removed & not zero use
 
 dups <- thesaurus[duplicated(thesaurus$term) & use_count != 0 | duplicated(thesaurus$term, fromLast = TRUE) & use_count != 0][order(term)]
+
+fwrite(dups, "thesaurus_dubbelingen.csv")
 
 # flag dups
 thesaurus[duplicated(term)| duplicated(thesaurus$term, fromLast = TRUE), dubbel := TRUE,]
@@ -42,83 +46,45 @@ geografisch <- thesaurus[use_count != 0 & dubbel == FALSE & grepl("geografisch",
 plaats <- thesaurus[use_count != 0 & dubbel == FALSE & grepl("plaats", term.soort),]
 onderwerp <- thesaurus[use_count != 0 & dubbel == FALSE & grepl("onderwerp", term.soort),]
 
-# overview of term.soort
+overig <- thesaurus[use_count != 0 & dubbel == FALSE & !grepl("onderwerp", term.soort),]
 
-soorten <- thesaurus[,  .N, list(term.soort)][order(-N)]
-
-fwrite(soorten, "thesaurus_soort.csv")
-
-summary_table <- thesaurus[, .(Total_use_count = sum(use_count)), by = .(term.soort)]
-
-fwrite(summary_table, "thesaurus_soort_usecount.csv")
-
-# unique number of term.soort per term
-
-termsoort <- thesaurus[, .(Distinct_Term_Soort_Count = uniqueN(term.soort),
-                  Concatenated_Term_Soort = paste(unique(term.soort), collapse = ", ")),
-              by = term]
+fwrite(onderwerp, "thesaurus_onderwerp.csv")
 
 # compounded terms
 compounded <- thesaurus[use_count != 0 & dubbel == FALSE & grepl(";", term), ]
+
 fwrite(ow_compounded, "thesaurus_gedeelde_termen.csv")
 
-# find similar terms
-ow_matching <- terms_ow[!grepl(";", term) & !duplicated(term), ]
+# create set to find similar terms used as "onderwerp"
+
+ow_matching <- onderwerp[, list(term) ]
+
 fwrite(ow_matching, "thesaurus_onderwerp_matchingset.csv")
 
-terms <- gedeelde$term
+# compare matched terms for onderwerp using fuzzymatcher.py
 
-#sample
+fuzzy_ow <- fread("thesaurus_onderwerp_fuzzymatches.csv", encoding = "UTF-8")
 
-textiel <- gedeelde[grepl("textiel", term),]
-pijpen <- gedeelde[grepl("pijpen", term),]
-bouw <- gedeelde[grepl("bouw", term),]
+onderwerp[term %in% fuzzy_ow$term_in_csv, .N] # 6755
 
-# import matched terms for onderwerp using fuzzymatcher.py
+25110 - onderwerp[term %in% fuzzy_ow$term_in_csv, .N]
 
-matches_ow <- fread("thesaurus_onderwerp_matches.csv", encoding = "UTF-8")
+# make openrefine set
 
-concepts <- data.frame(c(matches_ow$`Term in CSV`, matches_ow$`Other Term in CSV`))
-colnames(concepts)
-setnames(concepts, "c.matches_ow..Term.in.CSV...matches_ow..Other.Term.in.CSV..", "concept")
+"%ni%" <- Negate("%in%")
 
-setDT(concepts)
-concepts <- concepts[!duplicated(concept),]
+openrefine_ow <- onderwerp[term %ni% fuzzy_ow$term_in_csv,  ]
 
-# compare fuzzy with levenshtein output with same threshold score of 85%
+fwrite(openrefine_ow, "thesaurus_onderwerp_openrefineset.csv")
 
-fuzzy <- fread("thesaurus_onderwerp_matches.csv", encoding = "UTF-8")
+# count how many object we can already refine
 
-leven <- fread("thesaurus_onderwerp_matches_v2.csv", encoding = "UTF-8")
+openrefine_ow[, sum(use_count)]
 
-setDT(fuzzy)
+thesaurus[, sum(use_count),  ]
 
-`%!in%` = Negate(`%in%`)
+# van alle termen in het veld onderwerp kan X procent direct worden verrijkt:
 
-fuzzy[`Term in CSV` %!in% leven$`Term in CSV`, .N, by = `Term in CSV`] # 3279
-leven[`Term in CSV` %!in% fuzzy$`Term in CSV`, .N] # 0
-
-
-# = all terms we find with levenshtein are in fuzzy, but far from vice versa. 
-
-# shoot them back into ow_matching to combine matched concepts with use count
-
-ow_matching <- fread("thesaurus_onderwerp_matchingset.csv")
-setDT(ow_matching)
-ow_matching[term %in% concepts$concept, potential_matched_concept := TRUE,]
-ow_matching[is.na(potential_matched_concept), potential_matched_concept := FALSE,]
-
-ow_matching <- ow_matching[order(-use_count),]
-ow_matching[potential_matched_concept == FALSE, .N] # 16899 potential unique concepts in thesaurus 
-ow_matching[potential_matched_concept == FALSE, sum(use_count),] # 314095 objects can be potentially enriched 
-ow_matching[potential_matched_concept == TRUE, sum(use_count),] # 292582 objects cannot be potentially enriched 
-
-314095 / (314095 + 292582) # 51% of B&AC Collection objects can be potentially enriched relatively easily
-
-fwrite(ow_matching, "thesaurus_onderwerp_matchingresult.csv")
-
-
-# unieke lijst exporteren met eventuele uri's en die checken (broken?) en inhoudelijk checken
-
+openrefine_ow[, sum(use_count)] / thesaurus[grepl("onderwerp", term.soort), sum(use_count),  ] # 54,4 %
 
 
