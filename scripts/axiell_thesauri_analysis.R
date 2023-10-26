@@ -69,7 +69,7 @@ onderwerp[term %in% fuzzy_ow$term_in_csv, .N] # 6755
 
 25110 - onderwerp[term %in% fuzzy_ow$term_in_csv, .N]
 
-# make openrefine set
+# make openrefine set voor onderwerpstrefwoorden
 
 "%ni%" <- Negate("%in%")
 
@@ -83,7 +83,7 @@ openrefine_ow[, sum(use_count)]
 
 thesaurus[, sum(use_count),  ]
 
-# van alle termen in het veld onderwerp kan X procent direct worden verrijkt:
+# van alle termen in het veld onderwerp kan maximaal 54% procent direct worden verrijkt:
 
 openrefine_ow[, sum(use_count)] / thesaurus[grepl("onderwerp", term.soort), sum(use_count),  ] # 54,4 %
 
