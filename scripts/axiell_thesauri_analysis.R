@@ -26,13 +26,21 @@ thesaurus[, .N, by = term.status]
 
 zero_use <- thesaurus[use_count == 0, list(term, term.soort)]
 
-# split by soort.term
+# duplicates, all removed
 
-geografisch <- thesaurus[use_count != 0 & term.soort == "onderwerp#geografisch trefwoord"] 
-plaats <- thesaurus[use_count != 0 & term.soort == "plaats"]
-onderwerp <- thesaurus[use_count != 0 & term.soort == "onderwerp"] # grepl instead
-rechten <- thesaurus[use_count != 0 & term.soort == "rechten"]
-collectie <- thesaurus[use_count != 0 & term.soort == "collectie"]
+dups <- thesaurus[duplicated(thesaurus$term) & use_count != 0 | duplicated(thesaurus$term, fromLast = TRUE) & use_count != 0][order(term)]
+
+# flag dups
+thesaurus[duplicated(term)| duplicated(thesaurus$term, fromLast = TRUE), dubbel := TRUE,]
+thesaurus[is.na(dubbel), dubbel := FALSE, ]
+
+thesaurus[use_count !=0, .N, by = .(dubbel)]
+
+# split by soort.term if not zero use and non-duplicate
+
+geografisch <- thesaurus[use_count != 0 & dubbel == FALSE & grepl("geografisch", term.soort),]
+plaats <- thesaurus[use_count != 0 & dubbel == FALSE & grepl("plaats", term.soort),]
+onderwerp <- thesaurus[use_count != 0 & dubbel == FALSE & grepl("onderwerp", term.soort),]
 
 # overview of term.soort
 
@@ -50,29 +58,9 @@ termsoort <- thesaurus[, .(Distinct_Term_Soort_Count = uniqueN(term.soort),
                   Concatenated_Term_Soort = paste(unique(term.soort), collapse = ", ")),
               by = term]
 
-#overlap
-plaats <- thesaurus[term.soort == "geografisch trefwoord#plaats", .N, by = term][order(-N)]
-
-overlap <- plaats[term %in% geografisch$term, ]
-
-fwrite(zero_use, "thesaurus_zero_use.csv")
-
-# split ow
-
-terms_ow <- thesaurus[term.soort == "onderwerp" & use_count != 0, .N, list(term, use_count)]
-setDT(terms_ow)
-
-#duplicated
-
-dups_th <- thesaurus[duplicated(term) & use_count != 0, .N, list(term,term.soort, use_count)] # get both and N use.count
-fwrite(dups_ow, "thesaurus_dubbel.csv")
-
-dups_ow <- terms_ow[duplicated(term),]
-fwrite(dups_ow, "thesaurus_onderwerp_dubbel.csv")
-
 # compounded terms
-ow_compounded <- thesaurus[grepl(";", term), ]
-fwrite(ow_compounded, "thesaurus_onderwerp_gedeeld.csv")
+compounded <- thesaurus[use_count != 0 & dubbel == FALSE & grepl(";", term), ]
+fwrite(ow_compounded, "thesaurus_gedeelde_termen.csv")
 
 # find similar terms
 ow_matching <- terms_ow[!grepl(";", term) & !duplicated(term), ]
