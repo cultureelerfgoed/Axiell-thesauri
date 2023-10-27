@@ -26,7 +26,7 @@ thesaurus[, .N, by = term.status]
 
 zero_use <- thesaurus[use_count == 0, list(term, term.soort)]
 
-fwrite(zero_use, "thesaurus_zero_use.csv")
+fwrite(zero_use, "thesaurus_termen_ongebruikt.csv")
 
 # duplicates, all removed & not zero use
 
