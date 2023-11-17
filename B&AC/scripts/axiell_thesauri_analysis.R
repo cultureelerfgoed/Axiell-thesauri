@@ -9,7 +9,7 @@ library(doParallel)
 library(progress)
 library(textTinyR)
 
-setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\data")
+setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\B&AC\\data")
 
 # load B&AC thesaurus
 thesaurus <- fread("Thesarus-export(B&AC).csv", encoding = "UTF-8")
