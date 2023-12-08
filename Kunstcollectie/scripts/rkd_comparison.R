@@ -3,6 +3,7 @@
 library(data.table)
 library(stringi)
 library(stringr)
+library(xlsx)
 
 setwd("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\Kunstcollectie\\data")
 
@@ -28,4 +29,9 @@ vervaardigers[!is.na(rkd_id_digital_reference) & !is.na(rkd_id_reconciliation),
 vervaardigers[, .N, by = rkd_id_match] # 659 komen overeen, 199 niet
 
 vervaardigers[!is.na(rkd_id_reconciliation) & is.na(rkd_id_digital_reference), .N] # 916 nieuwe matches gevonden
+
+# wegschrijven resultaten
+
+write.xlsx(vervaardigers, "Vervaardigers-Objecten-in-eigen-beheer(KC)_resultaten.xlsx")
+fwrite(vervaardigers, "Vervaardigers-Objecten-in-eigen-beheer(KC)_resultaten.csv")
 
