@@ -17,4 +17,12 @@ data[, Term_clean := gsub("\\", " ", Term_clean, fixed = TRUE),]
 
 df <- data[!is.na(data$Term_clean) & data$Term_clean != "", ]
 
-write.csv(df, "C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\Termen_KC_clean.csv", fileEncoding = "UTF-8", row.names = FALSE))
+write.csv(df, "C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\Termen_KC_clean.csv", fileEncoding = "UTF-8", row.names = FALSE)
+
+# load and clean ER results (niet meer nodig)
+
+locs <- fread("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\updated_Termen_KC_clean.csv")
+
+df2 <- data.frame(lapply(locs, function(x) gsub('"', '', x)))
+
+writexl::write_xlsx(df2, "C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\updated_Termen_KC_clean.xlsx")
