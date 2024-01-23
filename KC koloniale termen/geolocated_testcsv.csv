@@ -1,5 +1,5 @@
-OriginalIndex,﻿Term_clean,IsInsideEurope,NERConfidence
-1,Amsterdam,Inside Europe,0.0
-2,Congo,Outside Europe,0.0
-3,Chili,,
-4,koffiekan,,
+OriginalIndex;﻿Term_clean;IsInsideEurope
+1;Amsterdam;Inside Europe
+2;Congo;Outside Europe
+3;Chili;
+4;koffiekan;
