@@ -15,7 +15,7 @@ def process_csv(csv_file_path, geo_column_index):
         headers = lines[0].strip().split(',')
 
         # Create a new CSV file to store the updated information
-        updated_file_path = os.path.join(os.path.dirname(csv_file_path), 'updated_' + os.path.basename(csv_file_path))
+        updated_file_path = os.path.join(os.path.dirname(csv_file_path), 'geolocated_' + os.path.basename(csv_file_path))
         with open(updated_file_path, 'w', newline='') as updated_file:
             writer = csv.writer(updated_file)
 
