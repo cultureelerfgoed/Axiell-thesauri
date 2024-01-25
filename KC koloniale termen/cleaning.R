@@ -26,3 +26,13 @@ locs <- fread("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC kolonia
 df2 <- data.frame(lapply(locs, function(x) gsub('"', '', x)))
 
 writexl::write_xlsx(df2, "C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\updated_Termen_KC_clean.xlsx")
+
+# check overlap between recon and geolocated
+
+recon <- xlsx::read.xlsx("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\Termen-KC-reconciled.xlsx", sheetName = "Blad1")
+
+geol <- xlsx::read.xlsx("C:\\Users\\Ruben\\Documents\\05. RCE\\Axiell thesauri\\KC koloniale termen\\geolocated_Termen_KC_buitenEuropa.xlsx", sheetName = "Blad1")
+
+
+
+
